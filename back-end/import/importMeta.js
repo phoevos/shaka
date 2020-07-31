@@ -3,8 +3,7 @@ const fastcsv = require('fast-csv')
 const mongoose = require('mongoose')
 const {Meta} = require('../models/meta')
 
-let url = 'mongodb://localhost:27017/cord19'
-let stream = fs.createReadStream('metadata.csv')
+const url = 'mongodb://localhost:27017/cord19'
 
 function extractData (id, data, metaData) {
     const objID = mongoose.Types.ObjectId.createFromHexString(('000000000000000000000000' + id).substr(-24))
@@ -21,6 +20,8 @@ function extractData (id, data, metaData) {
 function parseRows () {
     let metaData = []
     let id = 1
+    console.log('Parsing CSV...')
+    let stream = fs.createReadStream('./import/metadata.csv')
 
     let csvStream = fastcsv
         .parse({ delimiter: ',', skipLines:1})
@@ -34,8 +35,13 @@ function parseRows () {
         .on("end", () => {
             Meta.insertMany(metaData, (err, res) => {
                 if (err) console.log(err.message)
-                else console.log('Metadata saved successfully.')
-                process.exit()
+                else {
+                    console.log('Creating text index...')
+                    mongoose.connection.collection('Meta').createIndex({title: 'text', abstract: 'text'}, () => {
+                        console.log('Metadata saved successfully.')
+                        process.exit()
+                    })
+                } 
             })
         })
     
@@ -45,12 +51,12 @@ function parseRows () {
 
 mongoose.connect(url, {
     useNewUrlParser: true,
-    useUnifiedTopology: true
-}).then(async () => {
-    console.log("Successfully connected to the database.")
-    await Meta.deleteMany({})
-    console.log("Parsing CSV...")
-    parseRows()    
+    useUnifiedTopology: true,
+    useCreateIndex: true,
+    useFindAndModify: false
+}).then(() => {
+    console.log("Successfully connected to the database. \nDropping Meta collection if it already exists...")
+    mongoose.connection.collection('Meta').drop(parseRows)
 }).catch(err => {
     console.log('Could not connect to the database. Exiting now...', err)
     process.exit()

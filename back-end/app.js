@@ -3,7 +3,7 @@ const bodyParser = require('body-parser')
 const cors = require('cors')
 
 // create express app
-const app = express();
+const app = express()
 
 // enable cors
 app.use(cors())
@@ -11,6 +11,6 @@ app.use(cors())
 // parse application/json
 app.use(bodyParser.json())
 
-// require('./routes/')(app)
+require('./routes/textRoutes')(app)
 
 module.exports = app

@@ -1,6 +1,6 @@
 const mongoose = require('mongoose')
 
-const Meta = mongoose.model('Meta', new mongoose.Schema({
+let meta = new mongoose.Schema({
     title: {
         type: String
     },
@@ -17,6 +17,10 @@ const Meta = mongoose.model('Meta', new mongoose.Schema({
         type: mongoose.Types.ObjectId,
         ref: 'Text'
     }
-}), 'Meta')
+})
+
+meta.index({title: 'text', abstract: 'text'})
+
+const Meta = mongoose.model('Meta', meta, 'Meta')
 
 exports.Meta = Meta

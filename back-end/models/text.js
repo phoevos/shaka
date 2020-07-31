@@ -1,9 +1,13 @@
 const mongoose = require('mongoose')
 
-const Text = mongoose.model('Text', new mongoose.Schema({
+let text = new mongoose.Schema({
     text: {
         type: String
     }
-}), 'Text')
+})
+
+text.index({text: 'text'})
+
+const Text = mongoose.model('Text', text, 'Text')
 
 exports.Text = Text
