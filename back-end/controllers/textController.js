@@ -15,3 +15,12 @@ async function getTexts (req, res) {
 }
 
 exports.getTexts = getTexts
+
+async function getTextBody (req, res) {
+
+  let result = await Text.findById(req.params.text, {__v: 0})
+    
+  res.send(result)
+}
+
+exports.getTextBody = getTextBody
