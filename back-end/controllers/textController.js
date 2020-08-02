@@ -7,9 +7,8 @@ async function getTexts (req, res) {
           {
             $search: req.params.drug
           }
-      }, {score: {$meta: "textScore"}, _id: 0, __v: 0})
+      }, {score: {$meta: "textScore"}, __v: 0})
       .sort({ score: { $meta: "textScore" } })
-      .populate('text_id', 'text')
       
     res.send(result)
 }
@@ -17,8 +16,8 @@ async function getTexts (req, res) {
 exports.getTexts = getTexts
 
 async function getTextBody (req, res) {
-
-  let result = await Text.findById(req.params.text, {__v: 0})
+  let result = await Meta.findOne({text_id: req.params.text}, {_id: 0, __v: 0})
+    .populate('text_id', 'text')
     
   res.send(result)
 }
