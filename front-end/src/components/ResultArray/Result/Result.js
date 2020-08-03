@@ -3,13 +3,16 @@ import './Result.css'
 
 const result = (props) => {
 
-    let abstract = <div className="Abstract">{props.abstract}</div>
-    
+    let text = (props.textAvailable) ? <h1>CLICK TO READ THE ARTICLE.</h1>
+                                        : <h1 style={{color: "red"}}>FULL ARTICLE IS NOT AVAILABLE.</h1>
+    if(props.full) text = ""
     return(
         <article className="Article" >
-            <h1>{props.title}</h1>
+            <h2>{props.title}</h2>
             <div className="Author">{props.authors}</div>
-            {abstract}
+            <div className="Abstract">{props.abstract}</div>
+            <br></br>
+            {text}
             <div className="Date">{props.publish_time}</div>
         </article>
     )

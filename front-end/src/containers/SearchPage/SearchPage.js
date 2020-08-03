@@ -8,7 +8,9 @@ class SearchPage extends Component {
     state = {
         results: [],
         selectedTextId: null,
-        drug: ""
+        drug: "",
+        lastSearch: "",
+        page: 1
     }
 
     componentDidMount() {
@@ -23,19 +25,43 @@ class SearchPage extends Component {
         this.setState({drug: e.target.value})
     }
 
-    searchDrugHandler = (e) => {
-        axios.get('/' + this.state.drug)
+    searchDrugHandler = () => {
+        const drug = this.state.drug
+        const page = this.state.page
+        axios.get('/' + drug + '/' + page)
             .then(res => {
-                this.setState({ results: res.data })
+                this.setState({ results: res.data, lastSearch: drug})
             })
             .catch(err => {
                 console.log(err.message)
             })
     }
 
-    render () {        
+    // rightHandler = () => {
+    //     let page = this.state.page
+    //     page++
+    //     this.setState({page: page})
+    //     this.searchDrugHandler()
+    // }
+
+    // leftHandler = () => {
+    //     let page = this.state.page
+    //     if(page > 1) page--
+    //     this.setState({page: page})
+    //     this.searchDrugHandler()
+    // }
+
+    render () {      
+        // let pages = null
+        // if(this.state.lastSearch) {
+        //     pages = <div className= 'btn-group'>
+        //                 <button type='submit' onClick={this.leftHandler}>-</button>
+        //                 <button>{this.state.page}</button>
+        //                 <button type='submit' onClick={this.rightHandler}>+</button>
+        //             </div> 
+        // }
         return (
-            <Aux>
+            <Aux>                
                 <div >
                     <form onSubmit={e => e.preventDefault()}>
                     <input 
@@ -51,9 +77,10 @@ class SearchPage extends Component {
                         onClick={this.searchDrugHandler.bind(this)}>
                         Search
                     </button>
-                    </form>
+                    </form>                   
                 </div>
-                <ResultArray articles={this.state.results} selected={this.selectedTextHandler}/> 
+                <ResultArray articles={this.state.results} selected={this.selectedTextHandler} searchedFor={this.state.lastSearch}/> 
+
             </Aux>
         )
     }

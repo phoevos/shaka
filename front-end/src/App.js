@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'
 import {BrowserRouter} from 'react-router-dom'
 import {Route} from 'react-router-dom'
 import Layout from './components/Layout/Layout'
@@ -10,11 +10,12 @@ function App() {
     <BrowserRouter>
         <Layout>
           <Route path='/' exact component={SearchPage} />
-          <Route path='/article/:id' exact component={FullText} />
+          <Route path='/:drug' exact component={SearchPage} />
+          <Route path='/article/:drug/:id' exact component={FullText} />
         </Layout>
     </BrowserRouter>
     
   );
 }
 
-export default App;
+export default App

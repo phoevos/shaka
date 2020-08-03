@@ -1,5 +1,6 @@
 import React, {Component} from 'react'
 import axios from '../../axios'
+import Result from '../../components/ResultArray/Result/Result'
 
 class FullText extends Component {
     state = {
@@ -10,15 +11,14 @@ class FullText extends Component {
     }
 
     componentDidMount() {
-        console.log(this.props.match);
-        axios.get('/text' + this.props.match.id)
+        axios.get('/text/' + this.props.match.params.id)
         .then(res => {
             console.log(res.data)
             this.setState({ 
                 title: res.data.title,
                 publish_time: res.data.publish_time,
                 authors: res.data.authors,
-                text: res.data.text_id.text 
+                text: res.data.text 
             })
         })
         .catch(err => {
@@ -33,9 +33,17 @@ class FullText extends Component {
     render() {
         return (
             <div>
-                <div>{this.state.text}</div>
-                <button onClick={this.backHandler}>X</button> 
+                <button className='Button' onClick={this.backHandler}>Return to search page</button> 
+                <div className='Results'>
+                    <Result title={this.state.title} 
+                            authors={this.state.authors} 
+                            abstract={this.state.text} 
+                            publish_time={this.state.publish_time}
+                            full={true}
+                    />
+                </div>
             </div>
+            
         )
     }
 }
