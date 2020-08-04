@@ -1,8 +1,11 @@
 import React, {Component} from 'react'
+import axios from '../../axios'
 import Aux from '../../hoc/Auxiliary'
 import ResultArray from '../../components/ResultArray/ResultArray'
-import axios from '../../axios'
+import Result from '../../components/ResultArray/Result/Result'
+import { Bar } from 'react-chartjs-2'
 import './SearchPage.css'
+import cov from '../../assets/CORD-19_3.svg'
 
 class SearchPage extends Component {
     state = {
@@ -10,11 +13,23 @@ class SearchPage extends Component {
         selectedTextId: null,
         drug: "",
         lastSearch: "",
-        page: 1
+        page: 1,
+        tab: 0,
+        year: 2020,
+        month: false,
+        listOpen: false
     }
 
     componentDidMount() {
-        
+        // const drug = this.state.drug
+        // const page = this.state.page
+        // axios.get('/' + drug + '/' + page)
+        // .then(res => {
+        //     this.setState({ results: res.data, lastSearch: drug})
+        // })
+        // .catch(err => {
+        //     console.log(err.message)
+        // })
     }
 
     selectedTextHandler = (id) => {
@@ -27,39 +42,240 @@ class SearchPage extends Component {
 
     searchDrugHandler = () => {
         const drug = this.state.drug
-        const page = this.state.page
+        const page = 1
         axios.get('/' + drug + '/' + page)
             .then(res => {
-                this.setState({ results: res.data, lastSearch: drug})
+                this.setState({ results: res.data, lastSearch: drug, page: page, tab: 1 })
             })
             .catch(err => {
                 console.log(err.message)
             })
     }
 
-    // rightHandler = () => {
-    //     let page = this.state.page
-    //     page++
-    //     this.setState({page: page})
-    //     this.searchDrugHandler()
-    // }
+    toggleHandler = () => {
+        const drug = this.state.drug
+        const tab = this.state.tab
+        const page = this.state.page
+        let path = '/'
+        let newTab = 0
+        if (tab === 1) {
+            newTab = 2
+            path += 'chart/' + drug
+        }
+        else if (tab === 2) {
+            newTab = 1
+            path += drug + '/' + page
+        } 
+        axios.get(path)   
+            .then(res => {
+                this.setState({results: res.data, tab: newTab})
+            })
+            .catch(err => {
+                console.log(err.message)
+            })
+    }
 
-    // leftHandler = () => {
-    //     let page = this.state.page
-    //     if(page > 1) page--
-    //     this.setState({page: page})
-    //     this.searchDrugHandler()
-    // }
+    monthYearHandler = () => {
+        const month = this.state.month
+        this.setState({month: !month})
+    }
 
-    render () {      
-        // let pages = null
-        // if(this.state.lastSearch) {
-        //     pages = <div className= 'btn-group'>
-        //                 <button type='submit' onClick={this.leftHandler}>-</button>
-        //                 <button>{this.state.page}</button>
-        //                 <button type='submit' onClick={this.rightHandler}>+</button>
-        //             </div> 
-        // }
+    toggleList = () => {
+        this.setState(prevState => ({
+            listOpen: !prevState.listOpen
+        }))
+    }
+
+    changeYearHandler = (i) => {
+        this.setState({year: i, listOpen: false})
+    }
+
+    rightHandler = () => {
+        const drug = this.state.drug
+        let page = this.state.page
+        page = page + 1
+        console.log(this.state);
+        axios.get('/' + drug + '/' + page)
+            .then(res => {
+                this.setState({ results: res.data, lastSearch: drug, page: page })
+            })
+            .catch(err => {
+                console.log(err.message)
+            })
+    }
+
+    leftHandler = () => {
+        const drug = this.state.drug
+        let page = this.state.page
+        if(page > 1) {
+            page = page - 1
+            console.log(this.state);
+            axios.get('/' + drug + '/' + page)
+                .then(res => {
+                    this.setState({ results: res.data, lastSearch: drug, page: page })
+                })
+                .catch(err => {
+                    console.log(err.message)
+                })
+        }
+    }
+
+    render () {
+        let output = null
+        switch(this.state.tab){
+            case 0:
+                output = <img src={cov} alt='covid'/>
+                break;
+            case 1:
+                output = <div>
+                            <button className='Button' type='submit' onClick={this.toggleHandler}> Click to view chart</button>
+                            <br></br>
+                            <button type='submit' onClick={this.leftHandler}>-</button>
+                            <button>{this.state.page}</button>
+                            <button type='submit' onClick={this.rightHandler}>+</button>
+                            <ResultArray 
+                                articles={this.state.results} 
+                                selected={this.selectedTextHandler} 
+                                searchedFor={this.state.lastSearch}/> 
+                        </div>
+                break;
+            case 2:
+                if(!this.state.month){
+                    const transformed = this.state.results.reduce((arr, el) => {
+                        const year = el._id.split('-')[0]
+                        arr[2020-year] += el.count
+                        return arr
+                    }, [...Array(70).fill(0)])
+                    let xAxis = []
+                    let yAxis = []
+                    transformed.forEach((e,i) => {
+                        if(e > 0) {
+                            xAxis.push(2020-i)
+                            yAxis.push(e)
+                        }
+                    })
+    
+                    const config = {
+                        labels: xAxis,
+                        datasets: [
+                            {
+                                label: 'Publications per year',
+                                backgroundColor: 'rgba(51, 51, 51, 1)',
+                                borderColor: 'rgba(51, 51, 51, 1)',
+                                borderWidth: 1,
+                                hoverBackgroundColor: 'rgb(151, 216, 207, 1)',
+                                hoverBorderColor: 'rgb(151, 216, 207, 1)',
+                                data: yAxis
+                            }
+                        ]
+                    };
+                    const chart =
+                        <Bar
+                            data={config}
+                            width={100}
+                            height={500}
+                            options={{
+                                maintainAspectRatio: false,
+                                scales: {
+                                    yAxes: [{
+                                        ticks: {
+                                            beginAtZero: true
+                                        }
+                                    }]
+                                }
+                            }}
+                        />
+                                    
+                    output = (  <div>
+                                    <button className='Button' type='submit' onClick={this.toggleHandler}> Click to view articles</button>
+                                    <button className='Button' type='submit' onClick={this.monthYearHandler}> Show by month</button>
+                                    <div className='Results'>
+                                        <Result abstract={chart} full={true}></Result> 
+                                    </div>
+                                </div>)
+                }
+                else {
+                    const extract = this.state.results.reduce((arr, el) => {
+                        const year = el._id.split('-')[0]
+                        arr[2020-year] += el.count
+                        return arr
+                    }, [...Array(70).fill(0)])
+                    let years = []
+                    extract.forEach((e,i) => {
+                        if(e > 0) {
+                            years.push(2020-i)
+                        }
+                    })
+                    const transformed = this.state.results.reduce((arr, el) => {
+                        const splits = el._id.split('-', 2)
+                        if(splits[0] == this.state.year) {
+                            if(splits[1]) arr[parseInt(splits[1]) - 1] += el.count
+                        }
+                        return arr
+                    }, [...Array(12).fill(0)])
+                    let xAxis = []
+                    let yAxis = []
+                    transformed.forEach((e,i) => {
+                        if(e > 0) {
+                            xAxis.push(i+1)
+                            yAxis.push(e)
+                        }
+                    })
+    
+                    const config = {
+                        labels: xAxis,
+                        datasets: [
+                            {
+                                label: 'Publications per month (' + this.state.year + ')',
+                                backgroundColor: 'rgba(51, 51, 51, 1)',
+                                borderColor: 'rgba(51, 51, 51, 1)',
+                                borderWidth: 1,
+                                hoverBackgroundColor: 'rgb(151, 216, 207, 1)',
+                                hoverBorderColor: 'rgb(151, 216, 207, 1)',
+                                data: yAxis
+                            }
+                        ]
+                    };
+                    const chart =
+                        <Bar
+                            data={config}
+                            width={100}
+                            height={500}
+                            options={{
+                                maintainAspectRatio: false,
+                                scales: {
+                                    yAxes: [{
+                                        ticks: {
+                                            beginAtZero: true
+                                        }
+                                    }]
+                                }
+                            }}
+                        />
+                                    
+                    output = (  <div>
+                                    <button className='Button' type='submit' onClick={this.toggleHandler}> Click to view articles</button>
+                                    <button className='Button' type='submit' onClick={this.monthYearHandler}> Show by year</button>
+                                    
+                                    <div className="dropdown">
+                                        <button className="dropbtn" onClick={() => this.toggleList()} >{this.state.year}</button>
+                                        <div className="dropdown-content">
+                                        {years.map((i) => (
+                                                <div key={i} onClick={()=>this.changeYearHandler(i)}>{i}</div>
+                                                ))}
+                                        </div>
+                                    </div>
+                                    <div className='Results'>
+                                        <Result abstract={chart} full={true}></Result> 
+                                    </div>
+                                </div>)
+                }
+                
+                break;
+            default:
+                output = <div>Well, something must have gone terribly wrong.</div>
+        }
+        
         return (
             <Aux>                
                 <div >
@@ -79,8 +295,7 @@ class SearchPage extends Component {
                     </button>
                     </form>                   
                 </div>
-                <ResultArray articles={this.state.results} selected={this.selectedTextHandler} searchedFor={this.state.lastSearch}/> 
-
+                {output}
             </Aux>
         )
     }

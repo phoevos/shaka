@@ -1,8 +1,10 @@
 .Content {
     text-align: center;
-    height: 50px;
+    height: 70px;
 }
 
 .Main {
     text-align: center;
+    height: 100%;
+    background-color: linen;
 }
