@@ -1,0 +1,458 @@
+{
+    "paper_id": "b53a018b9197784e71f58afe6dfd4596ed18ca33",
+    "metadata": {
+        "title": "European Journal of Case Reports in Internal Medicine European Journal of Case Reports in Internal Medicine \u00a9 EFIM 2020 Rapid Radiological Worsening and Cytokine Storm Syndrome in COVID-19 Pneumonia",
+        "authors": [
+            {
+                "first": "Yvon",
+                "middle": [],
+                "last": "Ruch",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Strasbourg University Hospital",
+                    "location": {
+                        "settlement": "Strasbourg",
+                        "country": "France"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Charlotte",
+                "middle": [],
+                "last": "Kaeuffer",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Strasbourg University Hospital",
+                    "location": {
+                        "settlement": "Strasbourg",
+                        "country": "France"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Aur\u00e9lien",
+                "middle": [],
+                "last": "Guffroy",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Nicolas",
+                "middle": [],
+                "last": "Lefebvre",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Strasbourg University Hospital",
+                    "location": {
+                        "settlement": "Strasbourg",
+                        "country": "France"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Yves",
+                "middle": [],
+                "last": "Hansmann",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Strasbourg University Hospital",
+                    "location": {
+                        "settlement": "Strasbourg",
+                        "country": "France"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Fran\u00e7ois",
+                "middle": [],
+                "last": "Danion",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Strasbourg University Hospital",
+                    "location": {
+                        "settlement": "Strasbourg",
+                        "country": "France"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Background: In June 2020, a large randomised controlled clinical trial in the UK found that dexamethasone was effective in reducing the number of deaths in patients with severe coronavirus disease 2019 (COVID-19). Case description: We describe a patient with rapid worsening of COVID-19 pneumonia and its dramatic improvement under corticosteroids. Discussion: Corticosteroids could be useful in patients with an inflammatory profile, considering that acute respiratory distress syndrome may be the consequence of cytokine storm syndrome.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "\u2022 One of the main pathophysiological hypotheses for severe COVID-19 pneumonia is inappropriate immunological hyperactivation.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "LEARNING POINTS"
+        },
+        {
+            "text": "\u2022 Corticosteroid therapy may be useful in these patients.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "LEARNING POINTS"
+        },
+        {
+            "text": "COVID-19, coronavirus, cytokine storm syndrome, computed tomography, corticosteroids CASE DESCRIPTION In March 2020, a 48-year-old man with a history of diabetes and former smoking presented with a 5-day history of fever and abdominal pain. He also reported diarrhoea, fatigue and dry cough. A thoracic computed tomography (CT) scan revealed minimal ground-glass opacity affecting <10% of the total pulmonary parenchyma. This was consistent with symptoms of coronavirus disease 2019 (COVID-19) which was confirmed by a nasopharyngeal swab. Arterial blood gas was normal; the patient was discharged. Ten days later, the patient presented with persistent cough, fever and shortness of breath. He was febrile and tachypnoeic at 25 breaths per minute. His oxygen saturation was 88% on ambient air and lung auscultation revealed bilateral crackles. A thoracic CT scan showed significant bilateral ground-glass opacities affecting 25-50% of the total pulmonary parenchyma, associated with alveolar condensations (Fig. 1A) . Laboratory findings revealed elevated C-reactive protein (263 mg/l), a normal neutrophil count with mild lymphopenia (740/\u00b5l) and increased ferritin (1,970 \u00b5g/l). Supplemental oxygen was started at 6 l/min and arterial blood gas analysis revealed PaO 2 95 mmHg, PaCO 2 34 mmHg and pH 7\u00b748. Treatment with intravenous amoxicillin and clavulanic acid was initiated. The patient exhibited an elevated level of D-dimer (6,600 \u00b5g/l) and thoracic CT angiography was conducted 6 hours after the previous CT scan. There was a dramatic increase in opacities but no evidence of pulmonary embolism (Fig. 1B) . Due to the rapid worsening of the patient's condition, he was hospitalised in an intermediate care unit and intravenous dexamethasone was started at 20 mg per day, for 5 days. His condition improved in a few hours with a decrease in oxygen requirements. He remained afebrile after corticosteroid initiation. Bacterial blood and sputum culture remained sterile. On day 7, a thoracic CT scan showed a significant decrease in the lesions previously seen (Fig. 1C) . The patient was discharged the following day. ",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 1006,
+                    "end": 1015,
+                    "text": "(Fig. 1A)",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 1605,
+                    "end": 1614,
+                    "text": "(Fig. 1B)",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 2068,
+                    "end": 2077,
+                    "text": "(Fig. 1C)",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "KEYWORDS"
+        },
+        {
+            "text": "Our patient experienced rapid worsening of COVID-19 pneumonia after 2 weeks of evolution, with a dramatic increase in thoracic CT lesions within hours. This, associated with high levels of inflammatory markers and prompt improvement after corticosteroid initiation, underlines the hypothesis of cytokine storm syndrome. This syndrome is characterised by increased levels of pro-inflammatory cytokines, such as tumour necrosis factor-\u03b1 or several interleukins, resulting in immunological hyperactivation and worsening of lung damage [1, 2] . Other antiinflammatory agents or targeted therapies, such as tocilizumab, have demonstrated a potentially positive impact in these situations [3, 4] . In a recent study, Wu et al. reported a reduced risk of death in patients with acute respiratory failure receiving methylprednisolone [5] . In June 2020, the investigators of the RECOVERY (Randomised Evaluation of COVid-19 thERapY) trial, which enrolled over 11,500 patients in the UK, reported a reduction in death of up to one-third in hospitalised patients with severe respiratory complications of COVID-19 treated with dexamethasone [6] . Pending publication of the results of the RECOVERY trial, caution is advised and further studies are urgently needed to define the best therapeutic strategy in these patients.",
+            "cite_spans": [
+                {
+                    "start": 532,
+                    "end": 535,
+                    "text": "[1,",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 536,
+                    "end": 538,
+                    "text": "2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 683,
+                    "end": 686,
+                    "text": "[3,",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 687,
+                    "end": 689,
+                    "text": "4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 826,
+                    "end": 829,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 1129,
+                    "end": 1132,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "COVID-19: consider cytokine storm syndromes and immunosuppression",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Mehta",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Mcauley",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Brown",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Sanchez",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Tattersall",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Manson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "1033--1034",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "On the alert for cytokine storm: immunopathology in COVID-19",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Henderson",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Canna",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Schulert",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Volpi",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kernan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Arthritis Rheum",
+            "volume": "72",
+            "issn": "7",
+            "pages": "1059--1063",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Impact of low-dose tocilizumab on mortality rate in patients with COVID-19 related pneumonia",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Capra",
+                    "suffix": ""
+                },
+                {
+                    "first": "De",
+                    "middle": [],
+                    "last": "Rossi",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Mattioli",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Romanelli",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Scarpazza",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Sormani",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Eur J Intern Med",
+            "volume": "76",
+            "issn": "",
+            "pages": "31--35",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Tocilizumab for the treatment of severe COVID-19 pneumonia with hyperinflammatory syndrome and acute respiratory failure: a single center",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Toniati",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Piva",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Cattalini",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Garrafa",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Regola",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Castelli",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Autoimmun Rev",
+            "volume": "19",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Risk factors associated with acute respiratory distress syndrome and death in patients with coronavirus disease 2019 pneumonia in Wuhan, China",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Cai",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Xia",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "JAMA Intern Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jamainternmed.2020.0994"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Low-cost dexamethasone reduces death by up to one third in hospitalised patients with severe respiratory complications of COVID-19",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "16",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Thoracic CT images of a 48-year-old man with COVID-19 pneumonia. (A) Axial CT images at admission showed significant bilateral ground glass opacities with alveolar condensations; (B) 6 hours later, CT images revealed a marked increase in lesions; (C) CT images on day 7, after 5 days of corticosteroid use, showed a significant decrease in lesions",
+            "latex": null,
+            "type": "figure"
+        }
+    },
+    "back_matter": []
+}

@@ -1,0 +1,725 @@
+{
+    "paper_id": "PMC7262144",
+    "metadata": {
+        "title": "Virological and clinical cure in COVID\u201019 patients treated with hydroxychloroquine: A systematic review and meta\u2010analysis",
+        "authors": [
+            {
+                "first": "Phulen",
+                "middle": [],
+                "last": "Sarma",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Hardeep",
+                "middle": [],
+                "last": "Kaur",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Harish",
+                "middle": [],
+                "last": "Kumar",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Dhruv",
+                "middle": [],
+                "last": "Mahendru",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Pramod",
+                "middle": [],
+                "last": "Avti",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Anusuya",
+                "middle": [],
+                "last": "Bhattacharyya",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Manisha",
+                "middle": [],
+                "last": "Prajapat",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Nishant",
+                "middle": [],
+                "last": "Shekhar",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Subodh",
+                "middle": [],
+                "last": "Kumar",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Rahul",
+                "middle": [],
+                "last": "Singh",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Ashutosh",
+                "middle": [],
+                "last": "Singh",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Deba",
+                "middle": [
+                    "Prasad"
+                ],
+                "last": "Dhibar",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Ajay",
+                "middle": [],
+                "last": "Prakash",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Bikash",
+                "middle": [],
+                "last": "Medhi",
+                "suffix": "",
+                "email": "drbikashus@yahoo.com",
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [
+        {
+            "text": "Coronavirus disease 2019 (COVID\u201019) has been declared a global pandemic by WHO.\n1\n, \n2\n However, we have limited therapeutic options.\n2\n, \n3\n With the rising toll of infected populations and rising number of deaths, the preferential global concern is the development of safe and effective therapeutics against COVID\u201019. Although lopinavir/ritonavir was initially a first\u2010line agent in the management of the disease, a study conducted by Cao et al\n4\n compared lopinavir\u2010ritonavir with the standard of care and no benefit was observed in the primary endpoint.",
+            "cite_spans": [],
+            "section": "INTRODUCTION",
+            "ref_spans": []
+        },
+        {
+            "text": "However, at the same time chloroquine (CQ) emerged as a potent inhibitor of severe acute respiratory syndrome\u2010coronavirus\u20102 (SARS\u2010CoV\u20102) in vitro.\n5\n In SARS\u2010CoV\u20102 infected Vero\u2010E6 cell lines, low\u2010micro molar concentration of CQ inhibited virus infection (EC50 = 1.13 \u03bcM) with high selectivity index (SI > 88.50).\n5\n CQ increases endosomal pH and also alters glycosylation of angiotensin\u2010converting enzyme 2 receptors, thus altering the pathogenesis in vitro.\n6\n, \n7\n, \n8\n Besides, CQ also has immunomodulatory activity\n5\n and enhances the activity of regulatory T cells.\n9\n Beneficial effect of CQ came to light in recent clinical studies also. In a randomized clinical trial, CQ (n = 10 patients) performed better than lopinavir\u2010ritonavir (n = 12) combination\n10\n any may represent an effective and in\u2010expensive option. However, CQ is one of the major treatment options against malaria and overuse may lead to resistance. Again the toxicity profile of CQ is also a major concern.\n11\n\n",
+            "cite_spans": [],
+            "section": "INTRODUCTION",
+            "ref_spans": []
+        },
+        {
+            "text": "Hydroxychloroquine (HCQ), being a less toxic derivative, came to the limelight soon.\n12\n One group found CQ to be more potent than HCQ,\n12\n however, another research group found HCQ to be more potent.\n13\n In the study by Yao et al,\n13\n the EC50 to inhibit the virus in SARS\u2010CoV infected Vero cells was 0.72 \u00b5M\n13\n and using a physiologically based pharmacokinetic modelling model, they established that this concentration can be attained by a loading dose of HCQ 400 mg BD on the first day, followed by 200 mg BD for SARS\u2010CoV\u20102.\n13\n Following these findings many clinical trial started worldwide, comparing HCQ to other treatment regimes, however, until now the results of only seven studies are reported. In this regard, we have conducted the first systematic review and meta\u2010analysis to evaluate the efficacy and safety of HCQ in clinical settings.",
+            "cite_spans": [],
+            "section": "INTRODUCTION",
+            "ref_spans": []
+        },
+        {
+            "text": "Setting: In the systematic review part of the study, we included case series, single\u2010group prospective observational/interventional studies, other observational study designs and randomized controlled trials (RCTs). However, in the meta\u2010analysis part of the study, only comparative clinical studies (both prospective and retrospective observational studies) and RCTs were included.",
+            "cite_spans": [],
+            "section": "Criteria for including studies in this review ::: MATERIALS AND METHODS",
+            "ref_spans": []
+        },
+        {
+            "text": "Participants: Patients with lab\u2010confirmed COVOID\u201019 of any age were included.",
+            "cite_spans": [],
+            "section": "Criteria for including studies in this review ::: MATERIALS AND METHODS",
+            "ref_spans": []
+        },
+        {
+            "text": "Intervention: Hydroxychloroquine.",
+            "cite_spans": [],
+            "section": "Criteria for including studies in this review ::: MATERIALS AND METHODS",
+            "ref_spans": []
+        },
+        {
+            "text": "Control: Standard/conventional therapy.",
+            "cite_spans": [],
+            "section": "Criteria for including studies in this review ::: MATERIALS AND METHODS",
+            "ref_spans": []
+        },
+        {
+            "text": "Objectives:\n1.Clinical cure (time to body temperature normalization and time to cough relief).2.Virological cure on day 6 to 7 postinitiation of therapy.3.Death or clinical worsening of disease condition during treatment.4.Radiological progression during drug treatment.5.Recurrence of infection during treatment.6.Safety and tolerability of HCQ.\n",
+            "cite_spans": [],
+            "section": "Criteria for including studies in this review ::: MATERIALS AND METHODS",
+            "ref_spans": []
+        },
+        {
+            "text": "Comparisons:\nA.HCQ vs conventional therapy/control.B.HCQ in combination of other agents vs conventional therapy/control.\n",
+            "cite_spans": [],
+            "section": "Criteria for including studies in this review ::: MATERIALS AND METHODS",
+            "ref_spans": []
+        },
+        {
+            "text": "Definitions:\n1.Clinical recovery:Time to clinical recovery is calculated in terms of time to normalization of body temperature and total no of cough days.\n16\n The clinical cure parameters are important as one of the patient, who became polymerase chain reaction (PCR) negative following therapy, still died of the disease in the study by Gautret et al\n17\n and another in India.\n18\n\n2.Virological cure: Nondetection of SARS\u2010CoV\u20102 in nasopharyngeal swab.\n17\n\n3.Recurrence of infection: Defined as swab becoming negative for SARS\u2010CoV\u20102, which is again becoming positive after some days.\n17\n\n\n",
+            "cite_spans": [],
+            "section": "Criteria for including studies in this review ::: MATERIALS AND METHODS",
+            "ref_spans": []
+        },
+        {
+            "text": "Search strategy:",
+            "cite_spans": [],
+            "section": "Criteria for including studies in this review ::: MATERIALS AND METHODS",
+            "ref_spans": []
+        },
+        {
+            "text": "Electronic searches: We searched a total of 16 literature databases (Pubmed, CINAHL, SCOPUS, OVID, Wiley online library, Web of Science, Cochrane CENTRAL, Embase, medRxiv and bioRxiv, Trip Database, Nature, Epistemonikos, Science Direct, Virtual Health Library; Pan American Health Organization, CNKI, and http://mediterranee-infection.com/pre\u2010prints\u2010ihu) from the date of genesis to the 8th April 2020. Reference list of all identified articles was screened to find out more relevant articles. There were no language restrictions. The search keywords included 2019\u2010nCoV, 2019 novel coronavirus, COVID\u201019, coronavirus disease 2019, chloroquine, hydroxychloroquine, Plaquenil, hydroxychloroquine sulfate, and hydroxychloroquine sulfate. Details of the search strategy of each of the databases are represented in Table S1.",
+            "cite_spans": [],
+            "section": "Criteria for including studies in this review ::: MATERIALS AND METHODS",
+            "ref_spans": []
+        },
+        {
+            "text": "Data extraction was done separately by two authors (PS and HRDK) using pretested data extraction forms following the template provided by the Cochrane data extraction form. In articles published in a language other than English, Google translate was used to identify relevant data.",
+            "cite_spans": [],
+            "section": "Data extraction ::: Selection of studies ::: MATERIALS AND METHODS",
+            "ref_spans": []
+        },
+        {
+            "text": "For RCTs, we used the Cochrane risk of bias tool for randomized controlled studies.\n14\n In the case of nonrandomized interventional studies, we used ROBINS\u2010I tool.\n19\n In the case of observational studies, Newcastle Ottawa Scale was used.\n20\n Three investigators (DM, HRDK, and PS) separately evaluated the possibility of bias using these tools. Publication bias was not evaluated by funnel plot as there was only three studies which were included in the meta\u2010analysis part of the study.\n21\n\n",
+            "cite_spans": [],
+            "section": "Risk of bias evaluation of included studies ::: Selection of studies ::: MATERIALS AND METHODS",
+            "ref_spans": []
+        },
+        {
+            "text": "As all the data were dichotomous data, we used either odds ratio (OR) or risk ratio (RR) as appropriate for estimating the point estimate along with 95% confidence interval (CI). In the absence of significant clinical heterogeneity, we have performed the meta\u2010analysis using the Mantel Hazel method or inverse variance method for dichotomous data and continuous data respectively. When statistical heterogeneity was low to moderate, we used a fixed\u2010effect model for pooling of data otherwise, the random\u2010effects model was applied.\n14\n\n",
+            "cite_spans": [],
+            "section": "Statistical analysis ::: Assessment of heterogeneity ::: MATERIALS AND METHODS",
+            "ref_spans": []
+        },
+        {
+            "text": "We used Cochrane risk of bias tool for RCTs for evaluation of risk of bias in case of two RCTS.\n16\n, \n25\n Data showed in Figure S1. Risk of bias assessment of the study by Gautret et al\n24\n was done by using ROBINS\u2010I scale\n19\n and it was ranked as low, moderate, serious, or critical risk of bias\n27\n (Data shown in Table S2). The study by Molina et al,\n26\n Chorin at al,\n22\n the second study of Gautret et al,\n24\n and Million et al\n23\n were single\u2010group studies. Details of risk of bias analysis of these studies are showed in Table S3.",
+            "cite_spans": [],
+            "section": "Risk of bias of the included studies ::: RESULT",
+            "ref_spans": []
+        },
+        {
+            "text": "As there is a huge criticism\n28\n about the first study on HCQ by Gautret et al,\n17\n and the high risk of bias of the study, we conducted a sensitivity analysis and conducted the same set of analysis as mentioned above by removing the study data of Gautret et al\n17\n from the analysis. However, irrespective of removal of the study, the study conclusions did not change in terms of virological cure on day 6 to 7 postinitiation of therapy, death or clinical worsening of disease/progression to severe disease, the radiological progression of lung disease during treatment and safety. The details of the sensitivity analysis are illustrated in Figure S2 to S4. After removing the first study by Gautret et al,\n17\n also, in meta\u2010analysis part of the study, a benefit was seen only in terms of radiological progression of lung disease during treatment with comparable safety to the control/conventional treatment.",
+            "cite_spans": [],
+            "section": "Sensitivity analysis ::: Comparison 1: HCQ vs control/conventional/standard therapy ::: RESULT",
+            "ref_spans": []
+        },
+        {
+            "text": "A total of four studies evaluated efficacy of HCQ + Azi\n17\n, \n23\n, \n24\n, \n26\n and five studies\n17\n, \n22\n, \n24\n, \n26\n evaluated safety of the combination. Among these two studies were by Gautret et al\n17\n and the population of patients in the first study was also part of the second study.",
+            "cite_spans": [],
+            "section": "Comparision 2: HCQ along in combination with other agents vs control/standard therapy ::: RESULT",
+            "ref_spans": []
+        },
+        {
+            "text": "Coming to the efficacy of the combination in patients with COVID\u201019, in the first study by Gautret et al,\n17\n the use of HCQ + Azi (n = 6) combination resulted in 100% virological cure, compared with 57.1% virological cure in the HCQ alone arm (n = 14) and 12.5% virological cure in the control arm (n = 16). However detailed safety data is not available for the same. In the second single arm study by the same authors with a higher sample size (n = 80 COVID\u201019 cases), a virological cure was seen in 83% of patients on day 7 and in 93% of patients on day 8. At the time of publishing the study report, 65 patients were discharged from the hospital with a mean length of hospital stay of 4.6 days.\n24\n In another report by the same group (n = 1061), the virological cure was seen in 91.7% of participants by day 10 and poor outcome was seen in only 4.3% patients with a mortality rate of 0.47%.\n23\n On the other hand, another published single\u2010group prospective study,\n26\n which evaluated the efficacy of the same combination at the same dose did not find significant efficacy of the combination in terms of virological cure (8 out of 10 positive for the virus at 5\u20106 days after therapy). Among the 11 patients enrolled, one patient died, two needed ICU. However, the patient population was of severe COVID\u201019 with significant comorbidities present in eight cases out of 11.",
+            "cite_spans": [],
+            "section": "Comparision 2: HCQ along in combination with other agents vs control/standard therapy ::: RESULT",
+            "ref_spans": []
+        },
+        {
+            "text": "Coming to the safety profile of the combination, In the second study by Gautret et al,\n24\n the reported adverse effects of the combination treatment were nausea and vomiting (2.5%), diarrhea (5%), and blurring of vision (1.2%). In the study by Million et al,\n23\n none of the participants showed sign of cardiac toxicity.\n23\n In the study by Molina et al,\n26\n a single patient showed persistent QT prolongation and the medications had to be withdrawn. Chorin et al,\n22\n found that among 84 patients they recruited, in 30% of patients, QTc prolonged by more than 40 milliseconds and 11% of patients showed QTc of more than 500 milliseconds. In multivariate analysis, they found that development of acute renal failure was a more stringent predictor of extreme QTc prolongation.\n22\n\n",
+            "cite_spans": [],
+            "section": "Comparision 2: HCQ along in combination with other agents vs control/standard therapy ::: RESULT",
+            "ref_spans": []
+        },
+        {
+            "text": "While comparing HCQ vs control/conventional treatment, two studies reported clinical cure parameters. The importance of clinical cure parameters can be highlighted by the fact that in the study by Gautret et al,\n17\n one patient died despite having a virological cure. In our study, in terms of clinical cure parameters, two studies reported that time to body temperature normalization was less in the HCQ arm compared with the control/conventional treatment/standard treatment arm. On the other hand, total cough days were also lower in the HCQ treated arm compared with the control/conventional treatment/standard treatment arm. The benefit was also seen in terms of radiological progression (two studies) with less number of patients showing radiological progression in the HCQ arm compared with the control/conventional treatment/standard treatment arm (OR for radiological progression of disease during treatment with OR, 0.31; 95% CI, [0.11\u20100.9]). On the other hand, no difference was found in terms of virological cure on day 6 to 7 (two studies), death or clinical worsening of disease condition (three studies). However, limited sample size and nondefining the treatment of control group/standard treatment/conventional treatment are major limitations. Coming to safety, there was no difference seen between the conventional/standard treatment/control arm and the HCQ arm.",
+            "cite_spans": [],
+            "section": "DISCUSSION",
+            "ref_spans": []
+        },
+        {
+            "text": "Regarding recurrence of the disease during therapy, in the study by Gautret et al,\n17\n one patient had a recurrence of the disease (being PCR negative initially, followed by a return of PCR positivity, while still on treatment with HCQ and Azi).\n17\n So, the development of resistance to the drugs during therapy may be a possibility, which we need to be monitored closely.",
+            "cite_spans": [],
+            "section": "DISCUSSION",
+            "ref_spans": []
+        },
+        {
+            "text": "As the study by Gautret et al,\n17\n showed a high risk of bias, we conducted a sensitivity analysis and reanalyzed the same endpoints while excluding the data of Gautret et al.\n17\n However, the final conclusions remained the same despite the exclusion of the study. Details of the sensitivity analysis can be found in Figure S2 to S4.",
+            "cite_spans": [],
+            "section": "DISCUSSION",
+            "ref_spans": []
+        },
+        {
+            "text": "To address the issue of combining HCQ with other drugs, the two studies by Gautret et al,\n17\n, \n24\n and another study by the same group\n23\n showed benefit in terms of efficacy of a combination of HCQ + Azi in COVID\u201019. In the first study,\n17\n treatment with the combination resulted in 100% virological cure on day 6 post inclusion in the combination arm (n = 6), compared with 57.1% virological cure in the HCQ alone arm (n = 14) and 12.5% virological cure in the control arm (n = 16). In the second study also,\n24\n they found virological clearance (total sample size = 80) in 83% of patients on day 7. Treatment with HCQ resulted in a shorter duration of hospital stay.\n24\n However the six patients in the first study were also included in the second study. In the third study by the same group,\n23\n virological cure was seen among 91.7% of the patients on day 10 with a very low mortality rate (0.47%). On the contrary, Molina et al,\n26\n failed to replicate the findings of the obtained by Gautret et al.\n17\n However, in the study by Molina et al,\n26\n the patient population also had significant comorbidities (cancer, HIV, and obesity) and the patient population included belonged to severe COVID\u201019 category. We need further controlled studies for an effective conclusion.",
+            "cite_spans": [],
+            "section": "DISCUSSION",
+            "ref_spans": []
+        },
+        {
+            "text": "Coming to safety issues of the combination, mild adverse events were reported by Gautret et al, 2020 which included nausea, vomiting, diarrhea and blurring of vision.\n24\n In the study by Molina et al, 2020 a single patient showed electrocardiographic evidence of QT prolongation.\n26\n Chorin et al, 2020 found that around 11% of the population on the combination therapy showed evidence of significant QTc prolongation (> 500 ms) and development of acute renal failure was an important predictor of extreme QTc prolongation.\n22\n\n",
+            "cite_spans": [],
+            "section": "DISCUSSION",
+            "ref_spans": []
+        },
+        {
+            "text": "The key limitations of our study were a limited number of clinical studies with a limited number of participants and three studies being reported from the same group.",
+            "cite_spans": [],
+            "section": "DISCUSSION",
+            "ref_spans": []
+        },
+        {
+            "text": "Another major limitation was the lack of control/conventional/standard group. In case of Jun et al,\n25\n the control group was treated with conventional treatment. However, it is unknown what was basically given to treat the control arm. Many of the blogs claim that the control arm was treated with Kelatra (lopinavir\u2010ritonavir combination) and arbidol. All the patients in both the arms were also treated with interferon\u2010alpha.\n29\n But the authenticity of this blog is unknown though. In the study by Gautret et al,\n17\n patients who met exclusion criteria or who are not given hydroxychloroquine were treated as controls. However, how these controls were treated is unknown. In the study by Chen Z et al, 2020 also, details of treatment of the control/conventional treatment group is not available.\n16\n\n",
+            "cite_spans": [],
+            "section": "DISCUSSION",
+            "ref_spans": []
+        },
+        {
+            "text": "Another concern is the return of PCR positivity in a patient who was turned PCR negative by treatment with HCQ + Azi. This highlights the possibility of occurrence of resistance to this regime. However this needs further validation.",
+            "cite_spans": [],
+            "section": "DISCUSSION",
+            "ref_spans": []
+        },
+        {
+            "text": "Treatment with HCQ may result in a benefit in terms of less number of cases showing radiological progression, with comparable adverse events profile when compared to control/conventional/standard treatment. We can expect benefit in terms of time to body temperature normalization and a number of cough days. However, at this current point of time, no difference was seen in terms of virological cure on day six to seven postinitiation of therapy and composite death or worsening of disease. The benefit of the HCQ + Azi treatment is uncertain at this current point of time with most of the data being reported by the same research group. We need more clinical studies to come to a definite conclusion.",
+            "cite_spans": [],
+            "section": "CONCLUSION",
+            "ref_spans": []
+        },
+        {
+            "text": "All the authors declared that there are no conflict of interests.",
+            "cite_spans": [],
+            "section": "CONFLICT OF INTERESTS",
+            "ref_spans": []
+        },
+        {
+            "text": "PS helped in developing the concept; PS, HRDK, MP, NS, SK, RS, AS, DPD, and BM assisted in protocol making; PS, HRDK, and DM conducted database search; HRDK and HK did the title abstract screen; PS, HRDK, HK, MP, NS, and SK helped in screening the full\u2010text; PS, PA, DPD, AP, and BM handled the discrepancy management; PS and HRDK conducted the data extraction; PS, HRDK, and BM did the data analysis; PS, HRDK, DM, and MP helped in ROB; PA, AB, MP, NS, SK, RS, AS, DPD, and AP wrote the manuscript; and all the authors gave the final approval for the article.",
+            "cite_spans": [],
+            "section": "AUTHOR CONTRIBUTIONS",
+            "ref_spans": []
+        }
+    ],
+    "ref_entries": {
+        "TABREF0": {
+            "text": "Table 1: Details of included studies\n",
+            "type": "table"
+        },
+        "FIGREF0": {
+            "text": "Figure 1: PRISMA flow chart of the included studies. PRISMA, Preferred Reporting Items for Systematic reviews and Meta\u2010Analysis",
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Figure 2: Virological cure (HCQ vs control/conventional treatment). CI, confidendence of interval; df, degrees of freedom; HCQ, hydroxychloroquine",
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Figure 3: Composite endpoint of death or clinical worsening of disease/progression to severe disease (HCQ vs control/conventional treatment). CI, confidendence of interval; HCQ, hydroxychloroquine; ICU, intensive care unit",
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Figure 4: Number of cases showing evidence of radiological progression during therapy (HCQ vs control/conventional treatment). CI, confidendence of interval; HCQ, hydroxychloroquine",
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "Figure 5: Safety issues (HCQ vs control/conventional treatment). CI, confidendence of interval; HCQ, hydroxychloroquine",
+            "type": "figure"
+        }
+    },
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Coronavirus Disease (COVID\u201019) \u2010 events as they happen",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF1": {
+            "title": "In\u2010silico homology assisted identification of inhibitor of RNA binding against 2019\u2010nCoV N\u2010protein (N terminal domain)",
+            "authors": [],
+            "year": 2020,
+            "venue": "J Biomol Struct Dyn",
+            "volume": "0",
+            "issn": "ja",
+            "pages": "1-11",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/07391102.2020.1753580"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "Therapeutic options for the treatment of 2019\u2010novel coronavirus: an evidence\u2010based approach",
+            "authors": [],
+            "year": 2020,
+            "venue": "Indian J Pharmacol",
+            "volume": "52",
+            "issn": "1",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.4103/ijp.IJP_119_20"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "A trial of lopinavir\u2013ritonavir in adults hospitalized with severe Covid\u201019",
+            "authors": [],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "0",
+            "issn": "0",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa2001282"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019\u2010nCoV) in vitro",
+            "authors": [],
+            "year": 2020,
+            "venue": "Cell Res",
+            "volume": "30",
+            "issn": "",
+            "pages": "269-271",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41422-020-0282-0"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "Drug targets for corona virus: a systematic review",
+            "authors": [],
+            "year": 2020,
+            "venue": "Indian J Pharmacol",
+            "volume": "52",
+            "issn": "1",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.4103/ijp.IJP_115_20"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "title": "Chloroquine is a potent inhibitor of SARS coronavirus infection and spread",
+            "authors": [],
+            "year": 2005,
+            "venue": "Virol J",
+            "volume": "2",
+            "issn": "1",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1743-422X-2-69"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "title": "Of chloroquine and COVID\u201019",
+            "authors": [],
+            "year": 2020,
+            "venue": "Antiviral Res",
+            "volume": "177",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.antiviral.2020.104762"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "title": "Chloroquine treatment enhances regulatory t cells and reduces the severity of experimental autoimmune encephalomyelitis",
+            "authors": [],
+            "year": 2013,
+            "venue": "PLoS One",
+            "volume": "8",
+            "issn": "6",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0065913"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "Treating COVID\u201019 with chloroquine",
+            "authors": [],
+            "year": 2020,
+            "venue": "J Mol Cell Biol",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1093/jmcb/mjaa014"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "Review of side effects and toxicity of chloroquine",
+            "authors": [],
+            "year": 1979,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF11": {
+            "title": "Hydroxychloroquine, a less toxic derivative of chloroquine, is effective in inhibiting SARS\u2010CoV\u20102 infection in vitro",
+            "authors": [],
+            "year": 2020,
+            "venue": "Cell Discov",
+            "volume": "6",
+            "issn": "1",
+            "pages": "1-4",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41421-020-0156-0"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "title": "In vitro antiviral activity and projection of optimized dosing design of hydroxychloroquine for the treatment of severe acute respiratory syndrome coronavirus 2 (SARS\u2010CoV\u20102)",
+            "authors": [],
+            "year": 2020,
+            "venue": "Clin Infect Dis",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1093/cid/ciaa237"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "Cochrane Handbook for Systematic Reviews of Interventions. /handbook",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF14": {
+            "title": "PRISMA",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF15": {
+            "title": "Efficacy of hydroxychloroquine in patients with COVID\u201019: results of a randomized clinical trial",
+            "authors": [],
+            "year": 2020,
+            "venue": "MedRxiv",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2020.03.22.20040758"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "title": "Hydroxychloroquine and azithromycin as a treatment of COVID\u201019: results of an open\u2010label non\u2010randomized clinical trial",
+            "authors": [],
+            "year": 2020,
+            "venue": "Int J Antimicrob Agents",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ijantimicag.2020.105949"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "title": "Italian tourist, who had recovered from COVID\u201019, dies in Jaipur hospital from cardiac arrest",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF18": {
+            "title": "ROBINS\u2010I: a tool for assessing risk of bias in non\u2010randomised studies of interventions",
+            "authors": [],
+            "year": 2016,
+            "venue": "BMJ",
+            "volume": "355",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1136/bmj.i4919"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF20": {
+            "title": "Risperidone for children and adolescents with autism spectrum disorder: a systematic review",
+            "authors": [],
+            "year": 2018,
+            "venue": "Neuropsychiatr Dis Treat",
+            "volume": "14",
+            "issn": "",
+            "pages": "1811-1820",
+            "other_ids": {
+                "DOI": [
+                    "10.2147/NDT.S151802"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "title": "The QT interval in patients with SARS\u2010CoV\u20102 Infection treated with hydroxychloroquine/azithromycin",
+            "authors": [],
+            "year": 2020,
+            "venue": "medRxiv",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2020.04.02.20047050"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "title": "Early treatment of 1061 COVID\u201019 patients with hydroxychloroquine and azithromycin, Marseille, France",
+            "authors": [],
+            "year": 2020,
+            "venue": "Mediterr\u2010Infect",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF23": {
+            "title": "Clinical and microbiological effect of a combination of hydroxychloroquine and azithromycin in 80 COVID\u201019 patients with at least a six\u2010day follow up: an observational study",
+            "authors": [],
+            "year": 2020,
+            "venue": "Mediterr\u2010Infect",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF24": {
+            "title": "A pilot study of hydroxychloroquine in treatment of patients with common coronavirus disease\u201019 (COVID\u201019)",
+            "authors": [],
+            "year": 2020,
+            "venue": "J Zhejiang Univ Med Sci",
+            "volume": "49",
+            "issn": "1",
+            "pages": "0-0",
+            "other_ids": {
+                "DOI": [
+                    "10.3785/j.issn.1008-9292.2020.03.03"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "title": "No evidence of rapid antiviral clearance or clinical benefit with the combination of hydroxychloroquine and azithromycin in patients with severe COVID\u201019 infection",
+            "authors": [],
+            "year": 2020,
+            "venue": "M\u00e9decine Mal Infect",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.medmal.2020.03.006"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "title": "A systematic review showed more consideration is needed when conducting nonrandomized studies of interventions",
+            "authors": [],
+            "year": 2020,
+            "venue": "J Clin Epidemiol",
+            "volume": "117",
+            "issn": "",
+            "pages": "99-108",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jclinepi.2019.09.027"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "title": "Hydroxychloroquine\u2010COVID\u201019 study did not meet publishing society's \u201cexpected standard.\u201d Retraction Watch\n",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF28": {
+            "title": "Did chloroquine really fail a COVID\u201019 study\u2014or was the trial design to blame? FiercePharma",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        }
+    }
+}

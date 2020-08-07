@@ -1,0 +1,4316 @@
+{
+    "paper_id": "20e66469604468201ab7d42a74fc0c5efd96a7c9",
+    "metadata": {
+        "title": "",
+        "authors": [
+            {
+                "first": "Enrico",
+                "middle": [],
+                "last": "Ragni",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "IRCCS Istituto Ortopedico Galeazzi",
+                    "location": {
+                        "settlement": "Milan",
+                        "country": "Italy"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Laura",
+                "middle": [],
+                "last": "Mangiavini",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "IRCCS Istituto Ortopedico Galeazzi",
+                    "location": {
+                        "settlement": "Milan",
+                        "country": "Italy"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Marco",
+                "middle": [],
+                "last": "Vigan\u00f2",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "IRCCS Istituto Ortopedico Galeazzi",
+                    "location": {
+                        "settlement": "Milan",
+                        "country": "Italy"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Anna",
+                "middle": [
+                    "Teresa"
+                ],
+                "last": "Brini",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "IRCCS Istituto Ortopedico Galeazzi",
+                    "location": {
+                        "settlement": "Milan",
+                        "country": "Italy"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Giuseppe",
+                "middle": [
+                    "Michele"
+                ],
+                "last": "Peretti",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "IRCCS Istituto Ortopedico Galeazzi",
+                    "location": {
+                        "settlement": "Milan",
+                        "country": "Italy"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Giuseppe",
+                "middle": [],
+                "last": "Banfi",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "IRCCS Istituto Ortopedico Galeazzi",
+                    "location": {
+                        "settlement": "Milan",
+                        "country": "Italy"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Laura",
+                "middle": [],
+                "last": "De Girolamo",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "IRCCS Istituto Ortopedico Galeazzi",
+                    "location": {
+                        "settlement": "Milan",
+                        "country": "Italy"
+                    }
+                },
+                "email": "laura.degirolamo@grupposandonato.it"
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "The pandemic spread of the new COVID-19 coronavirus infection in China first, and all over the world at present, has become a global health emergency due to the rapidly increasing number of affected patients. Currently, a clear relationship between COVID-19 infection incidence and/or complications due to chronic or occasional treatments for other pathologies is still not clear, albeit COVID-19 pandemic may condition the treatment strategy of complex",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "This article is protected by copyright. All rights reserved disorders, as osteoarthritis (OA). Importantly, OA is the most common age-related joint disease affecting more than 80% of people older than the age of 55, an age burden also shared with the highest severity in COVID-19 patients. OA patients often show a large array of concomitant pathologies such as diabetes, inflammation and cardiovascular diseases that are again shared with COVID-19 patients and may therefore increase complications. Moreover, different OA treatments such as NSAIDs, paracetamol, corticosteroids, opioids or other molecules have a wide array of iatrogenic effects, potentially increasing COVID-19 secondary infection incidence or complications. In this review we critically analyse the evidences on either negative or positive effect of drugs commonly used to manage OA in this particular scenario. This would provide orthopaedic surgeons at first, and physicians, pharmacologists and clinicians at general, a comprehensive description about the safety of the current pharmacological approaches and a decision making tool to treat their OA patients as the coronavirus pandemic continues.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Due to the expected residency of the COVID-19 pandemic in the next months/years, the conservative therapeutic approach for the treatment of patients affected by osteoarthritis (OA) would need an adjustment not to expose patients to additional risks. The purpose of this review is, beyond presenting an overview of the most prescribed molecules in everyday practice and those envisioned as future therapeutic options, to provide orthopaedics with some guidelines on the management of osteoarthritic patients during this COVID-19 era. In particular, the susceptibility to COVID-19 life threatening complications and the potential increment of the SARS-CoV-2 morbidity/mortality incidence will be discussed to provide a roadmap to orthopaedic surgeons about the safety of treatments as well as the possible need for their discontinuation. This is",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Aim of the review"
+        },
+        {
+            "text": "This article is protected by copyright. All rights reserved especially important since many patients will need to receive multiple drugs over the course of their disease and more in general as the coronavirus pandemic continues. Also, since the discussed OA comorbidities and therapeutic options are also faced by the general population with OAunrelated inflammatory and/or age-related pathologies, the proposed indications will be a useful outline for general practitioners and specialized clinicians of other branches of medicine in the era of COVID-19 pandemic.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Accepted Article"
+        },
+        {
+            "text": "Osteoarthritis is the most common degenerative disease of the joint that impairs quality of life and leads to important disability (1) . Although the disease pathophysiology is still poorly understood and under investigation, it is accepted that the origin of OA is multifactorial.",
+            "cite_spans": [
+                {
+                    "start": 131,
+                    "end": 134,
+                    "text": "(1)",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Osteoarthritis pathophysiology: the role of inflammation"
+        },
+        {
+            "text": "Inflammation, biomechanical alterations and the immune response play an important role (2) .",
+            "cite_spans": [
+                {
+                    "start": 87,
+                    "end": 90,
+                    "text": "(2)",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Osteoarthritis pathophysiology: the role of inflammation"
+        },
+        {
+            "text": "Indeed, risk factors are sex, obesity, genetic factors and mechanical factors (3) .",
+            "cite_spans": [
+                {
+                    "start": 78,
+                    "end": 81,
+                    "text": "(3)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Osteoarthritis pathophysiology: the role of inflammation"
+        },
+        {
+            "text": "In the development of OA, the whole joint undergoes a complex remodeling, which in turn ends in degeneration. Common histopathological findings in OA are articular cartilage damage, subchondral bone sclerosis and osteophyte formation, joint capsule hypertrophy and periarticular muscle dysfunction (4), as well as inflammation of the synovium. Synovitis is in fact a hallmark of OA, characterized by increased vascularization, infiltration of macrophages and lymphocytes and villous hyperplasia (4) . The inflamed synovium secretes several cytokines and chemokines, which sustain inflammation and contribute to cartilage degeneration and subchondral bone changes.",
+            "cite_spans": [
+                {
+                    "start": 495,
+                    "end": 498,
+                    "text": "(4)",
+                    "ref_id": "BIBREF3"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Osteoarthritis pathophysiology: the role of inflammation"
+        },
+        {
+            "text": "Among cytokines, the most studied are interleukin 1 \u03b2 (IL-1\u03b2) and tumor necrosis factor \u03b1 (TNF\u03b1), which can activate cartilage matrix degeneration by activation of toll-like receptors (TLRs) (5) . Moreover, IL-15 and IL-17 are also secreted by the synovium lymphocytes and are associated with OA progression by inducing chemokine production by synovium fibroblast and chondrocytes (5) .",
+            "cite_spans": [
+                {
+                    "start": 191,
+                    "end": 194,
+                    "text": "(5)",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 381,
+                    "end": 384,
+                    "text": "(5)",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Osteoarthritis pathophysiology: the role of inflammation"
+        },
+        {
+            "text": "In articular cartilage, the degenerative process is initiated by biomechanical stress and inflammation (6) . Both these stimuli activate the canonical NF-\u0138B, stress-induced and MAPK pathways, which trigger the inflammatory cascade and matrix degradation via MMPs (especially MMP-13), NOS-2, COX-2, HIF-2\u03b1, ADAMTS-4,5 (4) . In addition, chondrocytes undergo hypertrophy through the activation of the canonical Wnt signaling pathway and the consequent upregulation of \u03b2-catenin (7) . Lastly, OA is also associated to an increased chondrocyte apoptosis: cell death may be caused by a HMGB-1-mediated mitochondrial dysfunction, which leads to secretion of ROS, prostaglandins and nitric oxide and, ultimately, to oxidative stress. The products",
+            "cite_spans": [
+                {
+                    "start": 103,
+                    "end": 106,
+                    "text": "(6)",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 317,
+                    "end": 320,
+                    "text": "(4)",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 476,
+                    "end": 479,
+                    "text": "(7)",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Osteoarthritis pathophysiology: the role of inflammation"
+        },
+        {
+            "text": "This article is protected by copyright. All rights reserved of this catabolic process (i.e. small pieces of collagen, fibronectin and proteoglycan) amplify the inflammatory response in cartilage and synovium by inducing innate immune responses through the complement pathway modulation (8) .",
+            "cite_spans": [
+                {
+                    "start": 286,
+                    "end": 289,
+                    "text": "(8)",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Accepted Article"
+        },
+        {
+            "text": "Eventually, subchondral bone is also subjected to profound changes in OA that essentially lead to sclerosis, microfractures and osteophyte formation. The excessive and repetitive mechanical stress causes some initial microfractures, which trigger bone remodeling through the OPG/RANK/RANKL triad, MMPs, IL-6 and IL-8 (4). At the same time, Vascular Endothelial Growth Factor (VEGF) expressed by hypertrophic chondrocytes maintains bone remodeling by recapitulating endochondral bone formation. Moreover, recent data show that sclerostin, a Wnt pathway inhibitor, is downregulated in some subchondral areas, causing local bone sclerosis (9) .",
+            "cite_spans": [
+                {
+                    "start": 636,
+                    "end": 639,
+                    "text": "(9)",
+                    "ref_id": "BIBREF8"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Accepted Article"
+        },
+        {
+            "text": "Finally, osteophyte formation represents an attempt to restore the normal mechanical loading through endochondral bone formation and it is triggered by transforming growth factor \u03b2 (TGF\u03b2) and bone morphogenetic protein 2 (BMP-2), which are released by synoviocytes and chondrocytes (10).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Accepted Article"
+        },
+        {
+            "text": "Hence, in the osteoarthritic joint the cross talk between these three main tissues causes a vicious cycle that progressively sustains and amplifies the inflammatory and degenerative processes.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Accepted Article"
+        },
+        {
+            "text": "The COVID-19 pandemic represents an unprecedented and largely unanticipated challenge for healthcare systems and professionals worldwide. It is caused by SARS-CoV-2 infection, a novel coronavirus of zoonotic origin, and symptoms include fever, dyspnoea, fatigue, dry cough, olfactory and gustatory dysfunction, lymphopenia and, in the most severe cases, interstitial pneumonia with alveolar damage (11) . According to John Hopkins Coronavirus Research Center, 2.3 million people has been infected since the beginning of SARS-CoV-2 outbreak, with more than 155,000 confirmed deaths at April 20 th , 2020 (12) . Nevertheless, some estimations outnumber the confirmed cases by orders of magnitude, with the possible prevalence of infection up to the 10% of the population in some countries (13) , and it is highly likely that a wide portion of individuals suffering from other common conditions, such as osteoarthritis, may have being infected by SARS-CoV-2. In particular, OA is more frequent in the elder population, a category that is at high risk of infection, given the more frequent need for health care and hospitalization, as well as more subjected to severe or fatal outcomes following SARS-CoV-2 infection (14).",
+            "cite_spans": [
+                {
+                    "start": 398,
+                    "end": 402,
+                    "text": "(11)",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 603,
+                    "end": 607,
+                    "text": "(12)",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 787,
+                    "end": 791,
+                    "text": "(13)",
+                    "ref_id": "BIBREF12"
+                }
+            ],
+            "ref_spans": [],
+            "section": "COVID-19 infection pathophysiology"
+        },
+        {
+            "text": "This article is protected by copyright. All rights reserved",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Accepted Article"
+        },
+        {
+            "text": "The molecular mechanisms of SARS-CoV-2 infection has been partially elucidated by recent reports that identified the angiotensin-converting enzyme 2 (ACE2) as the host cell surface receptor allowing for the viral infection (15) . This protein is expressed in a number of tissues including alveolar epithelial cells, vascular endothelium, oral mucosa and it is responsible for the cleavage of Angiotensin I and Angiotensin II (16) , playing a regulatory function in the heart (17) and possibly a protective role in lung diseases (18) . COVID-19, similarly to other viral infections such as SARS-CoV in general and H5N1, causes a decrease of ACE2 expression, partially explaining the severity of the lung damage in the pathology (19, 20) . Then, the treatment of pathologies such as hypertension, requiring ACE-inhibitors administration, may accelerate the progression of the pathology, even if the evidences are still insufficient to balance the cost/benefit equilibrium towards the suspension of these therapies in all patients undergoing this treatment (21) . In this frame of cost/benefit balance, ACE-inhibitors also lead to upregulation of ACE2 expression (22), eventually dealing with a double-edge sword by increasing protection for lung tissue function at the cost of potentially increased infectivity. Beside the initial phase of SARS-CoV-2 infection, COVID-19 pathology may exhibit three grades of increasing severity, from early infection to pulmonary involvement and eventual systemic hyperinflammation (23) . Usually the grades are associated with the upregulation of pro-inflammatory cytokines, such as IL-1\u03b2 and IL-6, IL-2, IL-8 and TNF\u03b1, or chemokines, that are significantly elevated in those patients with a more severe disease (23) . The high levels of these cytokines have been also reported to be inversely related to the absolute lymphocytes count (24) . Since an effective immune response against viral infections depends on cytotoxic T cells activation (25) , experimental evidence supports the observation that overexpression of inflammatory cytokines like IL-6 during the viral immune response might be associated with a decreased viral clearance by impairing the polarization and functionality of Th1 and CD8 cells (26), contributing to the worsening of the COVID-19 symptoms, and their management may appear an intriguing therapeutical approach.",
+            "cite_spans": [
+                {
+                    "start": 223,
+                    "end": 227,
+                    "text": "(15)",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 425,
+                    "end": 429,
+                    "text": "(16)",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 475,
+                    "end": 479,
+                    "text": "(17)",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 528,
+                    "end": 532,
+                    "text": "(18)",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 727,
+                    "end": 731,
+                    "text": "(19,",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 732,
+                    "end": 735,
+                    "text": "20)",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 1054,
+                    "end": 1058,
+                    "text": "(21)",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 1514,
+                    "end": 1518,
+                    "text": "(23)",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 1745,
+                    "end": 1749,
+                    "text": "(23)",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 1869,
+                    "end": 1873,
+                    "text": "(24)",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 1976,
+                    "end": 1980,
+                    "text": "(25)",
+                    "ref_id": "BIBREF22"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Accepted Article"
+        },
+        {
+            "text": "Overall, the administration of drugs for the control of inflammation, inhibiting the response of the immune system, may be detrimental in the initial phases of the viral infection, reducing the ability of the body to react to the presence of SARS-CoV-2, as observed in patients chronically treated for rheumatoid arthritis (27) . On the other hand, this action may result beneficial in the reduction of the cytokines and chemokines excess, responsible for the worsening of the clinical picture.",
+            "cite_spans": [
+                {
+                    "start": 323,
+                    "end": 327,
+                    "text": "(27)",
+                    "ref_id": "BIBREF23"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Accepted Article"
+        },
+        {
+            "text": "Indeed, drugs managing cytokines which are known to increase during the COVID-19 infection, as IL-6 and TNF\u03b1, were postulated as possible effective treatments to counteract the",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Accepted Article"
+        },
+        {
+            "text": "This article is protected by copyright. All rights reserved immunopathological manifestations of the COVID-19 infection based either on in vitro and in vivo data, as metronidazole (reducing several inflammatory cytokines like IL-6 and TNF\u03b1) (28), or on preliminary good response, to be evaluated with caution and confirmed, in the treatment of a small cohort of COVID-19 patients, as Tocilizumab (a monoclonal antibody against IL-6) that was used in combination with methylprednisolone (29) . Therefore, in the context of COVID-19 patients, the governance of the cytokine crossroad and inflammation is one of the major unmet needs, together with the adjunctive chronic or acute co-morbidities and the effects of drugs administrated for their management.",
+            "cite_spans": [
+                {
+                    "start": 486,
+                    "end": 490,
+                    "text": "(29)",
+                    "ref_id": "BIBREF25"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Accepted Article"
+        },
+        {
+            "text": "Predisposing comorbidities in OA patients At the moment, no studies have investigated a potential relationship between respiratory viral infections and the development of OA, as described for parainfluenza and coronavirus and the incidence of rheumatoid arthritis (30) . Similarly, looking the other way round, there is no documented increased risk of respiratory infections for OA patients compared with the general population.",
+            "cite_spans": [
+                {
+                    "start": 264,
+                    "end": 268,
+                    "text": "(30)",
+                    "ref_id": "BIBREF27"
+                }
+            ],
+            "ref_spans": [],
+            "section": "OA and COVID-19"
+        },
+        {
+            "text": "Comorbidities are another factor tipping the balance towards an increase of morbidity and mortality during infections. In OA patients, several concomitant disorders such as obesity, low muscle mass, hyperuricemia in women, diabetes, hypertension and cardiovascular diseases (CVD) are present with greater ratio than in the general population (31) . A recent meta-analysis showed that the most prevalent COVID-19 comorbidities were hypertension, cardiovascular diseases and diabetes mellitus (21, 32) , and their presence increased life threatening complications. In this frame, it was recently reported that obesity may be a trigger to COVID-19 morbidity and mortality (33) . Similar outcomes are expected also for diabetes patients (34) , following what was stated for the two earlier CoV infections, severe acute respiratory syndrome (SARS) in 2002 (35) and the Middle East respiratory syndrome (MERS) in 2012 (36) . Consistently, a recent report indicated diabetes as a risk factor significantly associated with COVID-19 unfavourable clinical outcomes (37) . Also, arterial hypertension may be associated with increased risk of mortality in hospitalized COVID-19 infected subjects (38) . Regarding CVD, pre-existing cardiovascular pathologies increase the morbidity and mortality of COVID-19, and COVID-19 itself causes serious cardiac sequelae (39) . As a consequence, although a direct relationship between COVID-19 mortality and morbidity in OA patients has not been reported yet, the presence of OA-related concomitant disorders might trigger the life-threatening risks for OA patients in case of SARS-CoV-2 infection.",
+            "cite_spans": [
+                {
+                    "start": 342,
+                    "end": 346,
+                    "text": "(31)",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 491,
+                    "end": 495,
+                    "text": "(21,",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 496,
+                    "end": 499,
+                    "text": "32)",
+                    "ref_id": null
+                },
+                {
+                    "start": 669,
+                    "end": 673,
+                    "text": "(33)",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 733,
+                    "end": 737,
+                    "text": "(34)",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 912,
+                    "end": 916,
+                    "text": "(36)",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 1055,
+                    "end": 1059,
+                    "text": "(37)",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 1184,
+                    "end": 1188,
+                    "text": "(38)",
+                    "ref_id": "BIBREF35"
+                },
+                {
+                    "start": 1348,
+                    "end": 1352,
+                    "text": "(39)",
+                    "ref_id": "BIBREF37"
+                }
+            ],
+            "ref_spans": [],
+            "section": "OA and COVID-19"
+        },
+        {
+            "text": "This article is protected by copyright. All rights reserved This shall prompt orthopaedics and clinicians in general to evaluate with extreme care the clinical conditions of OA patients not only under the perspective of OA symptoms management but also for undercurrent comorbidities, naturally occurring or OA-treatment-related, that, in the era of COVID-19 pandemic, may strongly affect patients outcomes more than the net combination of SARS-CoV-2 infection and OA. This paradigm is valid also for other pathologies characterized by comorbidities similar to those herein discussed or other conditions reported to affect COVID-19 trajectory.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Accepted Article"
+        },
+        {
+            "text": "International and national guidelines recommend NSAIDs for the treatment of severe pain and musculoskeletal pain in OA patients (40) . NSAIDs are the most commonly prescribed drugs, used by 60% of OA patientstaking medication in Europe (41) and more than 50% across US (42) .",
+            "cite_spans": [
+                {
+                    "start": 128,
+                    "end": 132,
+                    "text": "(40)",
+                    "ref_id": "BIBREF38"
+                },
+                {
+                    "start": 269,
+                    "end": 273,
+                    "text": "(42)",
+                    "ref_id": "BIBREF40"
+                }
+            ],
+            "ref_spans": [],
+            "section": "1) Non-steroidal anti-inflammatory drugs (NSAIDs)"
+        },
+        {
+            "text": "NSAIDs may be divided into non-selective (nsNSAIDs), targeting both COX-1 and COX-2, and COX-2 selective (sNSAIDs). COX-pathway inhibition leads to decreased production of prostanoids and decreased recruitment of polymorphonuclear neutrophils to the inflammatory site (43) . In general, NSAIDs have been associated with higher frequencies of gastrointestinal, renal and CVD negative outcomes, with the degree of COX-1 and COX-2 inhibition, and not COX-2 selectivity, being responsible for the increased risk (44) . As previously mentioned, CVD and COVID-19 are directly linked, and the development of kidney failure during hospitalization in patients with COVID-19 is frequent and associated with mortality (45).",
+            "cite_spans": [
+                {
+                    "start": 268,
+                    "end": 272,
+                    "text": "(43)",
+                    "ref_id": "BIBREF41"
+                },
+                {
+                    "start": 508,
+                    "end": 512,
+                    "text": "(44)",
+                    "ref_id": "BIBREF42"
+                }
+            ],
+            "ref_spans": [],
+            "section": "1) Non-steroidal anti-inflammatory drugs (NSAIDs)"
+        },
+        {
+            "text": "Regarding a major COVID-19 outcome like respiratory tract infections, including complicated pneumonia, pleural effusions, and peritonsillar abscess, NSAIDs use mainly resulted in an increase of complications. A recent review associated pre-hospital NSAIDs exposure with higher risks of a protracted and complicated course of pneumonia, including those in intensive care units (46) . Another population-based study in northern Denmark evaluated NSAIDs use as a prognostic factor for clinical outcomes in hospitalized patients with pneumonia (47) . All current users, including long-term users, showed an increase in the adjusted rate ratios (aRRs) of At last, regarding the role of NSAIDs in viral infections, there is not a clear indication due to lack of clinical evidences. In rats, ibuprofen induced the overexpression of ACE2 (50) , and this effect might theoretically worsen the COVID-19 infection (21) . Nevertheless, to date, no conclusive evidence in favour or against the use of NSAIDs during the treatment of COVID-19 patients is available (51, 52) . Therefore, a pragmatic and cautionary approach would suggest the clinicians to carefully consider NSAIDs use as the first line option for managing symptoms, if not absolutely necessary, due to both respiratory and cardiovascular complications in several settings.",
+            "cite_spans": [
+                {
+                    "start": 376,
+                    "end": 380,
+                    "text": "(46)",
+                    "ref_id": "BIBREF44"
+                },
+                {
+                    "start": 540,
+                    "end": 544,
+                    "text": "(47)",
+                    "ref_id": "BIBREF45"
+                },
+                {
+                    "start": 830,
+                    "end": 834,
+                    "text": "(50)",
+                    "ref_id": "BIBREF48"
+                },
+                {
+                    "start": 903,
+                    "end": 907,
+                    "text": "(21)",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 1050,
+                    "end": 1054,
+                    "text": "(51,",
+                    "ref_id": "BIBREF49"
+                },
+                {
+                    "start": 1055,
+                    "end": 1058,
+                    "text": "52)",
+                    "ref_id": "BIBREF50"
+                }
+            ],
+            "ref_spans": [],
+            "section": "1) Non-steroidal anti-inflammatory drugs (NSAIDs)"
+        },
+        {
+            "text": "Regarding pain patients, as OA patients, that are not SARS-CoV-2 infected, they may be reassured by their physicians on the safety of NSAIDs continuation, because there is nothing conclusive to show the potential for an increased incidence of viral infection, and especially of COVID-19 (53).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "1) Non-steroidal anti-inflammatory drugs (NSAIDs)"
+        },
+        {
+            "text": "Conversely, chronic pre-hospital NSAIDs exposure might increase complications like in all other patients, and OA patients with SARS-CoV-2 infection under NSAIDs treatment should be monitored with additional care and NSAIDs use considered only when strictly necessary. (Table I and Figure 1 )",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 268,
+                    "end": 276,
+                    "text": "(Table I",
+                    "ref_id": "TABREF2"
+                },
+                {
+                    "start": 281,
+                    "end": 289,
+                    "text": "Figure 1",
+                    "ref_id": "FIGREF4"
+                }
+            ],
+            "section": "1) Non-steroidal anti-inflammatory drugs (NSAIDs)"
+        },
+        {
+            "text": "The 2011 National Health and Wellness Survey (NHWS) showed that on 3,750 patients from five EU countries with self-reported peripheral joint OA, 47% of patients reported prescription medication, with paracetamol ranging from 0% in Germany up to 6% in Spain (54) .",
+            "cite_spans": [
+                {
+                    "start": 257,
+                    "end": 261,
+                    "text": "(54)",
+                    "ref_id": "BIBREF52"
+                }
+            ],
+            "ref_spans": [],
+            "section": "1) Non-steroidal anti-inflammatory drugs (NSAIDs)"
+        },
+        {
+            "text": "Similarly, in the USA, paracetamol was taken by approximately 10% of patients participating to the Osteoarthritis Initiative (55). The relevance of paracetamol is its use for the longest duration (mean 84 months) and usually for more than 20 days per month (54), due to its safety at correct dose. Its exact mechanism of action remains to be determined, although its effect on the prostaglandin production also at the level of central nervous system has been often hypothesized.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "1) Non-steroidal anti-inflammatory drugs (NSAIDs)"
+        },
+        {
+            "text": "Paracetamol has similar effects to those of the selective COX-2 inhibitors, but without any antiinflammatory capacity (56) . It is generally considered to be safer than NSAIDs, albeit recently increased risk of adverse outcomes with frequent paracetamol dosing was published, including mortality, CVD, and renal adverse events (57) . Moreover, acute liver injury (ALI) resulting in relevant liver function abnormalities (bilirubin \u2265 3 mg/dl, alanine aminostransferase (ALT) > 5xULN, alkaline phosphatase > 2xULN) is not uncommon with therapeutic doses of paracetamol",
+            "cite_spans": [
+                {
+                    "start": 118,
+                    "end": 122,
+                    "text": "(56)",
+                    "ref_id": "BIBREF54"
+                },
+                {
+                    "start": 327,
+                    "end": 331,
+                    "text": "(57)",
+                    "ref_id": "BIBREF55"
+                }
+            ],
+            "ref_spans": [],
+            "section": "1) Non-steroidal anti-inflammatory drugs (NSAIDs)"
+        },
+        {
+            "text": "This article is protected by copyright. All rights reserved in patients without other possible causes of liver injury (58) , as well as a general alteration of liver functionality (ALT > 3xULN) even in healthy subjects without ALI symptoms or laboratory evidence of hepatic failure (59) . Also, the development of liver diseases during hospitalization in patients with COVID-19 is high and associated with mortality (60) . Therefore, how underlying liver conditions may influence the onset of hepatic complications in patients with COVID-19 and their association with the use of drugs needs to be meticulously evaluated.",
+            "cite_spans": [
+                {
+                    "start": 118,
+                    "end": 122,
+                    "text": "(58)",
+                    "ref_id": "BIBREF56"
+                },
+                {
+                    "start": 282,
+                    "end": 286,
+                    "text": "(59)",
+                    "ref_id": "BIBREF57"
+                },
+                {
+                    "start": 416,
+                    "end": 420,
+                    "text": "(60)",
+                    "ref_id": "BIBREF58"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Accepted Article"
+        },
+        {
+            "text": "Regarding respiratory tract infections, a paucity of data is reported and is related to paracetamol effect on disease complications rather than incidence. In the previously mentioned trial for ibuprofen (61) , paracetamol showed a better performance with only 12% of patients ",
+            "cite_spans": [
+                {
+                    "start": 203,
+                    "end": 207,
+                    "text": "(61)",
+                    "ref_id": "BIBREF59"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Accepted Article"
+        },
+        {
+            "text": "This article is protected by copyright. All rights reserved 3) Corticosteroids (CS) CS are potent multitargeting anti-inflammatory drugs (65) . In OA patients, they are administered both systemically and, more often, intra-articularly (IA). Among others, prednisone is the most prescribed systemic steroid (66) and other few molecules have FDA (methylprednisolone, triamcinolone, betamethasone and dexamethasone) or EMA (methylprednisolone, triamcinolone) labels for intra-articular injections (67) . CS have both antiinflammatory and immunosuppressive effects, and their mechanism of action is complex. It includes inhibition of accumulation of inflammatory cells, metalloproteases and metalloprotease activators, and synthesis and secretion of pro-inflammatory factors (68) . Long-term systemic (oral or parenteral) use of these agents is associated with adverse events like, among others, diabetes and hyperglycaemia, osteoporosis, superinfection, CVD and immunosuppression (69) . For intraarticular administration, adverse events are less likely, probably due to serum cortisol levels decreasing within hours and recovery to baseline in 1-4 weeks. Nevertheless, IA CS resulted in reduction of inflammatory markers like C-reactive protein and erythrocyte sedimentation rate that can last for months, and in a transient increase in blood glucose levels in diabetic OA patients (70) , despite this treatment often shows short-term benefits. To avoid this pitfall, triamcinolone acetonide extended release, produced using microsphere technology, was recently approved by FDA given the significant improvement over placebo and even reduced systemic exposure compared with immediate-release triamcinolone (71) .",
+            "cite_spans": [
+                {
+                    "start": 137,
+                    "end": 141,
+                    "text": "(65)",
+                    "ref_id": "BIBREF66"
+                },
+                {
+                    "start": 306,
+                    "end": 310,
+                    "text": "(66)",
+                    "ref_id": "BIBREF67"
+                },
+                {
+                    "start": 494,
+                    "end": 498,
+                    "text": "(67)",
+                    "ref_id": "BIBREF68"
+                },
+                {
+                    "start": 771,
+                    "end": 775,
+                    "text": "(68)",
+                    "ref_id": "BIBREF69"
+                },
+                {
+                    "start": 977,
+                    "end": 981,
+                    "text": "(69)",
+                    "ref_id": "BIBREF70"
+                },
+                {
+                    "start": 1379,
+                    "end": 1383,
+                    "text": "(70)",
+                    "ref_id": "BIBREF71"
+                },
+                {
+                    "start": 1703,
+                    "end": 1707,
+                    "text": "(71)",
+                    "ref_id": "BIBREF72"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Accepted Article"
+        },
+        {
+            "text": "In the context of pneumonia, a recent Cochrane review analysed 28 studies evaluating systemic CS therapy, given as adjunct to antibiotic treatment, versus placebo or no corticosteroids for adults and children with community acquired pneumonia (72) . The combined therapy after infection reduced mortality and morbidity in adults with severe pneumonia, and morbidity, but not mortality, for adults and children with non-severe pneumonia. Hyperglycaemia was indicated as main adverse event, as also emerged in another review covering 4 clinical trials for pneumonia patients (73). Additionally, in 50 patients with respiratory syncytial virus infection, those who received steroids had an impaired antibody response, although no significant differences in viral load peak were reported (78) . Conversely, other studies supported the use of corticosteroids at low-to-moderate dose in patients with SARS infection. In a restrospective study on 401 patients, CS were shown contributing to lower overall mortality, instant mortality, and shorter hospitalization stay (P < 0.05) (79) . Also, in a prospective cohort study enrolling 2,141 patients with influenza A (H1N1)pdm09 viral pneumonia, low-to-moderate-dose (25-150 mg/day) CS were related to ",
+            "cite_spans": [
+                {
+                    "start": 243,
+                    "end": 247,
+                    "text": "(72)",
+                    "ref_id": "BIBREF74"
+                },
+                {
+                    "start": 784,
+                    "end": 788,
+                    "text": "(78)",
+                    "ref_id": "BIBREF82"
+                },
+                {
+                    "start": 1072,
+                    "end": 1076,
+                    "text": "(79)",
+                    "ref_id": "BIBREF83"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Accepted Article"
+        },
+        {
+            "text": "This article is protected by copyright. All rights reserved injections that are usually administered on a cadence basis of few months, semesters or yearly, the presumable interruption in the hospitals and clinics of non-life-saving treatments during the pandemic should avoid even the smallest and still unreported risk. Again, systemic use, new or continuing pre-infection therapy, during COVID-19 infection should be carefully monitored for potential complications and, if possible, reduced at minimum. (Table I and Figure 1) ",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 505,
+                    "end": 517,
+                    "text": "(Table I and",
+                    "ref_id": "TABREF2"
+                },
+                {
+                    "start": 518,
+                    "end": 527,
+                    "text": "Figure 1)",
+                    "ref_id": "FIGREF4"
+                }
+            ],
+            "section": "Accepted Article"
+        },
+        {
+            "text": "Opioids may be a valuable treatment option for severe OA pain when other analgesics are contraindicated (e.g. allergic patients or GI problems) or insufficient to control pain. Opioids may be divided in weak, such as codeine and tramadol, or strong, among which morphine, fentanyl and oxycodone and their analogous molecules are the most common (85) . In general, opioids should be administered with care since they may interfere with the innate and acquired immune response (86) , are associated with respiratory depression (87) , and increase the incidence and severity of infections of the airway's tracts, including pneumonia (88) . Moreover, opioid systems impair and modulate immune responses induced by the influenza virus that, on one hand, might be beneficial for controlling viral immunopathogenesis, but, on the other hand, may lead to delayed viral clearance (89) . Aware of these premises, individual molecules differ in their effect (90) . A group of them (i.e. morphine, fentanyl and remifentanil) was described as immunosuppressive (90) and their use associated to increased pneumonia incidence compared to molecules with no immunosuppressive activity (88, 91) . Also, weak opioids were associated with a reduced risk of Notably, considering the different administration routes, no differences in the overall adverse event profile emerged between transdermal opiates and oral treatments (94) . Nevertheless, the risk for adverse outcomes due to opioid abuse remains, since more than 20% of OA patients receiving prescriptions has a risk factor for misuse (95) , and associated adverse events (constipation,",
+            "cite_spans": [
+                {
+                    "start": 345,
+                    "end": 349,
+                    "text": "(85)",
+                    "ref_id": "BIBREF90"
+                },
+                {
+                    "start": 475,
+                    "end": 479,
+                    "text": "(86)",
+                    "ref_id": "BIBREF91"
+                },
+                {
+                    "start": 525,
+                    "end": 529,
+                    "text": "(87)",
+                    "ref_id": "BIBREF92"
+                },
+                {
+                    "start": 630,
+                    "end": 634,
+                    "text": "(88)",
+                    "ref_id": "BIBREF93"
+                },
+                {
+                    "start": 871,
+                    "end": 875,
+                    "text": "(89)",
+                    "ref_id": "BIBREF94"
+                },
+                {
+                    "start": 947,
+                    "end": 951,
+                    "text": "(90)",
+                    "ref_id": "BIBREF96"
+                },
+                {
+                    "start": 1048,
+                    "end": 1052,
+                    "text": "(90)",
+                    "ref_id": "BIBREF96"
+                },
+                {
+                    "start": 1168,
+                    "end": 1172,
+                    "text": "(88,",
+                    "ref_id": "BIBREF93"
+                },
+                {
+                    "start": 1173,
+                    "end": 1176,
+                    "text": "91)",
+                    "ref_id": "BIBREF97"
+                },
+                {
+                    "start": 1403,
+                    "end": 1407,
+                    "text": "(94)",
+                    "ref_id": "BIBREF100"
+                },
+                {
+                    "start": 1571,
+                    "end": 1575,
+                    "text": "(95)",
+                    "ref_id": "BIBREF101"
+                }
+            ],
+            "ref_spans": [],
+            "section": "4) Opioids"
+        },
+        {
+            "text": "This article is protected by copyright. All rights reserved nausea/vomiting) (96). Being aware of the several molecules used in OA management, we will below report available information about two widely prescribed weak opioids, with and without immunosuppressive activity, due to their possible reduced interaction with respiratory tract infections and their preferential use in place of paracetamol or NSAIDs.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Accepted Article"
+        },
+        {
+            "text": "Tramadol is a weak analgesic opioid, without immunosuppressive activity (90) , that is recommended to manage pain in OA patients by both the American Academy of Orthopaedic Surgeons (97) and American College of Rheumatology guidelines (98) because of the relatively small number of deaths from each specific cause, often between 1% and 0.1% per cohort, most associations were not statistically significant.",
+            "cite_spans": [
+                {
+                    "start": 72,
+                    "end": 76,
+                    "text": "(90)",
+                    "ref_id": "BIBREF96"
+                },
+                {
+                    "start": 182,
+                    "end": 186,
+                    "text": "(97)",
+                    "ref_id": "BIBREF103"
+                },
+                {
+                    "start": 235,
+                    "end": 239,
+                    "text": "(98)",
+                    "ref_id": "BIBREF104"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Accepted Article"
+        },
+        {
+            "text": "Codeine is a weak analgesic opioid with immunosuppressive activity. In US, codeine was among the five most prescribed opioid to manage OA pain in the 2003-2008 period (102) . In a double-blind randomized placebo control trial of controlled codeine release for OA treatment in 103 patients, constipation, somnolence and dizziness were the most significant side effects (103) .",
+            "cite_spans": [
+                {
+                    "start": 167,
+                    "end": 172,
+                    "text": "(102)",
+                    "ref_id": "BIBREF109"
+                },
+                {
+                    "start": 368,
+                    "end": 373,
+                    "text": "(103)",
+                    "ref_id": "BIBREF110"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Accepted Article"
+        },
+        {
+            "text": "Although being a weak opioid, but consistently with its immunosuppressive activity, chronic codeine use was associated with higher pneumonia incidence compared to non-use (OR of 1.93 [1.22-3 .06]) (104) . Again, pneumonia risk was closer to null for use begun more than 90 days prior to index date (1.27 [0.91-1.77]). Eventually, in chronic consumers, no pattern was seen for pneumonia risk in relation to estimated daily dose (104) , although the risk of adverse events due to abuse or misuse, like dependence and /or constipation, remains.",
+            "cite_spans": [
+                {
+                    "start": 183,
+                    "end": 190,
+                    "text": "[1.22-3",
+                    "ref_id": null
+                },
+                {
+                    "start": 197,
+                    "end": 202,
+                    "text": "(104)",
+                    "ref_id": "BIBREF111"
+                },
+                {
+                    "start": 427,
+                    "end": 432,
+                    "text": "(104)",
+                    "ref_id": "BIBREF111"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Accepted Article"
+        },
+        {
+            "text": "This article is protected by copyright. All rights reserved Regarding COVID-19, it is appropriate to postulate that chronic pain patients, as OA patients, on strong (and/or immunosuppressive) opioids could potentially be more susceptible to SARS-CoV-2 infection complication like pneumonia, whereas weak opioids might have reduced side effects and infections susceptibility and be therefore preferable. Nevertheless, at present, there is not a clear indication for or against opioids discontinuation in relation to increased COVID-19 infection incidence, but surveillance in case of strong drugs should be conducted. (Table I and ",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 617,
+                    "end": 629,
+                    "text": "(Table I and",
+                    "ref_id": "TABREF2"
+                }
+            ],
+            "section": "Accepted Article"
+        },
+        {
+            "text": "Disease-modifying osteoarthritis drugs (DMOADs) are molecules targeting key tissues in the OA pathophysiology process and aiming to prevent structural progression, control inflammation, and relieve pain (105) . Currently, no DMOADs have been licensed for use in the treatment of OA but several putative DMOADs are in phase II development. In particular, mAbs and inhibitors directed against OA-related cytokines such as tumor necrosis factor \u03b1 (TNF\u03b1) (106) (107) (108) (109) , nerve growth factor (NGF) (110) (111) (112) or interleukin molecules like IL-1\u03b1/\u03b2 (113) (114) (115) , are under investigation, due to their regular use as biological disease-modifying anti-rheumatic drugs (bDMARDs) for the management of rheumatoid arthritis inflammation (116) . In a report comparing safety outcomes of bDMARDs in rheumatoid arthritis in 42 observational studies, general safety profile of bDMARDs emerged with very sporadic cases of cardiovascular and infection incidence (117). Moreover, in a study aimed at evaluating the incidence of influenza-like illness (ILI) in a group of patients suffering from chronic inflammatory rheumatism and treated with bDMARDs, ILI resulted higher than the value reported in the general population, although no important complications or hospitalizations have been reported (118) . Similarly, very low rate or absence of adverse events was observed for tested DMOADs, like TNF\u03b1 (119-121), NGF (111, 112) and IL-1\u03b1/\u03b2 (114, 115, 122) inhibitors, suggesting an overall safety profile.",
+            "cite_spans": [
+                {
+                    "start": 203,
+                    "end": 208,
+                    "text": "(105)",
+                    "ref_id": "BIBREF112"
+                },
+                {
+                    "start": 451,
+                    "end": 456,
+                    "text": "(106)",
+                    "ref_id": "BIBREF114"
+                },
+                {
+                    "start": 457,
+                    "end": 462,
+                    "text": "(107)",
+                    "ref_id": "BIBREF115"
+                },
+                {
+                    "start": 463,
+                    "end": 468,
+                    "text": "(108)",
+                    "ref_id": "BIBREF116"
+                },
+                {
+                    "start": 469,
+                    "end": 474,
+                    "text": "(109)",
+                    "ref_id": "BIBREF117"
+                },
+                {
+                    "start": 503,
+                    "end": 508,
+                    "text": "(110)",
+                    "ref_id": "BIBREF118"
+                },
+                {
+                    "start": 509,
+                    "end": 514,
+                    "text": "(111)",
+                    "ref_id": "BIBREF119"
+                },
+                {
+                    "start": 515,
+                    "end": 520,
+                    "text": "(112)",
+                    "ref_id": "BIBREF120"
+                },
+                {
+                    "start": 559,
+                    "end": 564,
+                    "text": "(113)",
+                    "ref_id": "BIBREF121"
+                },
+                {
+                    "start": 565,
+                    "end": 570,
+                    "text": "(114)",
+                    "ref_id": "BIBREF122"
+                },
+                {
+                    "start": 571,
+                    "end": 576,
+                    "text": "(115)",
+                    "ref_id": null
+                },
+                {
+                    "start": 748,
+                    "end": 753,
+                    "text": "(116)",
+                    "ref_id": "BIBREF124"
+                },
+                {
+                    "start": 1303,
+                    "end": 1308,
+                    "text": "(118)",
+                    "ref_id": "BIBREF125"
+                },
+                {
+                    "start": 1422,
+                    "end": 1427,
+                    "text": "(111,",
+                    "ref_id": "BIBREF119"
+                },
+                {
+                    "start": 1428,
+                    "end": 1432,
+                    "text": "112)",
+                    "ref_id": "BIBREF120"
+                },
+                {
+                    "start": 1445,
+                    "end": 1450,
+                    "text": "(114,",
+                    "ref_id": "BIBREF122"
+                },
+                {
+                    "start": 1451,
+                    "end": 1455,
+                    "text": "115,",
+                    "ref_id": null
+                },
+                {
+                    "start": 1456,
+                    "end": 1460,
+                    "text": "122)",
+                    "ref_id": "BIBREF129"
+                }
+            ],
+            "ref_spans": [],
+            "section": "5) Monoclonal antibodies (mAbs)"
+        },
+        {
+            "text": "Their use is therefore envisioned as a cutting-edge approach with lower risks, readily available as soon as efficacy data will be available. Further, and increasing the interest in the field, recent studies indicated a possible link between these treatments and the positive management of COVID-19 infection. For TNF\u03b1 inhibitors, TNF\u03b1 production has been associated with TNF\u03b1converting enzyme (TACE)-dependent shedding of the ACE2 ectodomain, crucial for the penetration of the virus into the cell (123) . As a consequence, TNF\u03b1 inhibitors might interfere with SARS-CoV infection incidence and the consequent organ damage (124) , via TNF\u03b1 inhibition and",
+            "cite_spans": [
+                {
+                    "start": 498,
+                    "end": 503,
+                    "text": "(123)",
+                    "ref_id": "BIBREF133"
+                },
+                {
+                    "start": 622,
+                    "end": 627,
+                    "text": "(124)",
+                    "ref_id": "BIBREF134"
+                }
+            ],
+            "ref_spans": [],
+            "section": "5) Monoclonal antibodies (mAbs)"
+        },
+        {
+            "text": "This article is protected by copyright. All rights reserved down-regulation of ACE2 expression and shedding, as recently showed in the gut (125) . For these reasons, a clinical study for the efficacy and safety of Adalimumab injection in the treatment of patients with severe novel COVID-19 pneumonia is ongoing in China (ChiCTR2000030089).",
+            "cite_spans": [
+                {
+                    "start": 139,
+                    "end": 144,
+                    "text": "(125)",
+                    "ref_id": "BIBREF135"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Accepted Article"
+        },
+        {
+            "text": "Moreover, a potential role for IL-1\u03b2 inhibitors or blockers could be envisioned from data showing an activation of the NLRP3 inflammasome by SARS-CoV (126) , with SARS-CoV infected patients having elevated serum levels of IL-1\u03b2 (23) . Similarly to other SARS-CoV, also COVID-19 triggers inflammasome activation, especially within lymphoid cells, and patients have increased serum IL-1\u03b2 (127) . Consistently, a Chinese study demonstrated that inhibition of proinflammatory cytokines such as IL-1\u03b2 might be a beneficial strategy for the treatment of SARS infections (128) . Further, a phase III RCT of IL-1\u03b2 blockade in sepsis showed significant survival benefit in patients with hyperinflammation (129) . Nevertheless, at present, there is no evidence for IL-1\u03b2 blockers in the treatment of COVID-19 patients. The literature, however, did suggest a potential role for the reduction of pro-inflammatory markers, such as IL-1\u03b2, which are elevated as part of the immune response and may have a role in the severe lung damage associated with human coronaviruses. Under the same paradigm, IL-6 proinflammatory cytokine is under investigation as target for COVID-19 therapy, particularly in patients developing ARDS with severe hyperinflammatory response characterized by high increases of plasma IL-6 and CRP levels. In very preliminary results of a recent report, IL-6 blocker Tocilizumab appeared to be an effective treatment option in COVID-19 patients, although used in combination with glucocorticoids (29) . In conclusion, in the COVID-19 patients with concomitant OA, for which traditional treatments still have a wider and documented consistency and safety, more data about mAbs efficacy/safety and the completion of DMOADs Phase II studies will lay the foundation for the use of these cutting edge and possibly safer therapeutics as first line option in the near future, when the pandemic is expected to remain a threat. (Table I and Figure 1 )",
+            "cite_spans": [
+                {
+                    "start": 150,
+                    "end": 155,
+                    "text": "(126)",
+                    "ref_id": "BIBREF136"
+                },
+                {
+                    "start": 228,
+                    "end": 232,
+                    "text": "(23)",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 386,
+                    "end": 391,
+                    "text": "(127)",
+                    "ref_id": "BIBREF137"
+                },
+                {
+                    "start": 564,
+                    "end": 569,
+                    "text": "(128)",
+                    "ref_id": null
+                },
+                {
+                    "start": 696,
+                    "end": 701,
+                    "text": "(129)",
+                    "ref_id": "BIBREF139"
+                },
+                {
+                    "start": 1501,
+                    "end": 1505,
+                    "text": "(29)",
+                    "ref_id": "BIBREF25"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1924,
+                    "end": 1936,
+                    "text": "(Table I and",
+                    "ref_id": "TABREF2"
+                },
+                {
+                    "start": 1937,
+                    "end": 1945,
+                    "text": "Figure 1",
+                    "ref_id": "FIGREF4"
+                }
+            ],
+            "section": "Accepted Article"
+        },
+        {
+            "text": "The data reported in this review partially identify the effects of commonly used drugs on both infection incidence of COVID-19 related pathologies and disease complications (Table I and ",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 173,
+                    "end": 185,
+                    "text": "(Table I and",
+                    "ref_id": "TABREF2"
+                }
+            ],
+            "section": "Conclusions"
+        },
+        {
+            "text": "This article is protected by copyright. All rights reserved side effects and more specificity to reduce pro-inflammatory markers, thus preventing or reducing the most severe outcomes of disease. The introduction of some mAbs in compassionate use for COVID-19 patients showed encouraging results, which can indicate the real consistence with this previously mentioned hypothesis, but, again, this still needs to be studied and confirmed by large epidemiological studies. In this view, we underline the crucial role of the orthopaedic registries as an effective collection of evidences in this prominent field.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Accepted Article"
+        },
+        {
+            "text": "To face the pandemic at present times, on a daily basis clinicians decide the first-line pharmacological therapy, whether or not discontinue an existing therapy, and the efficacious alternative when the previous approach fails. Both patients' characteristics (comorbidities) and previous treatments' iatrogenic effects are essential to drive these decisions and reflect perceived differences in safety across drugs for incidence and complications. The currently available data indicate that OA therapies are safe and there is not any clear indication to avoid prescription or suggest discontinuation of existing pharmacological therapies due to Covid-19 infection incidence or complications. Nevertheless, we are convinced that particular attention should be used for OA patients, especially if hospitalized. In our opinion, specialists and clinicians should carefully consider each single patient profile and balance the cost/benefit ratio of current or new therapies (Table I and Figure 1 ). Often, anti-inflammatory and anti-pain drugs are prescribed for weak to moderate symptoms caused by everyday life movements that are largely reduced, if not absent, during home isolation or hospitalization. Therefore, drugs reported to have the strongest supposed influence on secondary infections or complications should be prescribed only when benefits overcome the potential harm. In this frame, another crucial and still largely underestimate factor for the choice of the most appropriate therapy and its continuation/discontinuation is the stage of the COVID-19 infection (Figure 1 ). In absence of symptoms or in the early/middle stage, especially in younger patients with absence of relevant comorbidities, continuation of OA therapies is strongly recommended since approximately 80% of affected individuals will end in this stage without complications leading to hospitalization/intensive care. In the mild/late phase of infection, characterized by a state of high levels of inflammation leading to further clinical deterioration and potential involvement of extrapulmonary sites, the cost/benefit ratio of OA therapies has to be evaluated with care, especially for CS or strong/immunosuppressive opioids. In general, with a few exceptions that deserve cost/benefit considerations, OA patients should be reassured to continue their treatment even during COVID-19 outbreak. This would prevent disease flares that can contribute to increase patient burden, disability, poor quality of life, and healthcare",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 969,
+                    "end": 981,
+                    "text": "(Table I and",
+                    "ref_id": "TABREF2"
+                },
+                {
+                    "start": 982,
+                    "end": 990,
+                    "text": "Figure 1",
+                    "ref_id": "FIGREF4"
+                },
+                {
+                    "start": 1571,
+                    "end": 1580,
+                    "text": "(Figure 1",
+                    "ref_id": "FIGREF4"
+                }
+            ],
+            "section": "Accepted Article"
+        },
+        {
+            "text": "This article is protected by copyright. All rights reserved use. At the same time, all the physicians are encouraged to keep up to date on new evidences that will emerge from the future epidemiological studies and that may modify the existing knowledge. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Accepted Article"
+        },
+        {
+            "text": "This article is protected by copyright. All rights reserved ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Accepted Article"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Prevalence of doctor-diagnosed arthritis and arthritis-attributable activity limitation ---United States",
+            "authors": [],
+            "year": 2007,
+            "venue": "Centers for Disease Control and Prevention (CDC)",
+            "volume": "59",
+            "issn": "",
+            "pages": "1261--1265",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Role of Inflammation and the Immune System in the Progression of Osteoarthritis",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Woodell-May",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Sommerfeld",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J. Orthop. Res",
+            "volume": "38",
+            "issn": "2",
+            "pages": "253--257",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Osteoarthritis: A disease of the joint as an organ",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Loeser",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Goldring",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Scanzello",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Goldring",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Arthritis & Rheumatism",
+            "volume": "64",
+            "issn": "6",
+            "pages": "1697--1707",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "The Role of Inflammation in the Pathogenesis of Osteoarthritis",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Chow",
+                    "suffix": ""
+                },
+                {
+                    "first": "K-Y",
+                    "middle": [],
+                    "last": "Chin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Mediators of Inflammation",
+            "volume": "2020",
+            "issn": "",
+            "pages": "1--19",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "A Framework for the in Vivo Pathomechanics of Osteoarthritis at the Knee",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Andriacchi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Annals of Biomedical Engineering",
+            "volume": "32",
+            "issn": "3",
+            "pages": "447--457",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Wnt signaling and osteoarthritis",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Luyten",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Tylzanowski",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Lories",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Bone",
+            "volume": "44",
+            "issn": "4",
+            "pages": "522--527",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "The role of the cartilage matrix in osteoarthritis",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Heineg\u00e5rd",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Saxne",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Nat Rev Rheumatol",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Increased chondrocyte sclerostin may protect against cartilage degradation in osteoarthritis",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Chan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Osteoarthritis and Cartilage",
+            "volume": "19",
+            "issn": "7",
+            "pages": "874--885",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "All rights reserved 10. van der Kraan PM, van den Berg WB. Osteophytes: relevance and biology",
+            "authors": [],
+            "year": 2007,
+            "venue": "Osteoarthritis and Cartilage",
+            "volume": "15",
+            "issn": "3",
+            "pages": "237--244",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Clinical Characteristics of Coronavirus Disease 2019 in China",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "An interactive web-based dashboard to track COVID-19 in real time",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Dong",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Du",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Gardner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "The Lancet Infectious Diseases",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Estimating the number of infections and the impact of nonpharmaceutical interventions on COVID-19 in 11 European countries",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Flaxman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Journal of Aging & Social Policy",
+            "volume": "13",
+            "issn": "",
+            "pages": "1--6",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "SARS-CoV-2 Cell Entry Depends on ACE2 and TMPRSS2 and Is Blocked by a Clinically Proven Protease Inhibitor",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Hoffmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Cell",
+            "volume": "0092867420302294",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Angiotensin-Converting Enzyme 2: The First Decade",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Clarke",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Turner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "International Journal of Hypertension",
+            "volume": "2012",
+            "issn": "",
+            "pages": "1--12",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Role of the ACE2/Angiotensin 1-7 Axis of the Renin-Angiotensin System in Heart Failure",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Patel",
+                    "suffix": ""
+                },
+                {
+                    "first": "J-C",
+                    "middle": [],
+                    "last": "Zhong",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Grant",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Oudit",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Circ Res",
+            "volume": "118",
+            "issn": "8",
+            "pages": "1313--1326",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "The role of ACE2 in pulmonary diseases--relevance for the nephrologist",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Oudit",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Imai",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kuba",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Scholey",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Penninger",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Nephrology Dialysis Transplantation",
+            "volume": "24",
+            "issn": "5",
+            "pages": "1362--1365",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Angiotensin-converting enzyme 2 protects from lethal avian influenza A H5N1 infections",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Zou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Nat Commun",
+            "volume": "5",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Differential Downregulation of ACE2 by the Spike Proteins of Severe Acute Respiratory Syndrome Coronavirus and Human Coronavirus NL63",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Glowacka",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "JVI",
+            "volume": "84",
+            "issn": "2",
+            "pages": "1198--1205",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Accepted Article This article is protected by copyright. All rights reserved 22. Ferrario CM et al. Effect of Angiotensin-Converting Enzyme Inhibition and Angiotensin II Receptor Blockers on Cardiac Angiotensin-Converting Enzyme 2",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Fang",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Karakiulakis",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Roth",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "The Lancet Respiratory Medicine",
+            "volume": "8",
+            "issn": "",
+            "pages": "2605--2610",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "COVID-19 Illness in Native and Immunosuppressed States: A Clinical-Therapeutic Staging Proposal",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Siddiqi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Mehra",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "The Journal of Heart and Lung Transplantation",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Reduction and Functional Exhaustion of T Cells in Patients with Coronavirus Disease",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Diao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "AIDS",
+            "volume": "2020",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Cytotoxic CD4 T Cells-Friend or Foe during Viral Infection?",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Juno",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Front. Microbiol",
+            "volume": "8",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3389/fimmu.2017.00019"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Anti-TNF therapy is associated with an increased risk of serious infections in patients with rheumatoid arthritis especially in the first 6 months of treatment: updated results from the British Society for Rheumatology Biologics Register with special emphasis on risks in the elderly",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Galloway",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Rheumatology",
+            "volume": "50",
+            "issn": "1",
+            "pages": "124--131",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Metronidazole; a Potential Novel Addition to the COVID-19 Treatment Regimen",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Gharebaghi",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Heidary",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Moradi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Parvizi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Arch Acad Emerg Med",
+            "volume": "8",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Tocilizumab treatment in COVID-19: a single center experience",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Luo",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Respiratory viral infections and the risk of rheumatoid arthritis",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Joo",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y-H",
+                    "middle": [],
+                    "last": "Lim",
+                    "suffix": ""
+                },
+                {
+                    "first": "K-J",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "K-S",
+                    "middle": [],
+                    "last": "Park",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y-J",
+                    "middle": [],
+                    "last": "Park",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Arthritis Res Ther",
+            "volume": "21",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Presence of comorbidities and prognosis of clinical symptoms in knee and/or hip osteoarthritis: A systematic review and meta-analysis",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Calders",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Van Ginckel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Semin. Arthritis Rheum",
+            "volume": "47",
+            "issn": "6",
+            "pages": "805--813",
+            "other_ids": {}
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Prevalence of Underlying Diseases in Hospitalized Patients with COVID-19: a Systematic Review and Meta-Analysis",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Emami",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Javanmardi",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Pirbonyeh",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Akbari",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Arch Acad Emerg Med",
+            "volume": "8",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Obesity and its Implications for COVID-19 Mortality",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Dietz",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Santos-Burgoa",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Diabetes and COVID-19",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Bloomgarden",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Chan-Yeung",
+                    "suffix": ""
+                },
+                {
+                    "first": "R-H",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "SARS: epidemiology. Respirology",
+            "volume": "12",
+            "issn": "4",
+            "pages": "9--14",
+            "other_ids": {}
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Clinical outcomes of current medical approaches for Middle East respiratory syndrome: A systematic review and meta-analysis",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Morra",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Rev Med Virol",
+            "volume": "28",
+            "issn": "3",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "Risk Factors Associated with Clinical Outcomes in 323 COVID-19 Hospitalized Patients in Wuhan, China",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Clinical Infectious Diseases",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "Position Statement of the ESC Council on Hypertension on ACE-Inhibitors and Angiotensin Receptor Blockers",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "Hypertension-%28CHT%29/News/position-statement-of-the-esc-council-on-hypertension-on-aceinhibitors-and-ang",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "Cardiovascular disease and COVID-19: Australian/New Zealand consensus statement",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Zaman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "The Medical Journal of Australia",
+            "volume": "1",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "Safety of Oral Non-Selective Non-Steroidal Anti-Inflammatory Drugs in Osteoarthritis: What Does the Literature Say?",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Cooper",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Drugs Aging",
+            "volume": "36",
+            "issn": "S1",
+            "pages": "15--24",
+            "other_ids": {}
+        },
+        "BIBREF39": {
+            "ref_id": "b39",
+            "title": "Osteoarthritis in Europe: impact on health status, work productivity and use of pharmacotherapies in five European countries",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Kingsbury",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Gross",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Isherwood",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Conaghan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Rheumatology",
+            "volume": "53",
+            "issn": "5",
+            "pages": "937--947",
+            "other_ids": {}
+        },
+        "BIBREF40": {
+            "ref_id": "b40",
+            "title": "Use and Costs of Prescription Medications and Alternative Treatments in Patients with Osteoarthritis and Chronic Low Back Pain in Accepted Article This article is protected by copyright. All rights reserved Community-Based Settings: Rx Medications and Alternative Treatments in OA and CLBP",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Gore",
+                    "suffix": ""
+                },
+                {
+                    "first": "K-S",
+                    "middle": [],
+                    "last": "Tai",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sadosky",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Leslie",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Stacey",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Pain Practice",
+            "volume": "12",
+            "issn": "7",
+            "pages": "550--560",
+            "other_ids": {}
+        },
+        "BIBREF41": {
+            "ref_id": "b41",
+            "title": "Prostaglandins and Inflammation",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Ricciotti",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Fitzgerald",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Arterioscler Thromb Vasc Biol",
+            "volume": "31",
+            "issn": "5",
+            "pages": "986--1000",
+            "other_ids": {}
+        },
+        "BIBREF42": {
+            "ref_id": "b42",
+            "title": "Vascular and upper gastrointestinal effects of non-steroidal anti-inflammatory drugs: meta-analyses of individual participant data from randomised trials",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Bhala",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "The Lancet",
+            "volume": "382",
+            "issn": "9894",
+            "pages": "769--779",
+            "other_ids": {}
+        },
+        "BIBREF43": {
+            "ref_id": "b43",
+            "title": "Kidney disease is associated with in-hospital death of patients with COVID-19",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Kidney International",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF44": {
+            "ref_id": "b44",
+            "title": "Risks Related to the Use of Non-Steroidal Anti-Inflammatory Drugs in Community-Acquired Pneumonia in Adult and Pediatric Patients",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Voiriot",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "JCM",
+            "volume": "8",
+            "issn": "6",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF45": {
+            "ref_id": "b45",
+            "title": "Nonsteroidal Antiinflammatory Drug Use and Clinical Outcomes of Community-acquired Pneumonia",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Basille",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Am J Respir Crit Care Med",
+            "volume": "198",
+            "issn": "1",
+            "pages": "128--131",
+            "other_ids": {}
+        },
+        "BIBREF46": {
+            "ref_id": "b46",
+            "title": "Ibuprofen, paracetamol, and steam for patients with respiratory tract infections in primary care: pragmatic randomised factorial trial",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Little",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "BMJ",
+            "volume": "347",
+            "issn": "2",
+            "pages": "6041--6041",
+            "other_ids": {}
+        },
+        "BIBREF47": {
+            "ref_id": "b47",
+            "title": "Nonsteroidal Anti-Inflammatory Drug without Antibiotics for Acute Viral Infection Increases the Empyema Risk in Children: A Matched Case-Control Study",
+            "authors": [
+                {
+                    "first": "Le",
+                    "middle": [],
+                    "last": "Bourgeois",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "The Journal of Pediatrics",
+            "volume": "175",
+            "issn": "",
+            "pages": "47--53",
+            "other_ids": {}
+        },
+        "BIBREF48": {
+            "ref_id": "b48",
+            "title": "Ibuprofen Attenuates Cardiac Fibrosis in Streptozotocin-Induced Diabetic Rats",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Qiao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Cardiology",
+            "volume": "131",
+            "issn": "2",
+            "pages": "97--106",
+            "other_ids": {}
+        },
+        "BIBREF49": {
+            "ref_id": "b49",
+            "title": "Associations between immune-suppressive and stimulating drugs and novel COVID-19-a systematic review of current evidence",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Russell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "14",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3332/ecancer.2020.1022"
+                ]
+            }
+        },
+        "BIBREF50": {
+            "ref_id": "b50",
+            "title": "Covid-19-The real role of NSAIDs in Italy",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "De Girolamo",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Peretti",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Maffulli",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Brini",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Orthop Surg Res",
+            "volume": "15",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF51": {
+            "ref_id": "b51",
+            "title": "All rights reserved 53. Varrassi G. Warning Against the Use of Anti-Inflammatory Medicines to Cure COVID-19: Building Castles in the Air",
+            "authors": [],
+            "year": 2020,
+            "venue": "Adv Ther",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF52": {
+            "ref_id": "b52",
+            "title": "Osteoarthritis in Europe: impact on health status, work productivity and use of pharmacotherapies in five European countries",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Kingsbury",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Gross",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Isherwood",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Conaghan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Rheumatology",
+            "volume": "53",
+            "issn": "5",
+            "pages": "937--947",
+            "other_ids": {}
+        },
+        "BIBREF53": {
+            "ref_id": "b53",
+            "title": "How do people with knee osteoarthritis use osteoarthritis pain medications and does this change over time? Data from the Osteoarthritis Initiative",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Kingsbury",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Hensor",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Walsh",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Hochberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Conaghan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Arthritis Res Ther",
+            "volume": "15",
+            "issn": "5",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF54": {
+            "ref_id": "b54",
+            "title": "Paracetamol: mechanisms and updates. Continuing Education in Anaesthesia Critical Care &",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Sharma",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Mehta",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Pain",
+            "volume": "14",
+            "issn": "4",
+            "pages": "153--158",
+            "other_ids": {}
+        },
+        "BIBREF55": {
+            "ref_id": "b55",
+            "title": "Paracetamol: not as safe as we thought? A systematic literature review of observational studies",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Roberts",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Ann Rheum Dis",
+            "volume": "75",
+            "issn": "3",
+            "pages": "552--559",
+            "other_ids": {}
+        },
+        "BIBREF56": {
+            "ref_id": "b56",
+            "title": "Paracetamol in therapeutic dosages and acute liver injury: causality assessment in a prospective case series",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Sabat\u00e9",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "BMC Gastroenterol",
+            "volume": "11",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF57": {
+            "ref_id": "b57",
+            "title": "Aminotransferase Elevations in Healthy Adults Receiving 4 Grams of Acetaminophen Daily: A Randomized Controlled Trial",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Watkins",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "JAMA",
+            "volume": "296",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF58": {
+            "ref_id": "b58",
+            "title": "Liver injury in COVID-19: management and challenges",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                },
+                {
+                    "first": "F-S",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "The Lancet Gastroenterology & Hepatology",
+            "volume": "5",
+            "issn": "5",
+            "pages": "428--430",
+            "other_ids": {}
+        },
+        "BIBREF59": {
+            "ref_id": "b59",
+            "title": "Ibuprofen, paracetamol, and steam for patients with respiratory tract infections in primary care: pragmatic randomised factorial trial",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Little",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "BMJ",
+            "volume": "347",
+            "issn": "2",
+            "pages": "6041--6041",
+            "other_ids": {}
+        },
+        "BIBREF60": {
+            "ref_id": "b60",
+            "title": "Nonsteroidal anti-inflammatory drug (NSAID) exacerbated respiratory disease phenotype: Topical NSAID and asthma control -A possible oversight link",
+            "authors": [
+                {
+                    "first": "Jhy",
+                    "middle": [],
+                    "last": "Tan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Aal",
+                    "middle": [],
+                    "last": "Hsu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Respiratory Medicine",
+            "volume": "118",
+            "issn": "",
+            "pages": "1--3",
+            "other_ids": {}
+        },
+        "BIBREF61": {
+            "ref_id": "b61",
+            "title": "Paracetamol reduces influenza-induced immunopathology in a mouse model of infection without compromising virus clearance or the generation of protective immunity",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Lauder",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Thorax",
+            "volume": "66",
+            "issn": "5",
+            "pages": "368--374",
+            "other_ids": {}
+        },
+        "BIBREF62": {
+            "ref_id": "b62",
+            "title": "Accepted Article This article is protected by copyright. All rights reserved",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF63": {
+            "ref_id": "b63",
+            "title": "Acetaminophen (paracetamol) for the common cold in adults",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF66": {
+            "ref_id": "b66",
+            "title": "Basic and Clinical Pharmacology of Glucocorticosteroids",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Becker",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Anesthesia Progress",
+            "volume": "60",
+            "issn": "1",
+            "pages": "25--32",
+            "other_ids": {}
+        },
+        "BIBREF67": {
+            "ref_id": "b67",
+            "title": "Six Weeks of Prednisolone Reduced Hand Osteoarthritis Pain",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Slomski",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "JAMA",
+            "volume": "323",
+            "issn": "4",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF68": {
+            "ref_id": "b68",
+            "title": "Intraarticular injections (corticosteroid, hyaluronic acid, platelet rich plasma) for the knee osteoarthritis",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Ayhan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "WJO",
+            "volume": "5",
+            "issn": "3",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF69": {
+            "ref_id": "b69",
+            "title": "Intra-Articular Corticosteroids in Arthritic Disease: A Guide to Treatment",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ostergaard",
+                    "suffix": ""
+                },
+                {
+                    "first": "Poul",
+                    "middle": [],
+                    "last": "Halberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "BioDrugs",
+            "volume": "9",
+            "issn": "2",
+            "pages": "95--103",
+            "other_ids": {}
+        },
+        "BIBREF70": {
+            "ref_id": "b70",
+            "title": "A practical guide to the monitoring and management of the complications of systemic corticosteroid therapy",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Allergy Asthma Clin Immunol",
+            "volume": "9",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF71": {
+            "ref_id": "b71",
+            "title": "Systemic effects of intra-articular corticosteroids",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Habib",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Clin Rheumatol",
+            "volume": "28",
+            "issn": "7",
+            "pages": "749--756",
+            "other_ids": {}
+        },
+        "BIBREF72": {
+            "ref_id": "b72",
+            "title": "Synovial and systemic pharmacokinetics (PK) of triamcinolone acetonide (TA) following intra-articular (IA) injection of an extended-release microsphere-based formulation (FX006) or standard crystalline suspension in patients with knee osteoarthritis",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Kraus",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF74": {
+            "ref_id": "b74",
+            "title": "Corticosteroids for pneumonia",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Stern",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF76": {
+            "ref_id": "b76",
+            "title": "Corticosteroids in Community-Acquired Pneumonia",
+            "authors": [],
+            "year": 2020,
+            "venue": "JAMA",
+            "volume": "323",
+            "issn": "9",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/14651858.CD007720.pub373"
+                ]
+            }
+        },
+        "BIBREF77": {
+            "ref_id": "b77",
+            "title": "Systematic Review of Treatment Effects",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Stockman",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Bellamy",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Garner",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Sars",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "PLoS Med",
+            "volume": "3",
+            "issn": "9",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF78": {
+            "ref_id": "b78",
+            "title": "Accepted Article This article is protected by copyright. All rights reserved",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF79": {
+            "ref_id": "b79",
+            "title": "Corticosteroid Therapy for Critically Ill Patients with Middle East Respiratory Syndrome",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Arabi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Am J Respir Crit Care Med",
+            "volume": "197",
+            "issn": "6",
+            "pages": "757--767",
+            "other_ids": {}
+        },
+        "BIBREF80": {
+            "ref_id": "b80",
+            "title": "Effects of early corticosteroid treatment on plasma SARS-associated Coronavirus RNA concentrations in adult patients",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Journal of Clinical Virology",
+            "volume": "31",
+            "issn": "4",
+            "pages": "304--309",
+            "other_ids": {}
+        },
+        "BIBREF81": {
+            "ref_id": "b81",
+            "title": "The effect of corticosteroids on mortality of patients with influenza pneumonia: a systematic review and meta-analysis",
+            "authors": [
+                {
+                    "first": "Y-N",
+                    "middle": [],
+                    "last": "Ni",
+                    "suffix": ""
+                },
+                {
+                    "first": "Chen",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Liang",
+                    "suffix": ""
+                },
+                {
+                    "first": "B-M",
+                    "middle": [],
+                    "last": "Liang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z-A",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Crit Care",
+            "volume": "23",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF82": {
+            "ref_id": "b82",
+            "title": "The Effect of Steroid Use in Hospitalized Adults With Respiratory Syncytial Virus-Related Illness",
+            "authors": [
+                {
+                    "first": "Fe-H",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Walsh",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Falsey",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Chest",
+            "volume": "140",
+            "issn": "5",
+            "pages": "1155--1161",
+            "other_ids": {}
+        },
+        "BIBREF83": {
+            "ref_id": "b83",
+            "title": "Treatment of Severe Acute Respiratory Syndrome With Glucosteroids",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Chest",
+            "volume": "129",
+            "issn": "6",
+            "pages": "1441--1452",
+            "other_ids": {}
+        },
+        "BIBREF84": {
+            "ref_id": "b84",
+            "title": "Effect of low-to-moderate-dose corticosteroids on mortality of hospitalized adolescents and adults with influenza A(H1N1)pdm09 viral pneumonia",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Influenza Other Respi Viruses",
+            "volume": "11",
+            "issn": "4",
+            "pages": "345--354",
+            "other_ids": {}
+        },
+        "BIBREF85": {
+            "ref_id": "b85",
+            "title": "Diagnosis and Treatment of Adults with Community-acquired Pneumonia. An Official Clinical Practice Guideline of the American Thoracic Society and Infectious Diseases Society of America",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Metlay",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Am J Respir Crit Care Med",
+            "volume": "200",
+            "issn": "7",
+            "pages": "45--67",
+            "other_ids": {}
+        },
+        "BIBREF87": {
+            "ref_id": "b87",
+            "title": "Clinical management of severe acute respiratory infection (SARI) when COVID-19 disease is suspected",
+            "authors": [
+                {
+                    "first": ".",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Med",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Aust",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.5694/mja2.5057783"
+                ]
+            }
+        },
+        "BIBREF88": {
+            "ref_id": "b88",
+            "title": "Current Treatment Options for Osteoarthritis",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Hermann",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Lambova",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "M\u00fcller-Ladner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "CRR",
+            "volume": "14",
+            "issn": "2",
+            "pages": "108--116",
+            "other_ids": {}
+        },
+        "BIBREF89": {
+            "ref_id": "b89",
+            "title": "Accepted Article This article is protected by copyright. All rights reserved",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF90": {
+            "ref_id": "b90",
+            "title": "Differences between opioids: pharmacological, experimental, clinical and economical perspectives: Differences between opioids",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Drewes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "British Journal of Clinical Pharmacology",
+            "volume": "75",
+            "issn": "1",
+            "pages": "60--78",
+            "other_ids": {}
+        },
+        "BIBREF91": {
+            "ref_id": "b91",
+            "title": "Opioids and the immune system -friend or foe",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Plein",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Rittner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "British Journal of Pharmacology",
+            "volume": "175",
+            "issn": "14",
+            "pages": "2717--2725",
+            "other_ids": {}
+        },
+        "BIBREF92": {
+            "ref_id": "b92",
+            "title": "Review of Opioid Pharmacogenetics and Considerations for Pain Management",
+            "authors": [
+                {
+                    "first": "Owusu",
+                    "middle": [],
+                    "last": "Obeng",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Hamadeh",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Pharmacotherapy",
+            "volume": "37",
+            "issn": "9",
+            "pages": "1105--1121",
+            "other_ids": {}
+        },
+        "BIBREF93": {
+            "ref_id": "b93",
+            "title": "Prescription Opioids and Infection Risk: Research and Caution Needed",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Dublin",
+                    "suffix": ""
+                },
+                {
+                    "first": "Von",
+                    "middle": [],
+                    "last": "Korff",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Ann Intern Med",
+            "volume": "168",
+            "issn": "6",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF94": {
+            "ref_id": "b94",
+            "title": "Opioids and Viral Infections: A Double-Edged Sword",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Tahamtan",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF96": {
+            "ref_id": "b96",
+            "title": "Do All Opioid Drugs Share the Same Immunomodulatory Properties? A Review From Animal and Human Studies",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Franchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Moschetti",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Amodeo",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Sacerdote",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Front. Immunol",
+            "volume": "10",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF97": {
+            "ref_id": "b97",
+            "title": "Association of Prescribed Opioids With Increased Risk of Community-Acquired Pneumonia Among Patients With and Without HIV",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Edelman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "JAMA Intern Med",
+            "volume": "179",
+            "issn": "3",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF98": {
+            "ref_id": "b98",
+            "title": "Hospital-Treated Pneumonia Associated with Opioid Use Among Community Dwellers with Alzheimer's Disease",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Hamina",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "JAD",
+            "volume": "69",
+            "issn": "3",
+            "pages": "807--816",
+            "other_ids": {}
+        },
+        "BIBREF99": {
+            "ref_id": "b99",
+            "title": "Oral or transdermal opioids for osteoarthritis of the knee or hip",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Da Costa",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Cochrane Database Syst Rev",
+            "volume": "",
+            "issn": "9",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF100": {
+            "ref_id": "b100",
+            "title": "Adverse Effects of Transdermal Opiates Treating Moderate-Severe Cancer Pain in Comparison to Long-Acting Morphine: A Meta-Analysis and Systematic Review of the Literature",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Tassinari",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Journal of Palliative Medicine",
+            "volume": "11",
+            "issn": "3",
+            "pages": "492--501",
+            "other_ids": {}
+        },
+        "BIBREF101": {
+            "ref_id": "b101",
+            "title": "Opioid and benzodiazepine prescriptions for osteoarthritis remain prevalent",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Alamanda",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Arthritis Care Res",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF102": {
+            "ref_id": "b102",
+            "title": "The opioid epidemic: helping rheumatologists prevent a crisis",
+            "authors": [
+                {
+                    "first": "A-P",
+                    "middle": [],
+                    "last": "Trouvin",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Berenbaum",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Perrot",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "RMD Open",
+            "volume": "5",
+            "issn": "2",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF103": {
+            "ref_id": "b103",
+            "title": "Treatment of Osteoarthritis of the Knee: Evidence-Based Guideline",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Jevsevar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Journal of the American Academy of Orthopaedic Surgeons",
+            "volume": "21",
+            "issn": "9",
+            "pages": "571--576",
+            "other_ids": {}
+        },
+        "BIBREF104": {
+            "ref_id": "b104",
+            "title": "American College of Rheumatology 2012 recommendations for the use of nonpharmacologic and pharmacologic therapies in osteoarthritis of the hand, hip, and knee",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Hochberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Arthritis Care Res",
+            "volume": "64",
+            "issn": "4",
+            "pages": "465--474",
+            "other_ids": {}
+        },
+        "BIBREF105": {
+            "ref_id": "b105",
+            "title": "Trends in Prescription of Opioids From 2003-2009 in Persons With Knee Osteoarthritis: Opioid Prescription Trends From",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Wright",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Katz",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Abrams",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Solomon",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Losina",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Arthritis Care & Research",
+            "volume": "66",
+            "issn": "10",
+            "pages": "1489--1495",
+            "other_ids": {}
+        },
+        "BIBREF106": {
+            "ref_id": "b106",
+            "title": "Tramadol for osteoarthritis",
+            "authors": [
+                {
+                    "first": "Toupin",
+                    "middle": [],
+                    "last": "April",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF108": {
+            "ref_id": "b108",
+            "title": "Association of Tramadol With All-Cause Mortality Among Patients With Osteoarthritis",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Zeng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "JAMA",
+            "volume": "321",
+            "issn": "10",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF109": {
+            "ref_id": "b109",
+            "title": "Trends in Prescription of Opioids From 2003-2009 in Persons With Knee Osteoarthritis: Opioid Prescription Trends From",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Wright",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Katz",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Abrams",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Solomon",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Losina",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Arthritis Care & Research",
+            "volume": "66",
+            "issn": "10",
+            "pages": "1489--1495",
+            "other_ids": {}
+        },
+        "BIBREF110": {
+            "ref_id": "b110",
+            "title": "Double blind randomized placebo control trial of controlled release codeine in the treatment of osteoarthritis of the hip or knee",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Peloso",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J. Rheumatol",
+            "volume": "27",
+            "issn": "3",
+            "pages": "764--771",
+            "other_ids": {}
+        },
+        "BIBREF111": {
+            "ref_id": "b111",
+            "title": "Use of Opioids or Benzodiazepines and Risk of Pneumonia in Older Adults: A Population-Based Case-Control Study",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Dublin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "J. Am. Geriatr. Soc",
+            "volume": "59",
+            "issn": "10",
+            "pages": "1899--1907",
+            "other_ids": {}
+        },
+        "BIBREF112": {
+            "ref_id": "b112",
+            "title": "Disease-modifying treatments for osteoarthritis (DMOADs) of the knee and hip: lessons learned from failures and opportunities for the future",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Karsdal",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Osteoarthritis and Cartilage",
+            "volume": "24",
+            "issn": "12",
+            "pages": "2013--2021",
+            "other_ids": {}
+        },
+        "BIBREF113": {
+            "ref_id": "b113",
+            "title": "Accepted Article This article is protected by copyright. All rights reserved",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF114": {
+            "ref_id": "b114",
+            "title": "Tumour necrosis factor blockade for the treatment of erosive osteoarthritis of the interphalangeal finger joints: a double blind, randomised trial on structure modification",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Verbruggen",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Wittoek",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Cruyssen",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Elewaut",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Ann Rheum Dis",
+            "volume": "71",
+            "issn": "6",
+            "pages": "891--898",
+            "other_ids": {}
+        },
+        "BIBREF115": {
+            "ref_id": "b115",
+            "title": "Adalimumab in patients with hand osteoarthritis refractory to analgesics and NSAIDs: a randomised, multicentre, double-blind, placebo-controlled trial",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Chevalier",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Ann Rheum Dis",
+            "volume": "74",
+            "issn": "9",
+            "pages": "1697--1705",
+            "other_ids": {}
+        },
+        "BIBREF116": {
+            "ref_id": "b116",
+            "title": "A randomised double-blind placebo-controlled crossover trial of HUMira (adalimumab) for erosive hand OsteoaRthritis -the HUMOR trial",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Aitken",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Osteoarthritis and Cartilage",
+            "volume": "26",
+            "issn": "7",
+            "pages": "880--887",
+            "other_ids": {}
+        },
+        "BIBREF117": {
+            "ref_id": "b117",
+            "title": "Etanercept in patients with inflammatory hand osteoarthritis (EHOA): a multicentre, randomised, double-blind, placebo-controlled trial",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kloppenburg",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Ann Rheum Dis",
+            "volume": "77",
+            "issn": "12",
+            "pages": "1757--1764",
+            "other_ids": {}
+        },
+        "BIBREF118": {
+            "ref_id": "b118",
+            "title": "Safety and efficacy of subcutaneous tanezumab in patients with knee or hip osteoarthritis",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Birbara",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "JPR",
+            "volume": "11",
+            "issn": "",
+            "pages": "151--164",
+            "other_ids": {}
+        },
+        "BIBREF119": {
+            "ref_id": "b119",
+            "title": "Efficacy and safety of tanezumab monotherapy or combined with nonsteroidal anti-inflammatory drugs in the treatment of knee or hip osteoarthritis pain",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Schnitzer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Ann Rheum Dis",
+            "volume": "74",
+            "issn": "6",
+            "pages": "1202--1211",
+            "other_ids": {}
+        },
+        "BIBREF120": {
+            "ref_id": "b120",
+            "title": "Efficacy and Safety of Tanezumab on Osteoarthritis Knee and Hip Pains: A Meta-Analysis of Randomized Controlled Trials",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Pain Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF121": {
+            "ref_id": "b121",
+            "title": "Generation and characterization of ABT-981, a dual variable domain immunoglobulin (DVD-Ig TM ) molecule that specifically and potently neutralizes both IL-1\u03b1 and IL-1\u03b2",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Lacy",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "mAbs",
+            "volume": "7",
+            "issn": "3",
+            "pages": "605--619",
+            "other_ids": {}
+        },
+        "BIBREF122": {
+            "ref_id": "b122",
+            "title": "Phase IIa, placebo-controlled, randomised study of lutikizumab, an anti-interleukin-1\u03b1 and anti-interleukin-1\u03b2 dual variable domain immunoglobulin, in patients with erosive hand osteoarthritis",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kloppenburg",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Ann Rheum Dis",
+            "volume": "78",
+            "issn": "3",
+            "pages": "413--420",
+            "other_ids": {}
+        },
+        "BIBREF123": {
+            "ref_id": "b123",
+            "title": "All rights reserved 115. Fleischmann RM et al. A Phase II Trial of Lutikizumab, an Anti-Interleukin-1\u03b1/\u03b2 Dual Variable Domain Immunoglobulin, in Knee Osteoarthritis Patients With Synovitis",
+            "authors": [],
+            "year": 2019,
+            "venue": "Arthritis Rheumatol",
+            "volume": "71",
+            "issn": "7",
+            "pages": "1056--1069",
+            "other_ids": {}
+        },
+        "BIBREF124": {
+            "ref_id": "b124",
+            "title": "Disease Modifying Anti-Rheumatic Drugs (DMARD) [Internet]. In: StatPearls. Treasure Island (FL): StatPearls Publishing; 2020: 117. Sepriano A et al. Safety of synthetic and biological DMARDs: a systematic literature review informing the 2019 update of the EULAR recommendations for the management of rheumatoid arthritis",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Benjamin",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Bansal",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Goyal",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Lappin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Ann Rheum Dis",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF125": {
+            "ref_id": "b125",
+            "title": "Incidence of influenza-like illness into a cohort of patients affected by chronic inflammatory rheumatism and treated with biological agents",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Bello",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Reumatismo",
+            "volume": "64",
+            "issn": "5",
+            "pages": "299--306",
+            "other_ids": {}
+        },
+        "BIBREF126": {
+            "ref_id": "b126",
+            "title": "A comprehensive review and evaluation of the side effects of the tumor necrosis factor alpha blockers etanercept, infliximab and adalimumab",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Scheinfeld",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Journal of Dermatological Treatment",
+            "volume": "15",
+            "issn": "5",
+            "pages": "280--294",
+            "other_ids": {}
+        },
+        "BIBREF127": {
+            "ref_id": "b127",
+            "title": "Effect of Treating Psoriasis on Cardiovascular Co-Morbidities: Focus on TNF Inhibitors",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Famenini",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Sako",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Am J Clin Dermatol",
+            "volume": "15",
+            "issn": "1",
+            "pages": "45--50",
+            "other_ids": {}
+        },
+        "BIBREF128": {
+            "ref_id": "b128",
+            "title": "Adalimumab: longterm safety in 23 458 patients from global clinical trials in rheumatoid arthritis, juvenile idiopathic arthritis, ankylosing spondylitis, psoriatic arthritis, psoriasis and Crohn's disease",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Burmester",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Panaccione",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Gordon",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Mcilraith",
+                    "suffix": ""
+                },
+                {
+                    "first": "Apm",
+                    "middle": [],
+                    "last": "Lacerda",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Ann Rheum Dis",
+            "volume": "72",
+            "issn": "4",
+            "pages": "517--524",
+            "other_ids": {}
+        },
+        "BIBREF129": {
+            "ref_id": "b129",
+            "title": "Interleukin-1\u03b2 Inhibition with Canakinumab Associates with Reduced Rates of Total Hip and Knee Replacement",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Schieker",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Mindeholm",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Praestgaard",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF130": {
+            "ref_id": "b130",
+            "title": "OA) Symptoms: Exploratory Results from the Canakinumab Anti-Inflammatory Thrombosis Outcomes Study (CANTOS)",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Osteoarthritis",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF131": {
+            "ref_id": "b131",
+            "title": "ACR Meeting Abstracts",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "15",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF132": {
+            "ref_id": "b132",
+            "title": "Accepted Article This article is protected by copyright. All rights reserved",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF133": {
+            "ref_id": "b133",
+            "title": "Modulation of TNF--converting enzyme by the spike protein of SARS-CoV and ACE2 induces TNF-production and facilitates viral entry",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Haga",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Proceedings of the National Academy of Sciences",
+            "volume": "105",
+            "issn": "22",
+            "pages": "7809--7814",
+            "other_ids": {}
+        },
+        "BIBREF134": {
+            "ref_id": "b134",
+            "title": "Up-regulation of IL-6 and TNF-\u03b1 induced by SARS-coronavirus spike protein in murine macrophages via NF-\u03baB pathway",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Virus Research",
+            "volume": "128",
+            "issn": "1-2",
+            "pages": "1--8",
+            "other_ids": {}
+        },
+        "BIBREF135": {
+            "ref_id": "b135",
+            "title": "Imbalance of the renin-angiotensin system may contribute to inflammation and fibrosis in IBD: a novel therapeutic target?",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Garg",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Gut",
+            "volume": "69",
+            "issn": "5",
+            "pages": "841--851",
+            "other_ids": {}
+        },
+        "BIBREF136": {
+            "ref_id": "b136",
+            "title": "SARS-Coronavirus Open Reading Frame-8b triggers intracellular stress pathways and activates NLRP3 inflammasomes",
+            "authors": [
+                {
+                    "first": "C-S",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Nabar",
+                    "suffix": ""
+                },
+                {
+                    "first": "N-N",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Kehrl",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Cell Death Discov",
+            "volume": "5",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF137": {
+            "ref_id": "b137",
+            "title": "The deadly coronaviruses: The 2003 SARS pandemic and the 2020 novel coronavirus epidemic in China",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Journal of Autoimmunity",
+            "volume": "109",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF139": {
+            "ref_id": "b139",
+            "title": "Interleukin-1 Receptor Blockade Is Associated With Reduced Mortality in Sepsis Patients With Features of Macrophage Activation Syndrome: Reanalysis of a Prior Phase III Trial*",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Shakoory",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Critical Care Medicine",
+            "volume": "44",
+            "issn": "2",
+            "pages": "275--281",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "pleuropulmonary complications (1.81 [95% confidence interval, 1.60-2.05]). Further, in a trial studying almost 900 patients with respiratory tract infections, 20% of them advised to take ibuprofen were documented to have reconsultations with new/unresolved symptoms or complications (aRR of 1.67 [1.12-2.38])(48). Eventually, in children with upper and lower tract by S. pneumoniae of different serotypes(49).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "documented to have reconsultations with new/unresolved symptoms or complications (aRR of 1, control group). Moreover, in the Northern Denmark population study to evaluate antiinflammatory/analgesics use as a prognostic factor for clinical outcomes in patients hospitalized with pneumonia, differently than for NSAIDs, an association with pleuropulmonary complications in users of paracetamol was not observed (aRR of 0.97 [0.86-1.09])(47). Overall, paracetamol might be a better option in case of pneumonia due to NSAIDs detrimental consequence of delaying antibiotic therapy and bronchoconstriction, possibly leading to NSAID-exacerbated respiratory disease (NERD) phenotype that, when diagnosed, results in NSAIDs discontinuation(62).For respiratory tract viral infections, in a mouse study it was reported that paracetamol reduces the morbidity associated with Influenza A infection by decreasing the infiltration of inflammatory cells into the airway spaces and improving the overall lung function(63). In a Cochrane Review, paracetamol helped relieve nasal obstruction and rhinorrhoea but did not appear to improve sore throat, malaise, sneezing and cough in people with cold, the most frequent viral infection of the upper respiratory tract(64).In conclusion, in the COVID19 frame, at present there are no evidences in favour or against the use or a higher safety profile of paracetamol vs NSAIDs during the treatment of patients. Surely, those already taking paracetamol should not discontinue its use, although it should be taken into account that, likewise NSAIDs and other antipyretic substances, paracetamol does not increase infectious risk ratio but can be responsible of a later presentation of symptoms or an underestimation of the severity of the disease, both leading to a delayed diagnosis, possible worse prognosis and life threatening complications.(Table I andFigure 1)",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "threatening events, the situation is more controversial. Corticosteroids were widely used during the outbreaks of 2002 severe acute respiratory syndrome (SARS)-CoV (74) and 2012 Middle East respiratory syndrome (MERS)-CoV (75). For SARS, in a RCT to compare the plasma SARS-CoV RNA concentrations in ribavirin-treated patients who received early hydrocortisone therapy (< 7 days of illness) with those who received placebo, the 9 patients who received hydrocortisoneAccepted ArticleThis article is protected by copyright. )(75). In a systematic review and meta-analysis covering 6,548 patients with influenza pneumonia, CS were associated with higher mortality (aRR of 1.75, [1.30-2.36] P = 0.0002) and a higher rate of secondary infection (aRR 1.98 [1.04-3.78] P = 0.04)(77).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "reduced 30-day mortality (adjusted hazard ratio of 0.64 [0.43-0.96] P = 0.033]) (80). Overall, the recent guidelines from the American Thoracic Society and the Infectious Diseases Society of America advise against adjunctive CS treatment of pneumonia or influenza pneumonia except in patients who have other indications for their use (81). Eventually, in April 2020 the first report on COVID-19 patients treated with CS after infection was released (82). Eleven patients out of 31 received CS, and no association was indicated between CS treatment and virus clearance time (hazard ratio of 1.26 [0.58-2.74]), hospital length of stay (0.77 [0.33-1.78]), or duration of symptoms (0.86 [0.40-1.83]). Therefore, again, no clinical data exist at the moment suggest that net benefit or detriment is derived from CS in COVID-19 patients. Some light for future research and eventual indication of CS use for COVID-19 might be related to their anti-inflammatory and immunosuppressive effects, since the most obvious detrimental outcomes on the immune system might be balanced by the reduction of the cytokine storm associated with COVID-19 progression. At present, in absence of clear indications, in the last update of WHO guidelines for patients suspected of COVID-19 infection, as for general or influenza pneumonia it is recommended to avoid routine CS use unless they are indicated for another reason (83). In this scenario, in OA patients already treated systemically with CS (84), there is no clear evidence suggesting the need of discontinuation, due to absence of clinical data connecting CS therapy and increased COVID-19 incidence. For intra-articular",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "Figure 1)",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF5": {
+            "text": ". The specific role of anti-inflammatory drugs, taken for a long time at high dosage to control OA symptoms, in reducing the immune response but at the same time containing the cytokine storm characterizing the severe COVID-19 disease, is certainly interesting. However, evidences are not clearly defined. Cutting edge approaches, such as mAbs, probably have lower",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF6": {
+            "text": "Legend",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF7": {
+            "text": "Classification of COVID-19 disease states and overlay with OA-associated treatments. The figure shows the escalating phases of disease progression with COVID-19, with associated symptoms and the relevance of OA treatments with their possible continuation, discontinuation or cost/benefit depending on available literature data. IL = Interleukin, TNF = Tumor necrosis factor, IS = Immunosuppressive.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "hospital-treated pneumonia among Alzheimer' disease patients compared to strong opioids (aHR of 1.54 [1.09-2.17] vs 2.83 [1.89-4.24]) (92). Moreover, regardless of opioid strength or immunosuppressive features, highest risk was observed during the first two months of use (aHR 2.58, [1.87-3.55]), and disappeared after prolonged use (> 180 days) (0.91 [0.62-1.33]), as for OA patients under chronic management. In the OA frame, a 2014 Cochrane Review, including randomised or quasi-randomised controlled trials that compared oral or transdermal opioids with placebo or no treatment, evidenced an increased risk of general adverse events in the opioid group (RR 1.49 [1.35 to 1.63]) (93).",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": ". In US, Tramadol prescription were 10% in 2009 for OA patients(99). Unlike NSAIDs, Tramadol does not cause bleeding in the stomach and intestines, or kidney problems. A recent Cochrane review sifting 22",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "Potential role of OA drugs in COVID-19 pandemic and major related events",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "Authors want to thank all health-care workers of IRCCS Istituto Ortopedico Galeazzi for their exceptional work during this unexpected world challenge.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgements"
+        }
+    ]
+}

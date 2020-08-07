@@ -1,0 +1,2208 @@
+{
+    "paper_id": "PMC7320713",
+    "metadata": {
+        "title": "Role of corticosteroid in the management of COVID-19: A systemic review and a Clinician\u2019s perspective",
+        "authors": [
+            {
+                "first": "Awadhesh",
+                "middle": [
+                    "Kumar"
+                ],
+                "last": "Singh",
+                "suffix": "",
+                "email": "draksingh_2001@yahoo.com",
+                "affiliation": {}
+            },
+            {
+                "first": "Sujoy",
+                "middle": [],
+                "last": "Majumdar",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Ritu",
+                "middle": [],
+                "last": "Singh",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Anoop",
+                "middle": [],
+                "last": "Misra",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [
+        {
+            "text": "Coronavirus diseases 2019 (COVID-19), caused by Severe Acute Respiratory Syndrome Corona virus 2 (SARS-CoV-2), is responsible for the global pandemic that originated from Wuhan in December 2019. Though the majority of patients undergo an uneventful recovery, in around 19% there is a progressive worsening leading to severe pneumonia in 14% and critical pneumonia in 5% of patients [1]. There is a staged progression in the course of events after a median incubation period of 4 days (interquartile range 2\u20137 days) [2]. The adult respiratory distress syndrome (ARDS) usually develops from the second week onwards. This does not only happen because of uncontrolled viral replication but also because of an explosive immune response from the host. In presence of uncontrolled viral replication, the presence of an increased number of infected epithelial cells and cell debris triggers a massive cytokine release - the so-called \u2018cytokine storm\u2019 - with hyperinflammation and immune suppression, characterized by decreased memory CD4 + T helper cells and increased CD8 cytotoxic activity [3].",
+            "cite_spans": [
+                {
+                    "start": 383,
+                    "end": 384,
+                    "mention": "1",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 516,
+                    "end": 517,
+                    "mention": "2",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 1085,
+                    "end": 1086,
+                    "mention": "3",
+                    "ref_id": "BIBREF22"
+                }
+            ],
+            "section": "Introduction",
+            "ref_spans": []
+        },
+        {
+            "text": "In the first phase, the antiviral immune response leads to the elimination of the virus at the expense of the immune mediated pulmonary injury. At one end of the spectrum, a balanced immune response keeps the infection under control, but at the other end there is an exaggerated immune response with consequent lung injury. Lung injury initiates at the epithelial-interstitial-endothelial level, with exudation of neutrophils and macrophages, which, in its turn reduces the alveolar surfactant, thereby reducing the alveolar patency and the gas exchange. Infected cellular debris further augments the release of inflammatory cytokines like TNF-\u03b1, interleukin-1 (IL-1) and IL-6, further accentuating the \u2018cytokine storm\u201d [4].",
+            "cite_spans": [
+                {
+                    "start": 721,
+                    "end": 722,
+                    "mention": "4",
+                    "ref_id": "BIBREF33"
+                }
+            ],
+            "section": "Introduction",
+            "ref_spans": []
+        },
+        {
+            "text": "The second phase begins with uncontrolled viral replication induced angiotensin-converting enzyme 2 (ACE2)-directed cytotoxicity, that triggers a vicious circle of immune activation with consequent worsening of the hyperinflammatory state. At this stage, patients exhibit lymphopenia with reduced B cells, CD4 and CD8 T cells and CD16+ Natural Killer (NK) cells. This probably results because of an increase in extravasations of dysfunctional lymphocytes [5]. The accompanying \u201ccytokine storm\u201d leads to a massive vascular inflammation, disseminated coagulation, shock and hypotension, leading to multi organ failure and death. Fig. 1\nbriefly summarizes the pathogenesis of ARDS in COVID-19. Studies have shown that any intervention which can prevent this catastrophe can also prevent the lung damage and pulmonary thromboembolism [5,6]. It is with this pathophysiology in mind that intervention with corticosteroids has been thought about in COVID-19.",
+            "cite_spans": [
+                {
+                    "start": 456,
+                    "end": 457,
+                    "mention": "5",
+                    "ref_id": "BIBREF44"
+                },
+                {
+                    "start": 831,
+                    "end": 832,
+                    "mention": "5",
+                    "ref_id": "BIBREF44"
+                },
+                {
+                    "start": 833,
+                    "end": 834,
+                    "mention": "6",
+                    "ref_id": "BIBREF47"
+                }
+            ],
+            "section": "Introduction",
+            "ref_spans": [
+                {
+                    "start": 627,
+                    "end": 633,
+                    "mention": "Fig. 1",
+                    "ref_id": "FIGREF0"
+                }
+            ]
+        },
+        {
+            "text": "Since corticosteroids causes immune suppression by impairing the innate immunity, their use has been largely discouraged because of the fear of worsening of viral propagation. However, in patients who are on long term maintenance dose of steroids, there is no increased incidence of development of severe or critical pneumonia in presence of COVID-19 [6]. Interestingly, most of earlier studies done in Severe Acute Respiratory Syndrome 1 (SARS-CoV-1) and the Middle Eastern Respiratory Syndrome (MERS-CoV) showed adverse outcomes with corticosteroid treatment [7,8]. Indeed, two recent commentaries published in the Lancet reported that corticosteroids should be avoided for the treatment of COVID-19 [9,10]. However, these assumptions are mainly based on the experiences in similar viral illness but not on COVID-19 specifically. Both Word Health Organization (WHO) and The Centers for Disease Control and Prevention (CDC), USA also specifically advises against the use of corticosteroids in COVID-19 for the purpose of immune modulation [11,12]. In contrast, the recent multinational Surviving Sepsis Guideline in COVID-19, recommends giving steroids in patients with severe COVID-19 on mechanical ventilation with ARDS, in order to reduce the destructive inflammatory immune response (based on very minimal evidence though), and to treat suspected adrenal insufficiency associated with sepsis, particularly in those with refractory shock, although this guideline advises against the use of corticosteroids in COVID patients in non-ARDS respiratory failure on mechanical ventilation [13]. Nevertheless, the Randomized Evaluation of COVid-19 thERapY (RECOVERY Trial) conducted in patients with COVID-19 has shown a significantly improved the outcome with dexamethasone, a corticosteroid, in the treatment of severe COVID-19 requiring oxygen therapy or on mechanical ventilator [14]. These finding prompted us to conduct a systematic review of studies conducted with corticosteroid in patients with COVID-19 as well as ARDS due to other viral diseases.",
+            "cite_spans": [
+                {
+                    "start": 352,
+                    "end": 353,
+                    "mention": "6",
+                    "ref_id": "BIBREF47"
+                },
+                {
+                    "start": 562,
+                    "end": 563,
+                    "mention": "7",
+                    "ref_id": "BIBREF48"
+                },
+                {
+                    "start": 564,
+                    "end": 565,
+                    "mention": "8",
+                    "ref_id": "BIBREF49"
+                },
+                {
+                    "start": 703,
+                    "end": 704,
+                    "mention": "9",
+                    "ref_id": "BIBREF50"
+                },
+                {
+                    "start": 705,
+                    "end": 707,
+                    "mention": "10",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 1041,
+                    "end": 1043,
+                    "mention": "11",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 1044,
+                    "end": 1046,
+                    "mention": "12",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 1587,
+                    "end": 1589,
+                    "mention": "13",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 1880,
+                    "end": 1882,
+                    "mention": "14",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "section": "Introduction",
+            "ref_spans": []
+        },
+        {
+            "text": "A thorough and systematic search from the electronic database of PubMed, MedRxiv, and Cochrane library using specific keywords \u201cCorticosteroids\u201d, \u201cDexamethasone\u201d, \u201cMethylprednisolone\u201d, \u201cHydrocortisone\u201d, \u201cAdult Respiratory Distress Syndrome\u201d, \u201cCOVID-19\u201d, \u201cSARS-CoV-2\u201d, \u201cIntubation\u201d, \u201cVentilation\u201d, with a Boolean interposition of \u201cAND\u201d was made up till June 17, 2020. All the original articles fulfilling the inclusion criteria with the supplementary appendix were retrieved. Subsequently, all the articles were meticulously analyzed and presented in the text.",
+            "cite_spans": [],
+            "section": "Methods",
+            "ref_spans": []
+        },
+        {
+            "text": "The role of corticosteroids in non-COVID ARDS remains controversial. In a multicentric randomized controlled trial (RCT) conducted in 2018 involving 17 intensive care units (ICUs) in Spain, the role of dexamethasone in established ARDS of mixed non-COVID etiology was evaluated with 277 patients, of whom 139 were randomly assigned to the dexamethasone group, while the rest served as the controls. Mean number of ventilation free days (at 28 days) was more in the dexamethasone group in comparison with the control group (12.3 days vs. 7.5 days, p < 0.001), with a 15.3% reduction of all-cause mortality on day 60 (21% vs. 36%, p = 0.005), 12.5% reduction of ICU mortality (19% vs. 31%, p = 0.017) and a 12.5% reduction of hospital mortality (24% vs. 36%, p = 0.024). An encouraging fact of this study was that there was no significant increased incidence of hyperglycemia, new onset infections or barotrauma [15]. These results suggest that early therapy with dexamethasone could change the outcome of ARDS by having an effect on the systemic immune responses. The effect on reduced requirement of ventilation is actually a manifestation of better survival. In ARDS, down regulation of the pulmonary and systemic inflammation with long term dexamethasone leads to a substantial improvement in indices of alveolar\u2013capillary membrane permeability and tissue repair [16].",
+            "cite_spans": [
+                {
+                    "start": 911,
+                    "end": 913,
+                    "mention": "15",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 1366,
+                    "end": 1368,
+                    "mention": "16",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "section": "Studies of corticosteroids in ARDS of mixed etiology not due to COVID-19 ::: Results",
+            "ref_spans": []
+        },
+        {
+            "text": "Corticosteroids had been tried in a few studies with SARS-CoV-1 and MERS-CoV infections. Two studies of patients with SARS-CoV-1 and influenza A (H1N1) viral pneumonia showed that the use of systemic corticosteroids was associated with reduced mortality in critical patients [6,17]. However, a meta-analysis showed a considerable higher mortality (Risk ratio [RR] 1.75; 95% confidence interval [CI], 1.30\u20132.36; p = 0.0002) and higher rate of secondary infection (RR 1.98; 95% CI, 1.04\u20133.78; p = 0.04) in steroid treated influenza patients [18]. Methylprednisolone was used in a significant number of studies followed by hydrocortisone, prednisolone and dexamethasone. In MERS-CoV, steroid treatment was associated with an adverse outcome with higher 90-day crude mortality (adjusted odds ratio [OR] 1.87; 95% CI, 1.02\u20133.44; P = 0.04), higher likelihood of invasive ventilation (93.4 vs. 76.6%; p < 0.0001) and delayed viral clearance (adjusted hazard ratio [HR] 0.35; 95% CI 0.17\u20130.72; p = 0.005), though it has to be borne in mind that the steroid used was mostly hydrocortisone in 68% [8]. Notwithstanding a lack of uniform protocol in SARS-CoV-1, methylprednisolone, particularly when used in high dosage (up to 1000 mg/day) did show some survival benefit and some degree of reduction in incidence of ARDS and early discharge from the hospital [17,19,20]. Altogether systemic corticosteroids were used in 79.6% of SARS-CoV-1 and 48.9% of MERS-CoV critical cases [8,17]. However, most of these studies had minimal follow up and do not record about the long-term consequences of high dose steroid including the prevalence of relative adrenal insufficiency or unmasking of diabetes [17]. One study showed incidence of avascular necrosis of hip in China as 3.2% (4 of 124 cases) [20], much lower than other studies [21,22], which again was presumably secondary to the lower dose of steroids used in former. Another issue was the timing of the steroids and other treatments used. Early use of steroids in some studies along with antiviral and broad-spectrum antibiotics showed the best result in SARS-CoV-1 but not in MERS-CoV infections [17,20]. Table 1\nsummarizes the results of studies conducted in patients with previous coronavirus infections.",
+            "cite_spans": [
+                {
+                    "start": 276,
+                    "end": 277,
+                    "mention": "6",
+                    "ref_id": "BIBREF47"
+                },
+                {
+                    "start": 278,
+                    "end": 280,
+                    "mention": "17",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 540,
+                    "end": 542,
+                    "mention": "18",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 1088,
+                    "end": 1089,
+                    "mention": "8",
+                    "ref_id": "BIBREF49"
+                },
+                {
+                    "start": 1348,
+                    "end": 1350,
+                    "mention": "17",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 1351,
+                    "end": 1353,
+                    "mention": "19",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 1354,
+                    "end": 1356,
+                    "mention": "20",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 1466,
+                    "end": 1467,
+                    "mention": "8",
+                    "ref_id": "BIBREF49"
+                },
+                {
+                    "start": 1468,
+                    "end": 1470,
+                    "mention": "17",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 1683,
+                    "end": 1685,
+                    "mention": "17",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 1779,
+                    "end": 1781,
+                    "mention": "20",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 1815,
+                    "end": 1817,
+                    "mention": "21",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 1818,
+                    "end": 1820,
+                    "mention": "22",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 2137,
+                    "end": 2139,
+                    "mention": "17",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 2140,
+                    "end": 2142,
+                    "mention": "20",
+                    "ref_id": "BIBREF12"
+                }
+            ],
+            "section": "Studies with corticosteroid treatment in previous corona virus infections ::: Results",
+            "ref_spans": [
+                {
+                    "start": 2145,
+                    "end": 2152,
+                    "mention": "Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ]
+        },
+        {
+            "text": "Corticosteroids have been used in quite a few studies with COVID-19 without any pre-adjudication to look at the outcomes dedicated to the steroid therapy. Most of these studies had a small cohort size and had a high degree of heterogeneity regarding the choice of steroids, the dose and timing of the steroids, and had a co-prescription of broad-spectrum antibiotics and antivirals [2,[23], [24], [25], [26], [27]]. Majority of these studies, owing to their design were not adequately powered to give the answer as to whether steroids produced any outcome benefits. Barring one study [24], others did not find any benefit in patients with acute lung injury/ARDS, irrespective of the timing of administration of steroids. Corticosteroid therapy was also shown to increase the time of viral excretion from the body in one study [26]. Table 2\nsummarizes the outcomes with corticosteroid in these studies.",
+            "cite_spans": [
+                {
+                    "start": 383,
+                    "end": 384,
+                    "mention": "2",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 385,
+                    "end": 389,
+                    "mention": "[23]",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 391,
+                    "end": 395,
+                    "mention": "[24]",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 397,
+                    "end": 401,
+                    "mention": "[25]",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 403,
+                    "end": 407,
+                    "mention": "[26]",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 409,
+                    "end": 413,
+                    "mention": "[27]",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 585,
+                    "end": 587,
+                    "mention": "24",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 827,
+                    "end": 829,
+                    "mention": "26",
+                    "ref_id": "BIBREF18"
+                }
+            ],
+            "section": "Studies in COVID-19 where corticosteroid was incidentally used ::: Studies with corticosteroids in COVID-19 ::: Results",
+            "ref_spans": [
+                {
+                    "start": 832,
+                    "end": 839,
+                    "mention": "Table 2",
+                    "ref_id": "TABREF1"
+                }
+            ]
+        },
+        {
+            "text": "Prior to the announcement of the preliminary results from the RECOVERY trial, notwithstanding the WHO and CDC contraindications, corticosteroids had been used globally up to as much as 50% of patients affected by COVID-19, particularly in China [14,25]. All these trials included patients with severe and critical COVID-19 patients with pulmonary involvement. Of the 5 studies (4 retrospective and 1 quasi-prospective study) conducted with corticosteroids, 3 studies have shown a benefit, while 2 studies shown no benefit, and there was a suggestion of significant harm especially in the critical cases in one sub-study (propensity-matched adjusted hazard ratio [HR] 2.90; 95% CI, 1.17\u20137.16; p = 0.021) [[28], [29], [30], [31], [32]]. A common pattern evolving from these retrospective trials suggests more benefit with low dose steroids compared to the high dose steroids. Moreover, judicious use of corticosteroids has been shown to improve several parameters of severe and critical COVID-19, including reduction of duration of hospital stay, prevention of worsening of the ventilator parameters, progression to ARDS, and death [30], quicker normalization of pyrexia and improvement in the status of oxygenation [31], reduced incidence of intubation and subsequent ventilation [32]. It should be noted that none of these retrospective and quasi-prospective trials evaluated the data in patients with mild COVID-19 and majority of the patients were receiving other repurposed drugs beside the absence of controlled arm.",
+            "cite_spans": [
+                {
+                    "start": 246,
+                    "end": 248,
+                    "mention": "14",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 249,
+                    "end": 251,
+                    "mention": "25",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 704,
+                    "end": 708,
+                    "mention": "[28]",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 710,
+                    "end": 714,
+                    "mention": "[29]",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 716,
+                    "end": 720,
+                    "mention": "[30]",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 722,
+                    "end": 726,
+                    "mention": "[31]",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 728,
+                    "end": 732,
+                    "mention": "[32]",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 1131,
+                    "end": 1133,
+                    "mention": "30",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 1215,
+                    "end": 1217,
+                    "mention": "31",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 1280,
+                    "end": 1282,
+                    "mention": "32",
+                    "ref_id": "BIBREF25"
+                }
+            ],
+            "section": "Studies in COVID-19 where corticosteroid was used to evaluate its outcome ::: Studies with corticosteroids in COVID-19 ::: Results",
+            "ref_spans": []
+        },
+        {
+            "text": "RECOVERY is the only prospective study, conducted in 176 NHS hospitals, UK where 2104 patients were randomized to dexamethasone 6 mg per day (oral or intravenous) for 10 days and compared to the 4321 patients receiving usual care. 24% of the patients had diabetes, 27% had heart disease, 21% had chronic lung disease and at least 56% had one major comorbidity. 54% patients were younger than 70 years, 22% were between 70 and 80 years and 24% were more than 80 years of age. Significantly lesser number of patients of the dexamethasone cohort died within 28 days (primary outcome) compared to the standard of care cohort (21.6% vs. 24.6%; age-adjusted rate ratio [RR] 0.83; 95% CI, 0.74\u20130.92; p < 0.001). Evaluation at 28-days found a significant reduction in mortality by 35% amongst the invasive mechanical ventilation patients (29.0% vs. 40.7%; RR 0.65; 95% CI, 0.48\u20130.88; p = 0.003) and by 20% among the patients on supplemental oxygen therapy with or without noninvasive ventilation (21.5% vs. 25.0%; RR 0.80; 95% CI, 0.67\u20130.96; p = 0.0021), although no benefit was observed in mild or moderate cases, not requiring oxygen support (17.0% vs.13.2%; RR 1.22; 95% CI, 0.93\u20131.61; p = 0.14). This is significant in view of the fact that the overall COVID-19 mortality in UK is >26% and >37% patients require invasive ventilation. Secondary outcome of the study showed shorter duration of hospitalization with dexamethasone compared to standard of care (median 12 days vs. 13 days) and a 11% higher probability of discharge within 28 days (RR 1.11; 95% CI, 1.04\u20131.19; p = 0.002). Patients showing positive response to dexamethasone therapy started improving within the first 7 days of dexamethasone therapy [14].",
+            "cite_spans": [
+                {
+                    "start": 1707,
+                    "end": 1709,
+                    "mention": "14",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "section": "Studies in COVID-19 where corticosteroid was used to evaluate its outcome ::: Studies with corticosteroids in COVID-19 ::: Results",
+            "ref_spans": []
+        },
+        {
+            "text": "\nTable 3\noutlines the detailed results from studies conducted with corticosteroid in patients with COVID-19.",
+            "cite_spans": [],
+            "section": "Studies in COVID-19 where corticosteroid was used to evaluate its outcome ::: Studies with corticosteroids in COVID-19 ::: Results",
+            "ref_spans": [
+                {
+                    "start": 1,
+                    "end": 8,
+                    "mention": "Table 3",
+                    "ref_id": "TABREF2"
+                }
+            ]
+        },
+        {
+            "text": "A potential sequelae of corticosteroid therapy is the worsening of dysglycemia/unmasking of latent diabetes. Corticosteroids produce increased lipolysis, increased hepatic glucose output and can increase the insulin resistance by up to 60\u201380% by directly interfering with the signaling cascade of the GLUT-4 receptors. This leads to a 30\u201350% reduction of insulin stimulated glucose uptake of the skeletal muscle cells, contributing to a postprandial hyperglycemia, as well as a 50\u201370% reduction of hepatic glycogenesis. Corticosteroids also produce breakdown of proteins and the resultant surge in amino acids also interferes with the insulin signaling of the muscle cells. Corticosteroids also have a direct inhibitory action on \u03b2 cells. Lipotoxicity from the lipolysis can also have a similar effect on the \u03b2 cells [49,50]. The effects of steroids are usually transient and reversible with the stoppage of the steroids. Of the corticosteroids used in COVID-19, methylprednisolone is a short/intermediate acting glucocorticoid of 4\u20136 h duration, while dexamethasone is a long acting steroid with steroid induced hyperglycemia lasting for more than 24 h after the last dose, with a minimal fall after an overnight fast. Recent data suggests that the impact is maximum when steroid is administered acutely, but a spontaneous remission usually happens [51]. With a short course of steroids in most of the COVID-19 trials (10-days of dexamethasone in RECOVERY, 3\u20137 days by other trials with methylprednisolone), it is less likely that steroid induced hyperglycemia or worsening of glycemic control in preexisting diabetes contributed in any significant way given the fact that in RECOVERY trial both dexamethasone and usual care arm had equal percentage (nearly 25%) of patients with diabetes. Nevertheless, all treating physician must be careful about the expected worsening of hyperglycemia with the use of corticosteroids in patients with COVID-19 and should take all corrective measures to tackle it.",
+            "cite_spans": [
+                {
+                    "start": 818,
+                    "end": 820,
+                    "mention": "49",
+                    "ref_id": "BIBREF43"
+                },
+                {
+                    "start": 821,
+                    "end": 823,
+                    "mention": "50",
+                    "ref_id": "BIBREF45"
+                },
+                {
+                    "start": 1351,
+                    "end": 1353,
+                    "mention": "51",
+                    "ref_id": "BIBREF46"
+                }
+            ],
+            "section": "Corticosteroid therapy in COVID 19- its sequalae ::: Discussion",
+            "ref_spans": []
+        },
+        {
+            "text": "In view of the shorter follow-up experience with the survivors of acute lung injury/ARDS patients, other side effects of steroid therapy namely bone changes like avascular necrosis of the femoral head and suppression of the hypothalamic \u2013pituitary-adrenal (HPA) axis have not been evaluated extensively in COVID-19. As with other critical illness, COVID-19 has also been shown to worsen adrenal insufficiency, particularly in those with pre-existing adrenal hypofunction [6]. HPA axis suppression is also expected in critical COVID-19 patients and corticosteroid replacement is expected to be beneficial in this situation [13].",
+            "cite_spans": [
+                {
+                    "start": 472,
+                    "end": 473,
+                    "mention": "6",
+                    "ref_id": "BIBREF47"
+                },
+                {
+                    "start": 623,
+                    "end": 625,
+                    "mention": "13",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "section": "Corticosteroid therapy in COVID 19- its sequalae ::: Discussion",
+            "ref_spans": []
+        },
+        {
+            "text": "Although the results from retrospective studies are not strongly supportive of corticosteroid use in COVID-19 despite the signals for some benefits, the dedicated RECOVERY trial found a significant reduction in death with dexamethasone only in severe case on ventilator or moderate case on supplemental oxygen therapy but no benefit observed in mild to moderate case requiring no oxygen. More studies are still necessary to substantiate conclusive benefit with corticosteroid in COVID-19.",
+            "cite_spans": [],
+            "section": "Conclusion",
+            "ref_spans": []
+        },
+        {
+            "text": "AKS conceptualized; AKS and RS did a systematic review; SM prepared the first draft; SM and AKS drafted and edited the tables and figures; AKS, RS, SM and AM revised the manuscript.",
+            "cite_spans": [],
+            "section": "Contribution of authors",
+            "ref_spans": []
+        },
+        {
+            "text": "None.",
+            "cite_spans": [],
+            "section": "Funding",
+            "ref_spans": []
+        },
+        {
+            "text": "We hereby declare that we have no conflict of interest, related to this article.",
+            "cite_spans": [],
+            "section": "Declaration of competing interest",
+            "ref_spans": []
+        }
+    ],
+    "ref_entries": {
+        "TABREF0": {
+            "text": "Table\u00a01: Studies with corticosteroids in previous Coronavirus infections (SARS-CoV-1 and MERS-CoV).\n",
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Table\u00a02: Studies in COVID-19 where corticosteroid was incidentally used and evaluated.\n",
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "Table\u00a03: Studies in COVID -19 where corticosteroid was used to evaluated outcome.\n",
+            "type": "table"
+        },
+        "FIGREF0": {
+            "text": "Fig.\u00a01: Pathogenesis of ARDS and its consequences in COVID-19.",
+            "type": "figure"
+        }
+    },
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Characteristics of and important lessons from the corona virus disease 2019 (COVID-19) outbreak in China: summary of a report of 72314 cases from the Chinese center for disease control and prevention",
+            "authors": [
+                {
+                    "first": "Z.",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.M.",
+                    "middle": [],
+                    "last": "McGoogan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J\u00a0Am Med Assoc",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.2020.2648"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "title": "On the use of corticosteroids for 2019-nCoV pneumonia",
+            "authors": [
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Shang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Du",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.",
+                    "middle": [],
+                    "last": "Cao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "683-684",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(20)30361-5"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "Clinical management of severe acute respiratory infection when novel coronavirus (nCoV) infection is suspected",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "World Health Organization",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF3": {
+            "title": "Covid-19 treatment guidelines",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF4": {
+            "title": "Surviving Sepsis Campaign: guidelines on the management of critically ill adults with Coronavirus Disease 2019 (COVID-19)",
+            "authors": [
+                {
+                    "first": "W.",
+                    "middle": [],
+                    "last": "Alhazzani",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Moller",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.M.",
+                    "middle": [],
+                    "last": "Arabi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Loeb",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.N.",
+                    "middle": [],
+                    "last": "Gong",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Rhodes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Intensive Care Med",
+            "volume": "46",
+            "issn": "",
+            "pages": "854-887",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s00134-020-06022-5"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "Effect of dexamethasone in hospitalized patients with COVID-19 \u2013 preliminary report",
+            "authors": [
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Horby",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.S.",
+                    "middle": [],
+                    "last": "Lim",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Emberson",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Mafham",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Bell",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.J.",
+                    "middle": [],
+                    "last": "Landary",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "medRxiv",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2020.06.22.20137273"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "title": "On behalf of Dexamethasone in ARDS network. Dexamethasone treatment for the acute respiratory distress syndrome: a multicentre, randomized controlled trial",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Villar",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Ferrando",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Martinez",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet Respir Med",
+            "volume": "8",
+            "issn": "",
+            "pages": "267-276",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF7": {
+            "title": "Activation and regulation of systemic inflammation in ARDS: rationale for prolonged glucocorticoid therapy",
+            "authors": [
+                {
+                    "first": "Meduri",
+                    "middle": [],
+                    "last": "Gu",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Annane",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.P.",
+                    "middle": [],
+                    "last": "Chrousos",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.E.",
+                    "middle": [],
+                    "last": "Marik",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.E.",
+                    "middle": [],
+                    "last": "Sinclair",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Chest",
+            "volume": "136",
+            "issn": "",
+            "pages": "1631-1643",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF8": {
+            "title": "Treatment of severe acute respiratory syndrome with glucosteroids. The Guangzhou experience",
+            "authors": [
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "X.",
+                    "middle": [],
+                    "last": "Tang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Tan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Chest",
+            "volume": "129",
+            "issn": "",
+            "pages": "1441-1452",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF9": {
+            "title": "The effect of corticosteroids on mortality of patients with influenza pneumonia: a systematic review and meta-analysis",
+            "authors": [
+                {
+                    "first": "Y.N.",
+                    "middle": [],
+                    "last": "Ni",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.M.",
+                    "middle": [],
+                    "last": "Liang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.A.",
+                    "middle": [],
+                    "last": "Liang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Crit Care",
+            "volume": "23",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF10": {
+            "title": "Acute respiratory distress syndrome in critically ill patients with severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "T.W.K.",
+                    "middle": [],
+                    "last": "Lew",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Kwek",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Tai",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Earnest",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Loo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J\u00a0Am Med Assoc",
+            "volume": "290",
+            "issn": "",
+            "pages": "374-380",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF11": {
+            "title": "Clinical characteristics of corona virus disease 2019 in China",
+            "authors": [
+                {
+                    "first": "W.",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.",
+                    "middle": [],
+                    "last": "Ni",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.",
+                    "middle": [],
+                    "last": "Liang",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "N\u00a0Engl J Med",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa2002032"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "title": "Description and clinical treatment of an early outbreak of severe acute respiratory syndrome (SARS) in Guangzhou, PR China",
+            "authors": [
+                {
+                    "first": "Z.",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J\u00a0Med Microbiol",
+            "volume": "52",
+            "issn": "",
+            "pages": "715-720",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF13": {
+            "title": "Osteonecrosis of hip and knee in patients with severe acute respiratory syndrome treated with steroids",
+            "authors": [
+                {
+                    "first": "J.F.",
+                    "middle": [],
+                    "last": "Griffith",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.E.",
+                    "middle": [],
+                    "last": "Antonio",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.M.",
+                    "middle": [],
+                    "last": "Kumta",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Radiology",
+            "volume": "235",
+            "issn": "",
+            "pages": "168-175",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF14": {
+            "title": "Factors of avascular necrosis of femoral head and osteoporosis in SARS patients\u2019 convalescence",
+            "authors": [
+                {
+                    "first": "Y.M.",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.X.",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.S.",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Natl Med J China (Peking)",
+            "volume": "84",
+            "issn": "",
+            "pages": "1348-1353",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF15": {
+            "title": "Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study",
+            "authors": [
+                {
+                    "first": "F.",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Du",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "1054-1062",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF16": {
+            "title": "Risk factors associated with acute respiratory distress syndrome and death in patients with coronavirus disease 2019 pneumonia in Wuhan, China",
+            "authors": [
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X.",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Cai",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "JAMA Intern Med",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jamainternmed.2020.0994"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "title": "Clinical characteristics of 138 hospitalized patients with 2019 novel corona virus\u2013infected pneumonia in Wuhan, China",
+            "authors": [
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.",
+                    "middle": [],
+                    "last": "Peng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J\u00a0Am Med Assoc",
+            "volume": "323",
+            "issn": "11",
+            "pages": "1061-1069",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.2020.1585"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "title": "Persistence and clearance of viral RNA in 2019 novel corona virus disease rehabilitation patients Chinese",
+            "authors": [
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Ling",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Med J",
+            "volume": "133",
+            "issn": "9",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF19": {
+            "title": "Clinical characteristics of novel corona virus cases in tertiary hospitals in Hubei Province",
+            "authors": [
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Fang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.F.",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Chinese Med J",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1097/CM9.0000000000000744"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2020.05.11.20097709"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2020.04.07.20056390"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "title": "COVID-19 infection: the perspectives on immune responses",
+            "authors": [
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Shao",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Gan",
+                    "suffix": ""
+                },
+                {
+                    "first": "X.",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "E.",
+                    "middle": [],
+                    "last": "Bucci",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Piacentini",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [],
+                    "last": "Ippolito",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [],
+                    "last": "Melino",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Cell Death Differ",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41418-020-0530-3"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2020.05.04.20074609"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2020.03.06.20032342"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2020.05.08.20094755"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "title": "No benefit with hydroxychloroquine in RECOVERY trial",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF27": {
+            "title": "NIH halts clinical trial of hydroxychloroquine",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF28": {
+            "title": "Hydroxychloroquine arm of Solidarity trial stopped",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF29": {
+            "title": "Hydroxychloroquine in patients with COVID-19: a systematic review and meta-analysis",
+            "authors": [
+                {
+                    "first": "A.K.",
+                    "middle": [],
+                    "last": "Singh",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Singh",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Singh",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Misra",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Diabetes Metab Syndr",
+            "volume": "14",
+            "issn": "4",
+            "pages": "589-596",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF30": {
+            "title": "Remdesivir in adults with severe COVID-19: a randomised, double-blind, placebo-controlled, multicentre trial",
+            "authors": [
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [],
+                    "last": "Du",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "1569-1578",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF31": {
+            "title": "A\u00a0trial of lopinavir-ritonavir in adults hospitalized with severe Covid-19",
+            "authors": [
+                {
+                    "first": "B.",
+                    "middle": [],
+                    "last": "Cao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Wen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N\u00a0Engl J Med",
+            "volume": "382",
+            "issn": "",
+            "pages": "1787-1799",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa2001282"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "title": "Use of tocilizumab for COVID-19 infection-induced cytokine release syndrome: a cautionary case report",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Radbel",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.",
+                    "middle": [],
+                    "last": "Narayanan",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.J.",
+                    "middle": [],
+                    "last": "Bhatt",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Chest",
+            "volume": "S0012\u20133692",
+            "issn": "20",
+            "pages": "30764-30769",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.chest.2020.04.024"
+                ]
+            }
+        },
+        "BIBREF33": {
+            "title": "Acute respiratory distress syndrome",
+            "authors": [
+                {
+                    "first": "R.M.",
+                    "middle": [],
+                    "last": "Sweeney",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.F.",
+                    "middle": [],
+                    "last": "McAuley",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Lancet",
+            "volume": "388",
+            "issn": "10058",
+            "pages": "2416-2430",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/s0140-6736(16)00578-x"
+                ]
+            }
+        },
+        "BIBREF34": {
+            "title": "Interleukin-6 blockade for severe COVID-19",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Roumier",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Paule",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Groh",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Vallee",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.",
+                    "middle": [],
+                    "last": "Ackermann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "medRxiv",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2020.04.20.20061861"
+                ]
+            }
+        },
+        "BIBREF35": {
+            "title": "Anti-inflammatory action of corticosteroid--new mechanisms for old drugs",
+            "authors": [
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Rhen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.A.",
+                    "middle": [],
+                    "last": "Cidlowski",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "N\u00a0Engl J Med",
+            "volume": "353",
+            "issn": "",
+            "pages": "1711-1723",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF36": {
+            "title": "A\u00a0different look at corticosteroids",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Zaroob",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Cender",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Am Fam Physician",
+            "volume": "58",
+            "issn": "2",
+            "pages": "443-450",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF37": {
+            "title": "Corticosteroid treatment of patients with coronavirus disease 2019 (COVID-19)",
+            "authors": [
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Zha",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Pan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Med J Aust",
+            "volume": "212",
+            "issn": "9",
+            "pages": "416-420",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF38": {
+            "title": "The hypothalamic-pituitary-adrenal axis and immune-mediated inflammation",
+            "authors": [
+                {
+                    "first": "G.P.",
+                    "middle": [],
+                    "last": "Chrousos",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "N\u00a0Engl J Med",
+            "volume": "332",
+            "issn": "20",
+            "pages": "1351-1362",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/nejm199505183322008"
+                ]
+            }
+        },
+        "BIBREF39": {
+            "title": "Factors associated with prolonged viral RNA shedding in patients with COVID-19",
+            "authors": [
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Yhan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Clin Infect Dis",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF40": {
+            "title": "Viral shedding patterns of coronavirus in patients with probable severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "P.K.",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.A.",
+                    "middle": [],
+                    "last": "Wong",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.K.",
+                    "middle": [],
+                    "last": "Tong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Lancet",
+            "volume": "363",
+            "issn": "9422",
+            "pages": "1699-1700",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF41": {
+            "title": "Virological assessment of hospitalized patients with COVID-2019",
+            "authors": [
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Wolfel",
+                    "suffix": ""
+                },
+                {
+                    "first": "V.M.",
+                    "middle": [],
+                    "last": "Corman",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.",
+                    "middle": [],
+                    "last": "Guggemos",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Nature",
+            "volume": "581",
+            "issn": "7809",
+            "pages": "465-469",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF42": {
+            "title": "Temporal profiles of viral load in posterior oropharyngeal saliva samples and serum antibody responses during infection by SARS-CoV-2: an observational cohort study",
+            "authors": [
+                {
+                    "first": "K.K.",
+                    "middle": [],
+                    "last": "To",
+                    "suffix": ""
+                },
+                {
+                    "first": "O.T.",
+                    "middle": [],
+                    "last": "Tsang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.S.",
+                    "middle": [],
+                    "last": "Leung",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet Infect Dis",
+            "volume": "20",
+            "issn": "5",
+            "pages": "565-574",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF43": {
+            "title": "Glucocorticoid-induced hyperglycemia",
+            "authors": [
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Perez",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Jansen-Chaparro",
+                    "suffix": ""
+                },
+                {
+                    "first": "I.",
+                    "middle": [],
+                    "last": "Saigi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.R.",
+                    "middle": [],
+                    "last": "Bernal-Lopez",
+                    "suffix": ""
+                },
+                {
+                    "first": "I.",
+                    "middle": [],
+                    "last": "Mi\u00f1ambres",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Gomez-Huelgas",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "J\u00a0Diabetes",
+            "volume": "6",
+            "issn": "",
+            "pages": "9-20",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF44": {
+            "title": "Characteristics of peripheral lymphocyte subset\u00a0alteration in COVID-19 pneumonia",
+            "authors": [
+                {
+                    "first": "F.",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Nie",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q.",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Xiong",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Deng",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Song",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.",
+                    "middle": [],
+                    "last": "Ma",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Mo",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J\u00a0Infect Dis",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1093/infdis/jiaa150"
+                ]
+            }
+        },
+        "BIBREF45": {
+            "title": "Steroid hyperglycemia: prevalence, early detection and therapeutic recommendations: a narrative review",
+            "authors": [
+                {
+                    "first": "H.E.",
+                    "middle": [],
+                    "last": "Tames-Perez",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.L.",
+                    "middle": [],
+                    "last": "Quintannila-Flores",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Rodr\u00edguez-Guti\u00e9rrez",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.G.",
+                    "middle": [],
+                    "last": "Gonz\u00e1lez-Gonz\u00e1lez",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.L.",
+                    "middle": [],
+                    "last": "Tamez-Pe\u00f1a",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "World J Diabetes",
+            "volume": "6",
+            "issn": "8",
+            "pages": "1073-1081",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF46": {
+            "title": "Hyperglycemia in patients administered dexamethasone for craniotomy",
+            "authors": [
+                {
+                    "first": "M.B.",
+                    "middle": [],
+                    "last": "Lukins",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.H.",
+                    "middle": [],
+                    "last": "Manninen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Anesth Analg",
+            "volume": "100",
+            "issn": "",
+            "pages": "1129-1133",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF47": {
+            "title": "COVID-19 infection and glucocorticoids: update from the Italian Society of Endocrinology Expert Opinion on steroid replacement in adrenal insufficiency",
+            "authors": [
+                {
+                    "first": "A.M.",
+                    "middle": [],
+                    "last": "Isidori",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [],
+                    "last": "Arnaldi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Boscaro",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Falorni",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Giordano",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "J\u00a0Endocrinol Invest",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s40618-020-01266-w"
+                ]
+            }
+        },
+        "BIBREF48": {
+            "title": "SARS: systematic review of treatment effects",
+            "authors": [
+                {
+                    "first": "L.J.",
+                    "middle": [],
+                    "last": "Stockman",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Bellamy",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Garner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "PLoS Med",
+            "volume": "3",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pmed.0030343"
+                ]
+            }
+        },
+        "BIBREF49": {
+            "title": "Corticosteroid therapy for critically ill patients with middle east respiratory syndrome",
+            "authors": [
+                {
+                    "first": "Y.M.",
+                    "middle": [],
+                    "last": "Arabi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Mandourah",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.",
+                    "middle": [],
+                    "last": "Al-Hameed",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Am J Respir Crit Care Med",
+            "volume": "197",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF50": {
+            "title": "Clinical evidence does not support corticosteroid treatment for 2019-nCoV lung injury",
+            "authors": [
+                {
+                    "first": "C.D.",
+                    "middle": [],
+                    "last": "Russell",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.E.",
+                    "middle": [],
+                    "last": "Millar",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.K.",
+                    "middle": [],
+                    "last": "Baillie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "473-475",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(20)30317-2"
+                ]
+            }
+        }
+    }
+}

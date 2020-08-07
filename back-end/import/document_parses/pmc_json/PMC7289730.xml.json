@@ -1,0 +1,475 @@
+{
+    "paper_id": "PMC7289730",
+    "metadata": {
+        "title": "Ibuprofen use and clinical outcomes in COVID-19 patients",
+        "authors": [
+            {
+                "first": "Ehud",
+                "middle": [],
+                "last": "Rinott",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Eran",
+                "middle": [],
+                "last": "Kozer",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Yonatan",
+                "middle": [],
+                "last": "Shapira",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Adina",
+                "middle": [],
+                "last": "Bar-Haim",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Ilan",
+                "middle": [],
+                "last": "Youngster",
+                "suffix": "",
+                "email": "youngsteri@shamir.gov.il",
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [
+        {
+            "text": "The current outbreak of coronavirus disease 2019 (COVID-19), caused by the novel coronavirus SARS\u2010CoV\u20102, has rapidly spread throughout the world, and has become a worldwide pandemic with more than two million confirmed cases by mid-April 2020. Though COVID-19 is primarily a respiratory disease, its' insidious and nonspecific clinical course can result in a delayed diagnosis and a prolonged period of self-administered symptomatic treatment. As fever is one of the most common symptoms of COVID-19, antipyretic medications, including ibuprofen, play an important role in controlling patients' symptoms.",
+            "cite_spans": [],
+            "section": "Introduction",
+            "ref_spans": []
+        },
+        {
+            "text": "On March 14, 2020, during the emergence of the COVID-19 outbreak, the French Minister of health published a recommendation to avoid the use of anti-inflammatory medications like ibuprofen or cortisone, claiming it could aggravate infections [1]. Though no reference was provided, the statement may stem from a report published by the French Agency for the Safety of Health Products, concerning 400 cases of severe infections that were linked temporally to Ibuprofen administration [2]. Adding to these concerns, recent in-vitro work has supported the hypothesis that pathogenic coronaviruses have a high affinity to the angiotensin converting enzyme 2 (ACE2) receptor, and that ACE2 production as well as the ACE 2 receptor expression, can be increased by ibuprofen [3,4].",
+            "cite_spans": [
+                {
+                    "start": 242,
+                    "end": 243,
+                    "mention": "1",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 482,
+                    "end": 483,
+                    "mention": "2",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 767,
+                    "end": 768,
+                    "mention": "3",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 769,
+                    "end": 770,
+                    "mention": "4",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "section": "Introduction",
+            "ref_spans": []
+        },
+        {
+            "text": "The public statement prompted a global debate about the safety of Ibuprofen as antipyretic treatment for patients with confirmed or even suspected COVID-19 during the current pandemic [1,5]. Several national health agencies worldwide, including the World Health Organization, have responded with official statements emphasizing that no evidence supports these claims [[6], [7], [8]]. Nevertheless some authorities, erring on the side of caution while awaiting clinical data, have suggested paracetamol should be considered the recommended first-line antipyretic, with ibuprofen reserved for patients that are unable to tolerate paracetamol [9].",
+            "cite_spans": [
+                {
+                    "start": 185,
+                    "end": 186,
+                    "mention": "1",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 187,
+                    "end": 188,
+                    "mention": "5",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 368,
+                    "end": 371,
+                    "mention": "[6]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 373,
+                    "end": 376,
+                    "mention": "[7]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 378,
+                    "end": 381,
+                    "mention": "[8]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 641,
+                    "end": 642,
+                    "mention": "9",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "section": "Introduction",
+            "ref_spans": []
+        },
+        {
+            "text": "In the current study, we aimed to evaluate whether Ibuprofen administration in patients with COVID-19 was associated with worse clinical outcomes, compared to paracetamol or no antipyretic.",
+            "cite_spans": [],
+            "section": "Introduction",
+            "ref_spans": []
+        },
+        {
+            "text": "We conducted a retrospective cohort study of SARS-Cov-2 positive patients tested at Shamir Medical Center, Israel, between March 15-April 15 2020. At that time the policy of the Israeli ministry of health was to test every patient with symptoms that could be compatible with COVID-19 (cough, dyspnea, fever). Nasopharyngeal swabs were tested by real-time reverse transcriptase polymerase chain reaction in the hospital's molecular laboratory that is approved by the Israeli ministry of health. Patients were contacted by phone (mean 13 days after the diagnosis, range 2-30 days), and a short structured questionnaire was administered. Information collected included age, gender, chronic diseases and medications, date of diagnosis, symptoms and factors relating to the clinical course of disease (admission to the hospital and the intensive care unit, need for oxygen or ventilation). For our purpose, severe disease was defined as needing any respiratory support (supplemental oxygen administration or ventilation), ICU admission or death. Patients were asked about the use of any medication containing ibuprofen (a complete list of local commercial names was supplied), paracetamol or dipyrone starting a week prior to diagnosis of COVID-19. In case of mortality, information was obtained from medical charts and referral letters. Chi-square test of independence, Wilcoxon rank sum-test and Fischer's exact test were applied as needed (significance threshold, P < .05). Statistical analyses were performed using R software, version 3.5.3. The study was approved by the Shamir Medical Center Institutional Review Board.",
+            "cite_spans": [],
+            "section": "Methods",
+            "ref_spans": []
+        },
+        {
+            "text": "Patients who took ibuprofen at any time during the course of their disease had similar characteristics as those who did not receive ibuprofen except for the fact that 79% percent of patients using Ibuprofen had fever, while only 35% of patients that avoided the use Ibuprofen reported fever (P<0.001).",
+            "cite_spans": [],
+            "section": "Ibuprofen intake, mortality and respiratory support in COVID-19 patients ::: Results",
+            "ref_spans": []
+        },
+        {
+            "text": "In the Ibuprofen group, 3 (3.4%) of patients died, while in the non-Ibuprofen group 9 (2.8%) of patients died (P=0.95). Nine (10%) patients from the Ibuprofen group needed respiratory support, as compared with 35 (11%) from the non-Ibuprofen group (P=1) (Table 1).",
+            "cite_spans": [],
+            "section": "Ibuprofen intake, mortality and respiratory support in COVID-19 patients ::: Results",
+            "ref_spans": [
+                {
+                    "start": 255,
+                    "end": 262,
+                    "mention": "Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ]
+        },
+        {
+            "text": "Patients with fever that used paracetamol or ibuprofen exclusively had similar age and gender. Table 2\n.",
+            "cite_spans": [],
+            "section": "Ibuprofen vs paracetamol use in febrile COVID-19 patients ::: Results",
+            "ref_spans": [
+                {
+                    "start": 95,
+                    "end": 102,
+                    "mention": "Table 2",
+                    "ref_id": "TABREF1"
+                }
+            ]
+        },
+        {
+            "text": "No difference in mortality rates was observed (0 vs 3, P=0.3). One (2%) of the exclusive ibuprofen users vs 11 (12.9%) of the exclusive paracetamol users needed any respiratory support during their disease course (P=0.06).",
+            "cite_spans": [],
+            "section": "Ibuprofen vs paracetamol use in febrile COVID-19 patients ::: Results",
+            "ref_spans": []
+        },
+        {
+            "text": "In this retrospective cohort study of 403 COVID-19 cases admitted to Shamir Medical Center in central Israel, we did not observe an increased risk for mortality or the need for respiratory support in patients treated with Ibuprofen. Among patients with fever, no excess mortality or need for respiratory support were observed in patients who chose to use ibuprofen exclusively. In fact, the need for respiratory support was higher in the paracetamol group with borderline significance. One possible explanation for this could be that elderly patients with more severe chronic illnesses are more likely to be treated with paracetamol due to concern about ibuprofen causing renal injury.",
+            "cite_spans": [],
+            "section": "Discussion",
+            "ref_spans": []
+        },
+        {
+            "text": "Our study has several limitations. First, as with any retrospective study, recall-bias is a concern. However, given the relatively short timeframe included in the study we expect this to be of minor concern. Furthermore, this possible limitation should not favor one treatment over the other. Second, information from deceased patients could only be collected from medical chart review. However, medications administered prior to hospitalization are noted in the charts. Thirdly, our sample size was not sufficient to allow multivariable analyses. Lastly, the policy of the Israeli Ministry of Health was to test only patients with symptoms that are suggestive of COVID-19. Thus, we have no information about ibuprofen in asymptomatic carriers, and whether antipyretics can influence their clinical course. A major strength of this study is the high response rate and nearly complete follow-up of patients admitted to a tertiary hospital. The balanced representation of the different severities of the disease, compatible with the distribution of disease in the Israeli population, is another strength.",
+            "cite_spans": [],
+            "section": "Discussion",
+            "ref_spans": []
+        },
+        {
+            "text": "The claim that Ibuprofen is unsafe for use in patients with COVID-19 symptoms was raised in the early stages of the COVID-19 outbreak, following the observation that SARS-CoV-2 bind to its target cell through angiotensin-converting enzyme 2 (ACE2) in the lung [10]. This led to the hypothesis that ACE2-stimulating drugs, such as ACE inhibitors and Ibuprofen, might increase the risk for severe and fatal COVID-19 disease [3]. Regarding ibuprofen, this hypothesis was not supported in our cohort. Larger prospective studies are needed to validate our results.",
+            "cite_spans": [
+                {
+                    "start": 261,
+                    "end": 263,
+                    "mention": "10",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 423,
+                    "end": 424,
+                    "mention": "3",
+                    "ref_id": "BIBREF3"
+                }
+            ],
+            "section": "Discussion",
+            "ref_spans": []
+        },
+        {
+            "text": "The authors report no conflict of interest.",
+            "cite_spans": [],
+            "section": "Conflict of interest",
+            "ref_spans": []
+        },
+        {
+            "text": "No funding was received.",
+            "cite_spans": [],
+            "section": "Funding",
+            "ref_spans": []
+        },
+        {
+            "text": "EK and IY conceptualized the study, IY, YS and ABH collected the data, IY and ER conducted the data analyses, ER wrote the first draft of the manuscript, IY and EK revised the manuscript, all authors approved the final version.",
+            "cite_spans": [],
+            "section": "Contribution",
+            "ref_spans": []
+        }
+    ],
+    "ref_entries": {
+        "TABREF0": {
+            "text": "Table 1: Characteristics of study participants\n",
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Table 2: Febrile COVID-19 patients that exclusively used ibuprofen or paracetamol.\n",
+            "type": "table"
+        }
+    },
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Covid-19: ibuprofen should not be used for managing symptoms, say doctors and scientists",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Day",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "BMJ",
+            "volume": "368",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1136/bmj.m1086"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "title": "Receptor Recognition by the Novel Coronavirus from Wuhan: an Analysis Based on Decade-Long Structural Studies of SARS Coronavirus",
+            "authors": [
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Wan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Shang",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Graham",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.S.",
+                    "middle": [],
+                    "last": "Baric",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Virol",
+            "volume": "94",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.00127-20"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF3": {
+            "title": "Are patients with hypertension and diabetes mellitus at increased risk for COVID-19 infection?",
+            "authors": [
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Fang",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [],
+                    "last": "Karakiulakis",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Roth",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet Respir Med",
+            "volume": "8",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S2213-2600(20)30116-8"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "Structural basis of receptor recognition by SARS-CoV-2",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Shang",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [],
+                    "last": "Ye",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Wan",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Luo",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Aihara",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Nature",
+            "volume": "581",
+            "issn": "",
+            "pages": "1-4",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41586-020-2179-y"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "Non-steroidal anti-inflammatory drugs and covid-19",
+            "authors": [
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Little",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "BMJ",
+            "volume": "368",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1136/bmj.m1185"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF7": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF8": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF9": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1016/s2213"
+                ]
+            }
+        }
+    }
+}

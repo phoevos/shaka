@@ -1,0 +1,839 @@
+{
+    "paper_id": "f6978129396691acd21283d75971917304b66533",
+    "metadata": {
+        "title": "",
+        "authors": []
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "Severe acute respiratory syndrome coronavirus 2 (SARSCoV-2), COVID-19, is most widely characterized by the presence of fever, cough, and respiratory distress, but is increasingly recognized to carry systemic complications [1] . Many cases have been found to display significant hematologic and thrombotic complications. The hematologic derangements are not insignificant, with increased risk for coagulation dysregulation and disseminated intravascular coagulation (DIC) [2] [3] [4] . Exacerbations of immune thrombocytopenia purpura (ITP) are common in patients with viral syndromes. However, ITP exacerbation in the context of COVID-19 infection is a rare, but increasingly recognized phenomenon [5] . Here, we provide a unique case of ITP, suggestive due to COVID-19 infection. This case illustrates the tenants of thrombocytopenia evaluation in addition to management in rare cases such as this.",
+            "cite_spans": [
+                {
+                    "start": 222,
+                    "end": 225,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 471,
+                    "end": 474,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 475,
+                    "end": 478,
+                    "text": "[3]",
+                    "ref_id": null
+                },
+                {
+                    "start": 479,
+                    "end": 482,
+                    "text": "[4]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 698,
+                    "end": 701,
+                    "text": "[5]",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "A 73-year-old female with past medical history of hypertension and hyperlipidemia presented to the hospital with concerns of fever, shortness of breath, and diarrhea. Symptoms began the day prior to admission. She reported symptoms of fatigue, body aches, rhinorrhea, and a fever of 101\u00b0F while at home. She also reported a cough. Of note, the patient had traveled outside of the state the week prior to admission. Her husband had recently been sick with pneumonia and she was caring for him while at home. However, his COVID status was unknown. Initial exam was remarkable for a pleasant female who appeared clinically ill with stable vital signs and without clinical stigmata of severe thrombocytopenia. Complete blood count was obtained and showed hemoglobin of 10.5 gm/dL and undetectable platelets at < 3 K/\u00b5L. White blood cell count was found depressed at 4.1 K/\u00b5L with a depressed absolute lymph count of 0.60 K/\u00b5L. Cell counts reviewed from the year prior were within normal limits. Lactate dehydrogenase (LDH) was found elevated at 299 U/L. ADAMTS13 activity was found > 100% (reference range > 70%). Ferritin level was also elevated at 441 ng/mL. Additional work-up included vitamin B12 of 718 pg/mL and serum folate 22.3 ng/mL (reference range > 3.9 ng/mL). The patient was tested for COVID-19 via nasopharyngeal swab, which returned positive. Initial chest radiography was negative for any acute cardiopulmonary process. Blood cultures were obtained but remained no growth throughout admission.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Case Presentation"
+        },
+        {
+            "text": "A peripheral smear was obtained and showed known thrombocytopenia, but no other hematologic features of diagnostic significance ( Figure 1 ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 130,
+                    "end": 138,
+                    "text": "Figure 1",
+                    "ref_id": null
+                }
+            ],
+            "section": "Case Presentation"
+        },
+        {
+            "text": "Additional labs included international normalized ratio (INR) 1.2, fibrinogen of 458 mg/dL (reference range 200-400 mg/dL), and immature platelet fraction of 4.9%. Activated partial thromboplastin time (aPTT) was obtained and found normal at 30 seconds. The patient was transfused one unit of apheresis platelets with no improvement seen in platelet count. ITP was suspected, and hematology was consulted. Intravenous immunoglobulin (IVIG) was administered at a dose of 1 g/kg/day for two doses. Corticosteroid administration was considered but not administered due to limited data availability and concerns of that may worsen outcomes during the active replicative phase of COVID-19.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "FIGURE 1: Peripheral smear demonstrating thrombocytopenia and normal platelet morphology"
+        },
+        {
+            "text": "Initial management, with exception of initiation of IVIG, was largely supportive in nature. However, due to worsening dry cough and ongoing gastrointestinal symptoms (significant diarrhea and abdominal discomfort), the patient was initiated on hydroxychloroquine (400 mg orally twice daily [day 1] followed by 200 mg twice daily [day 2-5]) and losartan 25 mg daily. A QTc of 375 ms was noted on the electrocardiogram (ECG) prior to initiating hydroxychloroquine. The patient responded well to the IVIG administration with an increase in platelet count to 105 K/\u00b5L on day 3 of admission. Despite initial management as described above, diarrhea and abdominal discomfort continued. Work-up included negative Clostridium difficile, giardia, Cryptosporidium, and rotavirus testing. The patient was started on an anti-diarrhea regimen (Lomotil\u00ae with PRN Imodium\u00ae). Respiratory and gastrointestinal symptoms resolved by day 4 of hospital admission. On the day of discharge, platelet count had increased to 146 K/\u00b5L. Twenty-eight days after discharge, she presented to hematology clinic with a platelet count of 8 K/\u00b5L. Repeat nasopharyngeal swab polymerase chain reaction (PCR) COVID testing was negative and she was treated with IVIG and pulse dexamethasone with prompt response, confirming suspicion of underlying, undiagnosed ITP prior to COVID infection.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "FIGURE 1: Peripheral smear demonstrating thrombocytopenia and normal platelet morphology"
+        },
+        {
+            "text": "The coronavirus pandemic of 2019, COVID-19, is rapidly evolving with unprecedented ramifications for health systems and individuals alike. SARS-CoV-2, presumed to have originated in Wuhan, has subsequently spread throughout China and is now a global pandemic [1] . With over 4,400,000 confirmed cases, the disease pathology and clinical manifestations have been documented with an abundance of literature [6] . A wide range in clinical presentation exist, ranging from mild symptoms to sepsis and death. A severe form of pneumonia is not an uncommon occurrence and is estimated to occur in up to 10%-15% of patients [7] . The hematologic manifestations of COVID-19 have emerged as a particularly important issue, as patients have been found to have clinical and laboratory findings which include thrombocytopenia, elevated D-dimer, prolonged prothrombin time, and DIC [2] . ITP in the setting of COVID-19 is an increasingly recognized entity. The first case was described in New England Journal of Medicine [5] .",
+            "cite_spans": [
+                {
+                    "start": 259,
+                    "end": 262,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 405,
+                    "end": 408,
+                    "text": "[6]",
+                    "ref_id": null
+                },
+                {
+                    "start": 616,
+                    "end": 619,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 868,
+                    "end": 871,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 1007,
+                    "end": 1010,
+                    "text": "[5]",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "There is emerging data that COVID-19 carries particular risk for thrombotic complications in infected patients. Thrombocytopenia and elevated D-dimer have been seen in 36.2% of patients and 46.4% of patients, respectively, with higher rates occurring in severe disease [8] . Additional hematologic abnormalities include lymphocytopenia in 83.2% of patients and leukopenia in 33.7% of patients [8] . It is becoming evident that patients with COVID 19 are at increased risk of developing DIC [2] [3] [4] . Elevated D-dimer, elevated fibrin degradation products, and prolonged prothrombin time have all been shown carry confer a worse prognosis in infected patients [4] .",
+            "cite_spans": [
+                {
+                    "start": 269,
+                    "end": 272,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 393,
+                    "end": 396,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 490,
+                    "end": 493,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 494,
+                    "end": 497,
+                    "text": "[3]",
+                    "ref_id": null
+                },
+                {
+                    "start": 498,
+                    "end": 501,
+                    "text": "[4]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 663,
+                    "end": 666,
+                    "text": "[4]",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Our case offers a unique difference to these findings, in ITP-related COVID-19 infection, and the absence of DIC. ITP is a diagnosis of exclusion in the evaluation of thrombocytopenia. While the pathogenesis is incompletely understood, the prevailing theory is that viral antigens cross-react with normal platelet antigens in a form of molecular mimicry causing platelet destruction. Some of the more common viruses that cause this phenomenon include varicellazoster virus (VZV), HIV, hepatitis C, and cytomegalovirus [9] [10] [11] [12] . It is possible that a similar mechanism exists with COVID-19, or COVID-19 may precipitate an exacerbation of preceding low-grade ITP disorder. One of the limitations of our report is the patient did not undergo testing for HIV or hepatitis, albeit clinical suspicion was low due the presence of an alternative viral etiology. In addition, a bone marrow evaluation was not obtained due to the temporal response to treatment and confirmation of diagnosis.",
+            "cite_spans": [
+                {
+                    "start": 518,
+                    "end": 521,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 522,
+                    "end": 526,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 527,
+                    "end": 531,
+                    "text": "[11]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 532,
+                    "end": 536,
+                    "text": "[12]",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Empiric data are still limited regarding best practices regarding COVID-19. Our patient was initially on an angiotensin-converting enzyme (ACE) inhibitor prior to admission. She was switched to losartan due to theoretical benefits associated with angiotensin receptor blockers [13, 14] .",
+            "cite_spans": [
+                {
+                    "start": 277,
+                    "end": 281,
+                    "text": "[13,",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 282,
+                    "end": 285,
+                    "text": "14]",
+                    "ref_id": "BIBREF13"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Previously, during the COVID-19 pandemic, corticosteroid administration was not recommended by either the CDC or WHO for the treatment of COVID-19 [15, 16] . Historically, use of corticosteroid use in the setting of SARS-coV and the Middle East respiratory syndrome coronavirus (MERS-CoV) has been shown to worsen immune response and cause diffuse alveolar damage [17] . However, the RECOVERY (Randomised Evaluation of COVid-19 thERapY) trial showed that dexamethasone reduced deaths by one-third in ventilated patients (rate ratio 0.65 [95% confidence interval 0.48 to 0.88]; p=0.0003) and by onefifth in other patients receiving oxygen only (0.80 [0.67 to 0.96]; p=0.0021) [18] . The above article is preprint and undergoing peer review at the time of this writing. Thus, clinicians should still take an individualized approach to patient care in the evaluation of risks and benefits when initiating corticosteroid treatments.",
+            "cite_spans": [
+                {
+                    "start": 147,
+                    "end": 151,
+                    "text": "[15,",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 152,
+                    "end": 155,
+                    "text": "16]",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 364,
+                    "end": 368,
+                    "text": "[17]",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 675,
+                    "end": 679,
+                    "text": "[18]",
+                    "ref_id": "BIBREF17"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "In sum, it is important to consider the extrapulmonary manifestations of COVID-19 infection. While thrombotic complications are frequently considered, ITP is a rare and unique manifestation of the disease. The response to treatment methods and exclusion of secondary causes suggest that COVID-19 was the inciting factor of ITP in this case.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Hematologic manifestations of COVID-19 are not infrequent and can carry life-threatening complications. Thrombocytopenia should always include a thorough evaluation for primary and secondary causes. ITP can often be unmasked or exacerbated by viral syndromes. While molecular mimicry is common with several viruses, it is possible that COVID-19 can induce a similar physiologic response. It is important for practitioners to be vigilant and aware of this phenomenon.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusions"
+        },
+        {
+            "text": "Human subjects: Consent was obtained by all participants in this study.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Additional Information Disclosures"
+        },
+        {
+            "text": "In compliance with the ICMJE uniform disclosure form, all authors declare the following: Payment/services info: All authors have declared that no financial support was received from any organization for the submitted work. Financial relationships: All authors have declared that they have no financial relationships at present or within the previous three years with any organizations that might have an interest in the submitted work. Other relationships: All authors have declared that there are no other relationships or activities that could appear to have influenced the submitted work.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conflicts of interest:"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. 2020",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "395",
+            "issn": "",
+            "pages": "497--506",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/s0140-6736(20)30183-5"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Coagulation disorders in coronavirus infected patients: COVID-19, SARS-CoV-1, MERS-CoV and lessons from the past",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Giannis",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Ziogas",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Gianni",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Clin Virol",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jcv.2020.104362"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "DIC: 2 cases report and literatures review. (Article in Chinese)",
+            "authors": [],
+            "year": null,
+            "venue": "Chin J Hematol",
+            "volume": "2020",
+            "issn": "",
+            "pages": "245--247",
+            "other_ids": {
+                "DOI": [
+                    "10.3760/cma.j.issn.0253-2727.2020.0001"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Abnormal coagulation parameters are associated with poor prognosis in patients with novel coronavirus pneumonia",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Tang",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Thromb Haemost",
+            "volume": "18",
+            "issn": "",
+            "pages": "844--847",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/jth.14768"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Immune thrombocytopenic purpura in a patient with Covid-19",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Zulfiqar",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Lorenzo-Villalba",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Hassler",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Andr\u00e8s",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "382",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMc2010472"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Report of the WHO-China Joint Mission on Coronavirus",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Clinical characteristics of coronavirus disease 2019 in China",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Ni",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "382",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa2002032"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Cytomegalovirus can make immune thrombocytopenic purpura refractory",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Dimaggio",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Anderson",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Bussel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Br J Haematol",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1365-2141.2009.07714.x"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Characterization of platelet-reactive antibodies in children with varicella-associated acute immune thrombocytopenic purpura (ITP)",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Wright",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Blanchette",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Br J Haematol",
+            "volume": "95",
+            "issn": "",
+            "pages": "145--152",
+            "other_ids": {
+                "DOI": [
+                    "10.1046/j.1365-2141.1996.d01-1872.x"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Risk of immune thrombocytopenic purpura and autoimmune hemolytic anemia among 120 908 US veterans with hepatitis C virus infection",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Chiao",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Engels",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Kramer",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Pietz",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Henderson",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Giordano",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Landgren",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Arch Intern Med",
+            "volume": "169",
+            "issn": "",
+            "pages": "357--363",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/archinternmed.2008.576"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Role of molecular mimicry of hepatitis C virus protein with platelet GPIIIa in hepatitis C-related immunologic thrombocytopenia",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Nardi",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Borkowsky",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Karpatkin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Blood",
+            "volume": "113",
+            "issn": "",
+            "pages": "4086--4093",
+            "other_ids": {
+                "DOI": [
+                    "10.1182/blood-2008-09-181073"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Angiotensin receptor blockers and COVID-19",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Saavedra",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Pharmacol Res",
+            "volume": "2020",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.phrs.2020.104832"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Coronavirus disease 2019 (COVID-19) and cardiovascular disease: a viewpoint on the potential influence of angiotensin-converting enzyme inhibitors/angiotensin receptor blockers on onset and severity of severe acute respiratory syndrome coronavirus 2 infection",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Guo",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Lv",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "J Am Heart Assoc",
+            "volume": "2020",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1161/jaha.120.016219"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Interim clinical guidance for management of patients with confirmed 2019 novel coronavirus (2019-nCoV) infection",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Novel coronavirus (2019-nCoV) technical guidance: patient management",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Corticosteroid use for 2019-nCoV infection: a double-edged sword",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Nasim",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kumar",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Azim",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Ashraf",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Azeem",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Infect Control Hosp Epidemiol",
+            "volume": "2020",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1017/ice.2020.165"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Effect of dexamethasone in hospitalized patients with",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Horby",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Lim",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Emberson",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2020.06.22.20137273"
+                ]
+            }
+        }
+    },
+    "ref_entries": {},
+    "back_matter": []
+}

@@ -17,19 +17,22 @@ class SearchPage extends Component {
         tab: 0,
         year: 2020,
         month: false,
-        listOpen: false
+        listOpen: false,
+        hasText: false
     }
 
     componentDidMount() {
-        // const drug = this.state.drug
-        // const page = this.state.page
-        // axios.get('/' + drug + '/' + page)
-        // .then(res => {
-        //     this.setState({ results: res.data, lastSearch: drug})
-        // })
-        // .catch(err => {
-        //     console.log(err.message)
-        // })
+        const drug = this.props.match.params.drug
+        const page = 1
+        if(drug) {
+            axios.get('/' + drug + '/' + page)
+            .then(res => {
+                this.setState({ results: res.data, drug: drug, lastSearch: drug, page: page, tab: 1 })
+            })
+            .catch(err => {
+                console.log(err.message)
+            })
+        }
     }
 
     selectedTextHandler = (id) => {
@@ -42,7 +45,7 @@ class SearchPage extends Component {
 
     searchDrugHandler = () => {
         const drug = this.state.drug
-        const page = 1
+        const page = this.state.page
         axios.get('/' + drug + '/' + page)
             .then(res => {
                 this.setState({ results: res.data, lastSearch: drug, page: page, tab: 1 })
@@ -50,6 +53,40 @@ class SearchPage extends Component {
             .catch(err => {
                 console.log(err.message)
             })
+    }
+
+    filterSwitchHandler = () => {
+        const hasText = this.state.hasText
+        this.setState({hasText: !hasText})
+    }
+
+    rightHandler = () => {
+        const drug = this.state.drug
+        let page = this.state.page
+        page = page + 1
+        axios.get('/' + drug + '/' + page)
+            .then(res => {
+                this.setState({ results: res.data, lastSearch: drug, page: page })
+            })
+            .catch(err => {
+                console.log(err.message)
+            })
+    }
+
+    leftHandler = () => {
+        const drug = this.state.drug
+        let page = this.state.page
+        if(page > 1) {
+            page = page - 1
+            console.log(this.state);
+            axios.get('/' + drug + '/' + page)
+                .then(res => {
+                    this.setState({ results: res.data, lastSearch: drug, page: page })
+                })
+                .catch(err => {
+                    console.log(err.message)
+                })
+        }
     }
 
     toggleHandler = () => {
@@ -90,36 +127,6 @@ class SearchPage extends Component {
         this.setState({year: i, listOpen: false})
     }
 
-    rightHandler = () => {
-        const drug = this.state.drug
-        let page = this.state.page
-        page = page + 1
-        console.log(this.state);
-        axios.get('/' + drug + '/' + page)
-            .then(res => {
-                this.setState({ results: res.data, lastSearch: drug, page: page })
-            })
-            .catch(err => {
-                console.log(err.message)
-            })
-    }
-
-    leftHandler = () => {
-        const drug = this.state.drug
-        let page = this.state.page
-        if(page > 1) {
-            page = page - 1
-            console.log(this.state);
-            axios.get('/' + drug + '/' + page)
-                .then(res => {
-                    this.setState({ results: res.data, lastSearch: drug, page: page })
-                })
-                .catch(err => {
-                    console.log(err.message)
-                })
-        }
-    }
-
     render () {
         let output = null
         switch(this.state.tab){
@@ -129,14 +136,22 @@ class SearchPage extends Component {
             case 1:
                 output = <div>
                             <button className='Button' type='submit' onClick={this.toggleHandler}> Click to view chart</button>
+                            {this.state.hasText ? 
+                                <button className='Button' type='submit' onClick={this.filterSwitchHandler}> Show all</button> 
+                                    : <button className='Button' type='submit' onClick={this.filterSwitchHandler}> Only show articles with available text</button> }
                             <br></br>
-                            <button type='submit' onClick={this.leftHandler}>-</button>
-                            <button>{this.state.page}</button>
-                            <button type='submit' onClick={this.rightHandler}>+</button>
+                            <br></br>
+
+                            <button className='previous round' type='submit' onClick={this.leftHandler}>&#8249;</button>
+                            <button className='Button' style={{backgroundColor: "white"}}>{this.state.page}</button>
+                            <button className='next round' type='submit' onClick={this.rightHandler}>&#8250;</button>
+                            
                             <ResultArray 
                                 articles={this.state.results} 
                                 selected={this.selectedTextHandler} 
-                                searchedFor={this.state.lastSearch}/> 
+                                searchedFor={this.state.lastSearch}
+                                hasText={this.state.hasText}
+                                /> 
                         </div>
                 break;
             case 2:

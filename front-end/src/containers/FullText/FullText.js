@@ -13,7 +13,6 @@ class FullText extends Component {
     componentDidMount() {
         axios.get('/text/' + this.props.match.params.id)
         .then(res => {
-            console.log(res.data)
             this.setState({ 
                 title: res.data.title,
                 publish_time: res.data.publish_time,
@@ -27,7 +26,7 @@ class FullText extends Component {
     }
 
     backHandler = () => {
-        this.props.history.push('/')
+        this.props.history.push('/' + this.props.match.params.drug)
     }
 
     render() {

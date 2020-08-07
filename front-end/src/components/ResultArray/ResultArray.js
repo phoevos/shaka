@@ -8,7 +8,7 @@ const resultArray = (props) => {
 
     articles = props.articles.map(article => {
 
-        if(!article.textExists) return (
+        if(!article.textExists && !props.hasText) return (
             <div key={article._id} >
                 <Result
                     title={article.title}
@@ -19,18 +19,18 @@ const resultArray = (props) => {
                 />
             </div>
         )
-        
-        return (<Link to={'/article/' + props.searchedFor + '/' + article._id} key={article._id} style={{ textDecoration: 'none' }}>
-            <Result
-                title={article.title}
-                authors={article.authors}
-                publish_time={article.publish_time}
-                abstract={article.abstract}
-                textAvailable={true}
-                clicked={() => props.selected(article._id)}
-
-            />
-        </Link>)
+        else if (article.textExists) return (
+            <Link to={'/article/' + props.searchedFor + '/' + article._id} key={article._id} style={{ textDecoration: 'none' }}>
+                <Result
+                    title={article.title}
+                    authors={article.authors}
+                    publish_time={article.publish_time}
+                    abstract={article.abstract}
+                    textAvailable={true}
+                    clicked={() => props.selected(article._id)}
+                />
+            </Link>)      
+        else return null
     })
 
     return (

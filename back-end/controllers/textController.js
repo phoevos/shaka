@@ -10,8 +10,8 @@ async function getTexts (req, res) {
       score: { $meta: "textScore" }, text: 0
     })
     .sort( {score: { $meta: "textScore" } } )
-    .skip(req.params.page * 100 - 100)
-    .limit(100)
+    .skip(req.params.page * 10 - 10)
+    .limit(10)
 
   res.send(result)
 }

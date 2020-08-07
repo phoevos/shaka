@@ -1,0 +1,1588 @@
+{
+    "paper_id": "PMC7273970",
+    "metadata": {
+        "title": "Clinical Implications of Chloroquine and Hydroxychloroquine Ototoxicity for COVID-19 Treatment: A Mini-Review",
+        "authors": [
+            {
+                "first": "Pattarawadee",
+                "middle": [],
+                "last": "Prayuenyong",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Anand",
+                "middle": [
+                    "V."
+                ],
+                "last": "Kasbekar",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "David",
+                "middle": [
+                    "M."
+                ],
+                "last": "Baguley",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [
+        {
+            "text": "At this time of the COVID-19 global pandemic, potentially effective treatments are currently under urgent investigation. Currently, there is no evidence from randomized clinical trials that any specific therapy improves outcomes in patients with COVID-19 (1). Chloroquine and hydroxychloroquine are considered to be promising repurposed drugs against COVID-19, based on pathophysiological considerations and in vitro results (2, 3). These drugs have received particular attention as they are widely available and inexpensive. Chloroquine and hydroxychloroquine, quinine-related compounds, have been used for the treatment of malaria and chronic inflammatory diseases such as systemic lupus erythematosus and rheumatoid arthritis. The anti-viral and anti-inflammatory properties may account for the efficacy in treating patients with COVID-19 infection (4). There have been reports that patients who received chloroquine or hydroxychloroquine had faster virological clearance (5, 6), however there are some limitations of the studies such as small sample size and questionable methodology. There is no high-quality evidence of potential benefit of these drugs at the moment. Presently, there are over 80 registered ongoing trials worldwide examining the role of chloroquine and hydroxychloroquine in COVID-19 treatment (7).",
+            "cite_spans": [
+                {
+                    "start": 256,
+                    "end": 257,
+                    "mention": "1",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 426,
+                    "end": 427,
+                    "mention": "2",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 429,
+                    "end": 430,
+                    "mention": "3",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 853,
+                    "end": 854,
+                    "mention": "4",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 976,
+                    "end": 977,
+                    "mention": "5",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 979,
+                    "end": 980,
+                    "mention": "6",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 1319,
+                    "end": 1320,
+                    "mention": "7",
+                    "ref_id": "BIBREF30"
+                }
+            ],
+            "section": "Introduction",
+            "ref_spans": []
+        },
+        {
+            "text": "Clinical practice guidelines have considered chloroquine and hydroxychloroquine for off-label and compassionate therapies against moderate to severe cases of COVID-19 in several countries including China, Korea, USA, France, Italy, and Belgium (8). There is currently also a massive global demand for chloroquine and hydroxychloroquine as people around the world are self-medicating after health professionals and politicians have endorsed the drugs. Chloroquine and hydroxychloroquine are also freely available in the UK and other countries without prescription.",
+            "cite_spans": [
+                {
+                    "start": 245,
+                    "end": 246,
+                    "mention": "8",
+                    "ref_id": "BIBREF31"
+                }
+            ],
+            "section": "Introduction",
+            "ref_spans": []
+        },
+        {
+            "text": "Some potential side effects of chloroquine and hydroxychloroquine are cardiac arrhythmias, retinopathy, and muscle weakness (4). The clinical and research literature also contains reports of ototoxic effects after chloroquine and hydroxychloroquine treatment. Ototoxicity refers to drug-related injury causing damage to the inner ear structures, which then result in hearing loss and/or tinnitus (the subjective perception of sound such as ringing, hissing, or buzzing, without an external source), and/or imbalance (9). Permanent hearing loss can adversely affect cognitive health (10) and mental well-being (11). Troublesome tinnitus is associated with insomnia, poor concentration, anxiety and depression (12). The mechanisms of chloroquine associated hearing loss include cochlear outer hair cell dysfunction, and inhibition of post synaptic sodium channel function in cochlear spiral ganglion cells (13). Additionally, some alterations in central auditory function, which may trigger tinnitus, have been observed after quinine administration (13).",
+            "cite_spans": [
+                {
+                    "start": 125,
+                    "end": 126,
+                    "mention": "4",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 517,
+                    "end": 518,
+                    "mention": "9",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 583,
+                    "end": 585,
+                    "mention": "10",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 610,
+                    "end": 612,
+                    "mention": "11",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 709,
+                    "end": 711,
+                    "mention": "12",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 905,
+                    "end": 907,
+                    "mention": "13",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 1048,
+                    "end": 1050,
+                    "mention": "13",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "section": "Introduction",
+            "ref_spans": []
+        },
+        {
+            "text": "This mini-review represents a summary of the findings from a literature search regarding ototoxicity of the drugs in the published literature as well as the discussion of potential implications for survivors of COVID-19 so treated.",
+            "cite_spans": [],
+            "section": "Introduction",
+            "ref_spans": []
+        },
+        {
+            "text": "A systematic literature search on Medline and EMBASE platforms was undertaken on 26th March 2020, updated on 23rd April 2020. The search strategy combined MeSH terms and keywords of chloroquine or hydroxychloroquine, ototoxicity, hearing loss, hearing, tinnitus. English language publications containing relevant data to this review were included. Data extraction items included year, study design, sample size, and audiological outcomes. Data were collated in the table and then summarized by narrative synthesis. Recommendations from audiological professional perspectives were then made.",
+            "cite_spans": [],
+            "section": "Method",
+            "ref_spans": []
+        },
+        {
+            "text": "Eleven publications, reporting topics associated with ototoxic effects of chloroquine, were identified and are summarized in Table 1. The year of publication ranged from 1954 to 2015. There were 7 case reports, 2 observational studies, 1 case control study, and 1 review article. The sample size of the study participants varied from 1 to 74.",
+            "cite_spans": [],
+            "section": "Chloroquine Ototoxicity ::: Results",
+            "ref_spans": [
+                {
+                    "start": 125,
+                    "end": 132,
+                    "mention": "Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ]
+        },
+        {
+            "text": "Ten patients (8 adults and 2 children) in 6 publications had either abnormal audiogram or reported hearing loss after chloroquine treatment. Three out of ten cases had temporary sensorineural hearing loss after chloroquine treatment that improved after cessation of the medication (14, 19). A prospective observational study in 2015 concluded that ototoxic effects of chloroquine at regular doses for malaria treatment (1.2 g daily for 3 days) were fully reversible (14). Sensorineural hearing loss after chloroquine in a 6-year old girl was partially reversible after prednisolone administration (19). However, permanent severe sensorineural hearing loss has also been reported in 2 cases (17, 20). Additionally, reversible chloroquine-induced cochlear injury was detectable by brainstem audiometry in 13 out of 70 patients despite normal pure tone audiogram results (18). Tinnitus has also been reported concurrently with persistent hearing loss in 1 case (20). Imbalance was reported in 3 cases (14, 19, 20).",
+            "cite_spans": [
+                {
+                    "start": 282,
+                    "end": 284,
+                    "mention": "14",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 286,
+                    "end": 288,
+                    "mention": "19",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 467,
+                    "end": 469,
+                    "mention": "14",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 598,
+                    "end": 600,
+                    "mention": "19",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 691,
+                    "end": 693,
+                    "mention": "17",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 695,
+                    "end": 697,
+                    "mention": "20",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 869,
+                    "end": 871,
+                    "mention": "18",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 959,
+                    "end": 961,
+                    "mention": "20",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 999,
+                    "end": 1001,
+                    "mention": "14",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 1003,
+                    "end": 1005,
+                    "mention": "19",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 1007,
+                    "end": 1009,
+                    "mention": "20",
+                    "ref_id": "BIBREF12"
+                }
+            ],
+            "section": "Chloroquine Ototoxicity ::: Results",
+            "ref_spans": []
+        },
+        {
+            "text": "While there was no difference in hearing thresholds between children who were and were not exposed to chloroquine during gestation (16), there were 3 case reports of intrauterine effects of chloroquine associated with abnormal cochleovestibular development in newborns (21, 22).",
+            "cite_spans": [
+                {
+                    "start": 132,
+                    "end": 134,
+                    "mention": "16",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 270,
+                    "end": 272,
+                    "mention": "21",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 274,
+                    "end": 276,
+                    "mention": "22",
+                    "ref_id": "BIBREF14"
+                }
+            ],
+            "section": "Chloroquine Ototoxicity ::: Results",
+            "ref_spans": []
+        },
+        {
+            "text": "Six case reports, describing ototoxic effects associated with hydroxychloroquine, were identified and are displayed in Table 2. Publication year ranged from 1998 to 2018. Sensorineural hearing loss was identified after hydroxychloroquine treatment in five adults and two children. The sensorineural hearing loss was found to be either reversible (25, 28) or irreversible (24, 29). The onset of hearing loss after hydroxychloroquine treatment varied from 1 month (25) to several years (29). Tinnitus was also reported concomitantly with hearing loss in 2 cases (24, 28).",
+            "cite_spans": [
+                {
+                    "start": 347,
+                    "end": 349,
+                    "mention": "25",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 351,
+                    "end": 353,
+                    "mention": "28",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 372,
+                    "end": 374,
+                    "mention": "24",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 376,
+                    "end": 378,
+                    "mention": "29",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 463,
+                    "end": 465,
+                    "mention": "25",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 485,
+                    "end": 487,
+                    "mention": "29",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 561,
+                    "end": 563,
+                    "mention": "24",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 565,
+                    "end": 567,
+                    "mention": "28",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "section": "Hydroxychloroquine Ototoxicity ::: Results",
+            "ref_spans": [
+                {
+                    "start": 119,
+                    "end": 126,
+                    "mention": "Table 2",
+                    "ref_id": "TABREF1"
+                }
+            ]
+        },
+        {
+            "text": "The manifestation of sensorineural hearing loss and/or tinnitus and/or imbalance after chloroquine and hydroxychloroquine can be either temporary or permanent. Most of the studies on this topic were case series or case reports with only a few observational studies. Information from a definitive large study with good methodology is still lacking. Ototoxicity after chloroquine use tends to be more sudden, while hydroxychloroquine is more likely to cause ototoxicity after prolonged use. This could be due to different drug efficacy and equivalent dosage. Furthermore, hearing loss in these patients could be associated with other possible causes rather than chloroquine and hydroxychloroquine including autoimmune disease e.g., systemic lupus erythematosus (30), sudden sensorineural hearing loss or presbycusis.",
+            "cite_spans": [
+                {
+                    "start": 760,
+                    "end": 762,
+                    "mention": "30",
+                    "ref_id": "BIBREF23"
+                }
+            ],
+            "section": "Discussion ::: Results",
+            "ref_spans": []
+        },
+        {
+            "text": "The suggested dose of chloroquine for patients diagnosed with COVID-19 infection (1 g daily for 10 days) is substantially higher compared with the usual dosage of chloroquine for malaria treatment (1 g daily for 3 days) (5). There is no information regarding the ototoxic effect of chloroquine at this higher dose. Patients with chronic inflammatory diseases were treated with a usual dose of hydroxychloroquine 400 mg daily for long durations (months or years). A suggested dose of hydroxychloroquine for COVID-19 infection is an initial loading dose of 800 mg followed by 400 mg daily for 4 days based on the in vitro model (2), and 600 mg daily for 10 days from a French study (6). In general, the recommended dosage of hydroxychloroquine in COVID-19 patients is slightly higher but in a shorter duration compared to that in autoimmune disease. The ototoxic effects of these regimens are unknown.",
+            "cite_spans": [
+                {
+                    "start": 221,
+                    "end": 222,
+                    "mention": "5",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 627,
+                    "end": 628,
+                    "mention": "2",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 681,
+                    "end": 682,
+                    "mention": "6",
+                    "ref_id": "BIBREF29"
+                }
+            ],
+            "section": "Discussion ::: Results",
+            "ref_spans": []
+        },
+        {
+            "text": "Due to the potentially substantial number of the world's population who may take chloroquine or hydroxychloroquine, there is the prospect of a significant number of people being affected with ototoxic side effects. It is therefore vital to build awareness about the presentation and impact of the symptoms of drug-induced ototoxicity. Patient reports of hearing loss, tinnitus, or imbalance should be noted. Those with troublesome hearing loss or tinnitus are encouraged to be referred for hearing evaluation, including extended high frequencies audiometry at 8\u201316 kHz where possible, once they are stable. Available options of audiological interventions for those with bothersome hearing impairment or tinnitus are counseling, hearing aids, and tinnitus therapy. The possibility of exacerbation of pre-existing hearing loss and/or tinnitus should be considered. Synergistic adverse auditory effects when other ototoxic medication is administered with chloroquine or hydroxychloroquine, such as aminoglycoside antibiotics and azithromycin, is a further risk (9). Severe cases of COVID-19 can also progress to respiratory distress and hypoxia (31). Hypoxia is known to have deleterious effects on the stria vascularis of the cochlea organ including alterations to cochlear potentials and histologic changes (32). Therefore, it is certainly possible that the combined effects of hypoxia and administration of chloroquine or hydroxychloroquine on hearing could be worse than either one alone. Clinical trials of chloroquine or hydroxychloroquine should also consider including audiological monitoring in the protocol. Ideally, a hearing test should be conducted both before and after drug administration to examine drug-induced hearing change. Common methods for audiological evaluation include pure tone audiometry, otoacoustic emission (OAE), and tinnitus questionnaire. However, conventional methods and setting of hearing evaluation is impractical based on the infectious nature of COVID-19 and the urgency of drug administration. Self-monitoring by validated smartphone-based apps for hearing assessments in addition to self-report of symptoms is an approach of interest in this situation.",
+            "cite_spans": [
+                {
+                    "start": 1059,
+                    "end": 1060,
+                    "mention": "9",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 1143,
+                    "end": 1145,
+                    "mention": "31",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 1307,
+                    "end": 1309,
+                    "mention": "32",
+                    "ref_id": "BIBREF25"
+                }
+            ],
+            "section": "Discussion ::: Results",
+            "ref_spans": []
+        },
+        {
+            "text": "Although chloroquine and hydroxychloroquine are generally considered safe in pregnant women, the use of chloroquine during pregnancy in the first trimester should be contemplated with particular caution since there are reports of abnormal cochleovestibular development in newborns. Hydroxychloroquine has a safer clinical profile in pregnancy, thus is a more suitable option than chloroquine (33).",
+            "cite_spans": [
+                {
+                    "start": 393,
+                    "end": 395,
+                    "mention": "33",
+                    "ref_id": "BIBREF26"
+                }
+            ],
+            "section": "Discussion ::: Results",
+            "ref_spans": []
+        },
+        {
+            "text": "Recent publications have brought attention to the possible benefit of chloroquine and hydroxychloroquine in COVID-19 treatment. It is important to build awareness about the possibility of ototoxicity in survivors of COVID-19 treated with these drugs. Patient reports of hearing loss, tinnitus, or imbalance should be noted. Those with troublesome hearing loss or tinnitus are encouraged to be referred for hearing evaluation and interventions once they are stable. Clinical trials of chloroquine or hydroxychloroquine should also consider including audiological monitoring in the protocol.",
+            "cite_spans": [],
+            "section": "Conclusion ::: Results",
+            "ref_spans": []
+        },
+        {
+            "text": "All authors planned and structured the paper. PP undertook the review and wrote the first draft. DB, PP, and AK jointly revised the manuscript.",
+            "cite_spans": [],
+            "section": "Author Contributions",
+            "ref_spans": []
+        },
+        {
+            "text": "The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.",
+            "cite_spans": [],
+            "section": "Conflict of Interest",
+            "ref_spans": []
+        }
+    ],
+    "ref_entries": {
+        "TABREF0": {
+            "text": "Table 1: Chloroquine ototoxicity.\n",
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Table 2: Hydroxychloroquine ototoxicity.\n",
+            "type": "table"
+        }
+    },
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Treating COVID-19-Off-label drug use, compassionate use, and randomized clinical trials during pandemics",
+            "authors": [
+                {
+                    "first": "AC",
+                    "middle": [],
+                    "last": "Kalil",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "JAMA",
+            "volume": "323",
+            "issn": "",
+            "pages": "1897-8",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.2020.4742"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "title": "Hearing loss as a risk factor for dementia: a systematic review",
+            "authors": [
+                {
+                    "first": "RS",
+                    "middle": [],
+                    "last": "Thomson",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Auduong",
+                    "suffix": ""
+                },
+                {
+                    "first": "AT",
+                    "middle": [],
+                    "last": "Miller",
+                    "suffix": ""
+                },
+                {
+                    "first": "RK",
+                    "middle": [],
+                    "last": "Gurgel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Laryngoscope Investig Otolaryngol.",
+            "volume": "2",
+            "issn": "",
+            "pages": "69-79",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/lio2.65"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "Hearing loss and depression in older adults: a systematic review and meta-analysis",
+            "authors": [
+                {
+                    "first": "BJ",
+                    "middle": [],
+                    "last": "Lawrence",
+                    "suffix": ""
+                },
+                {
+                    "first": "DMP",
+                    "middle": [],
+                    "last": "Jayakody",
+                    "suffix": ""
+                },
+                {
+                    "first": "RJ",
+                    "middle": [],
+                    "last": "Bennett",
+                    "suffix": ""
+                },
+                {
+                    "first": "RH",
+                    "middle": [],
+                    "last": "Eikelboom",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Gasson",
+                    "suffix": ""
+                },
+                {
+                    "first": "PL",
+                    "middle": [],
+                    "last": "Friedland",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Gerontologist",
+            "volume": "60",
+            "issn": "",
+            "pages": "e137-54",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/geront/gnz009"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "Problems and life effects experienced by tinnitus research study volunteers: an exploratory study using the ICF classification",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Manchaiah",
+                    "suffix": ""
+                },
+                {
+                    "first": "EW",
+                    "middle": [],
+                    "last": "Beukes",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Granberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Durisala",
+                    "suffix": ""
+                },
+                {
+                    "first": "DM",
+                    "middle": [],
+                    "last": "Baguley",
+                    "suffix": ""
+                },
+                {
+                    "first": "PM",
+                    "middle": [],
+                    "last": "Allen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "J Am Acad Audiol",
+            "volume": "29",
+            "issn": "",
+            "pages": "936-47",
+            "other_ids": {
+                "DOI": [
+                    "10.3766/jaaa.17094"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Baguley",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Fagelson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Tinnitus: Clinical and Research Perspectives, 1st ed",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF5": {
+            "title": "Assessment of short term chloroquine-induced ototoxicity in malaria patients",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Subramaniam",
+                    "suffix": ""
+                },
+                {
+                    "first": "RV",
+                    "middle": [],
+                    "last": "Vaswani",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Global J Med Res",
+            "volume": "15",
+            "issn": "",
+            "pages": "14-17",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF6": {
+            "title": "Chloroquine ototoxicity",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Bortoli",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Santiago",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Clin Rheumatol",
+            "volume": "26",
+            "issn": "",
+            "pages": "1809-10",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s10067-007-0662-6"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "title": "Chloroquine gestational use in systemic lupus erythematosus: assessing the risk of child ototoxicity by pure tone audiometry",
+            "authors": [
+                {
+                    "first": "EF",
+                    "middle": [],
+                    "last": "Borba",
+                    "suffix": ""
+                },
+                {
+                    "first": "JR",
+                    "middle": [],
+                    "last": "Turrini-Filho",
+                    "suffix": ""
+                },
+                {
+                    "first": "KA",
+                    "middle": [],
+                    "last": "Kuruma",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Bertola",
+                    "suffix": ""
+                },
+                {
+                    "first": "ME",
+                    "middle": [],
+                    "last": "Pedalini",
+                    "suffix": ""
+                },
+                {
+                    "first": "MC",
+                    "middle": [],
+                    "last": "Lorenzi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Lupus",
+            "volume": "13",
+            "issn": "",
+            "pages": "223-7",
+            "other_ids": {
+                "DOI": [
+                    "10.1191/0961203304lu528oa"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "title": "Chloroquine ototoxicity: an idiosyncratic phenomenon",
+            "authors": [
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Hadi",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Nuwayhid",
+                    "suffix": ""
+                },
+                {
+                    "first": "AS",
+                    "middle": [],
+                    "last": "Hasbini",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Otolaryngol Head Neck Surg",
+            "volume": "114",
+            "issn": "",
+            "pages": "491-3",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0194-5998(96)70226-7"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "Alterations of auditory evoked potentials during the course of chloroquine treatment",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Bernard",
+                    "suffix": ""
+                }
+            ],
+            "year": 1985,
+            "venue": "Acta Otolaryngol.",
+            "volume": "99",
+            "issn": "",
+            "pages": "387-92",
+            "other_ids": {
+                "DOI": [
+                    "10.3109/00016488509108928"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "Chloroquine ototoxicity\u2013a reversible phenomenon?",
+            "authors": [
+                {
+                    "first": "DK",
+                    "middle": [],
+                    "last": "Mukherjee",
+                    "suffix": ""
+                }
+            ],
+            "year": 1979,
+            "venue": "J Laryngol Otol.",
+            "volume": "93",
+            "issn": "",
+            "pages": "809-15",
+            "other_ids": {
+                "DOI": [
+                    "10.1017/S0022215100087740"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "In vitro antiviral activity and projection of optimized dosing design of hydroxychloroquine for the treatment of severe acute respiratory syndrome Coronavirus 2 (SARS-CoV-2)",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Yao",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Ye",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Cui",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Niu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Clin. Infect. Dis",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1093/cid/ciaa237"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "title": "Ototoxicity of chloroquine phosphate",
+            "authors": [
+                {
+                    "first": "GS",
+                    "middle": [],
+                    "last": "Dwivedi",
+                    "suffix": ""
+                },
+                {
+                    "first": "YN",
+                    "middle": [],
+                    "last": "Mehra",
+                    "suffix": ""
+                }
+            ],
+            "year": 1978,
+            "venue": "A Case Report J Laryngol Otol",
+            "volume": "92",
+            "issn": "",
+            "pages": "701-3",
+            "other_ids": {
+                "DOI": [
+                    "10.1017/S0022215100085960"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "title": "Ototoxicity of chloroquine",
+            "authors": [
+                {
+                    "first": "GJ",
+                    "middle": [],
+                    "last": "Matz",
+                    "suffix": ""
+                },
+                {
+                    "first": "RF",
+                    "middle": [],
+                    "last": "Naunton",
+                    "suffix": ""
+                }
+            ],
+            "year": 1968,
+            "venue": "Arch Otolaryngol.",
+            "volume": "88",
+            "issn": "",
+            "pages": "370-372",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/archotol.1968.00770010372008"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "title": "The ototoxicity of chloroquine phosphate",
+            "authors": [
+                {
+                    "first": "CW",
+                    "middle": [],
+                    "last": "Hart",
+                    "suffix": ""
+                },
+                {
+                    "first": "RF",
+                    "middle": [],
+                    "last": "Naunton",
+                    "suffix": ""
+                }
+            ],
+            "year": 1964,
+            "venue": "Arch Otolaryngol",
+            "volume": "80",
+            "issn": "",
+            "pages": "407-412",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/archotol.1964.00750040419009"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "title": "Chloroquine in lupus erythematosus",
+            "authors": [
+                {
+                    "first": "WA",
+                    "middle": [],
+                    "last": "Dewar",
+                    "suffix": ""
+                },
+                {
+                    "first": "HM",
+                    "middle": [],
+                    "last": "Mann",
+                    "suffix": ""
+                }
+            ],
+            "year": 1954,
+            "venue": "Lancet",
+            "volume": "263",
+            "issn": "",
+            "pages": "780-1",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(54)92747-6"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "title": "Hydroxychloroquine ototoxicity in a patient with systemic lupus erythematosus",
+            "authors": [
+                {
+                    "first": "MRN",
+                    "middle": [],
+                    "last": "Fernandes",
+                    "suffix": ""
+                },
+                {
+                    "first": "DBR",
+                    "middle": [],
+                    "last": "Soares",
+                    "suffix": ""
+                },
+                {
+                    "first": "CI",
+                    "middle": [],
+                    "last": "Thien",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Carneiro",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "An Bras Dermatol",
+            "volume": "93",
+            "issn": "",
+            "pages": "469-70",
+            "other_ids": {
+                "DOI": [
+                    "10.1590/abd1806-4841.20187615"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "title": "A case report of hearing loss post use of hydroxychloroquine in a HIV-infected patient",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Khalili",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Dastan",
+                    "suffix": ""
+                },
+                {
+                    "first": "SA",
+                    "middle": [],
+                    "last": "Dehghan Manshadi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Daru",
+            "volume": "22",
+            "issn": "",
+            "pages": "20-20",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/2008-2231-22-20"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "title": "Hydroxychloroquine-induced ototoxicity in a child with systemic lupus erythematosus",
+            "authors": [
+                {
+                    "first": "SC",
+                    "middle": [],
+                    "last": "Lim",
+                    "suffix": ""
+                },
+                {
+                    "first": "SP",
+                    "middle": [],
+                    "last": "Tang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Int J Rheum Dis",
+            "volume": "14",
+            "issn": "",
+            "pages": "e1-2",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1756-185X.2010.01582.x"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "title": "Hydroxychloroquine ototoxicity in a child with idiopathic pulmonary haemosiderosis",
+            "authors": [
+                {
+                    "first": "MB",
+                    "middle": [],
+                    "last": "Coutinho",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Duarte",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Int J Pediatr Otorhinolaryngol",
+            "volume": "62",
+            "issn": "",
+            "pages": "53-7",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0165-5876(01)00592-4"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "title": "Hydroxychloroquine ototoxicity in a patient with rheumatoid arthritis",
+            "authors": [
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Seckin",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Ozoran",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ikinciogullari",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Borman",
+                    "suffix": ""
+                },
+                {
+                    "first": "EE",
+                    "middle": [],
+                    "last": "Bostan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Rheumatol Int",
+            "volume": "19",
+            "issn": "",
+            "pages": "203-4",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s002960000054"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "title": "Ototoxicity due to hydroxychloroquine: report of two cases",
+            "authors": [
+                {
+                    "first": "PB",
+                    "middle": [],
+                    "last": "Johansen",
+                    "suffix": ""
+                },
+                {
+                    "first": "JT",
+                    "middle": [],
+                    "last": "Gran",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Clin. Exp. Rheumatol",
+            "volume": "16",
+            "issn": "",
+            "pages": "472-4",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF22": {
+            "title": "Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Cao",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Cell Res.",
+            "volume": "30",
+            "issn": "",
+            "pages": "269-71",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41422-020-0282-0"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "title": "Hearing loss in patients with systemic lupus erythematosus",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Abbasi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Yazdi",
+                    "suffix": ""
+                },
+                {
+                    "first": "AM",
+                    "middle": [],
+                    "last": "Kazemifar",
+                    "suffix": ""
+                },
+                {
+                    "first": "ZZ",
+                    "middle": [],
+                    "last": "Bakhsh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Glob J Health Sci.",
+            "volume": "5",
+            "issn": "",
+            "pages": "102-6",
+            "other_ids": {
+                "DOI": [
+                    "10.5539/gjhs.v5n5p102"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "title": "An overview of coronaviruses including the SARS-2 coronavirus - Molecular biology, epidemiology and clinical implications",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Kaul",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Curr Med Res Pract",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.cmrp.2020.04.001"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "title": "Effects of hypoxia on cochlear blood flow in mice evaluated using Doppler optical microangiography",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Dziennis",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Reif",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Zhi",
+                    "suffix": ""
+                },
+                {
+                    "first": "AL",
+                    "middle": [],
+                    "last": "Nuttall",
+                    "suffix": ""
+                },
+                {
+                    "first": "RK",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "J Biomed Opt",
+            "volume": "17",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1117/1.JBO.17.10.106003"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "title": "COVID-19: a recommendation to examine the effect of hydroxychloroquine in preventing infection and progression",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "SM",
+                    "middle": [],
+                    "last": "Dai",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Tong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Antimicrob Chemother",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1093/jac/dkaa114"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "title": "New insights on the antiviral effects of chloroquine against coronavirus: what to expect for COVID-19?",
+            "authors": [
+                {
+                    "first": "CA",
+                    "middle": [],
+                    "last": "Devaux",
+                    "suffix": ""
+                },
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Rolain",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Colson",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Raoult",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Int J Antimicrob Agents",
+            "volume": "55",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ijantimicag.2020.105938"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "title": "Breakthrough: chloroquine phosphate has shown apparent efficacy in treatment of COVID-19 associated pneumonia in clinical studies",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Tian",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Biosci Trends.",
+            "volume": "14",
+            "issn": "",
+            "pages": "72-3",
+            "other_ids": {
+                "DOI": [
+                    "10.5582/bst.2020.01047"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "title": "Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an open-label non-randomized clinical trial",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Gautret",
+                    "suffix": ""
+                },
+                {
+                    "first": "JC",
+                    "middle": [],
+                    "last": "Lagier",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Parola",
+                    "suffix": ""
+                },
+                {
+                    "first": "VT",
+                    "middle": [],
+                    "last": "Hoang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Meddeb",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Mailhe",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Int J Antimicrobial Agents",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ijantimicag.2020.105949"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "title": "Chloroquine and hydroxychloroquine in covid-19",
+            "authors": [
+                {
+                    "first": "RE",
+                    "middle": [],
+                    "last": "Ferner",
+                    "suffix": ""
+                },
+                {
+                    "first": "JK",
+                    "middle": [],
+                    "last": "Aronson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "BMJ.",
+            "volume": "369",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1136/bmj.m1432"
+                ]
+            }
+        },
+        "BIBREF31": {
+            "title": "Expert consensus on chloroquine phosphate for the treatment of novel coronavirus pneumonia",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Jie",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "He",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Xi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Zhi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Zhonghua Jie He He Hu Xi Za Zh",
+            "volume": "43",
+            "issn": "",
+            "pages": "185-188",
+            "other_ids": {
+                "DOI": [
+                    "10.3760/cma.j.issn.1001-0939.2020.03.009"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "title": "Pharmacological drugs inducing ototoxicity, vestibular symptoms and tinnitus: a reasoned and updated guide",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Cianfrone",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Pentangelo",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Cianfrone",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Mazzei",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Turchetta",
+                    "suffix": ""
+                },
+                {
+                    "first": "MP",
+                    "middle": [],
+                    "last": "Orlando",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Eur Rev Med Pharmacol Sci",
+            "volume": "15",
+            "issn": "",
+            "pages": "601-36",
+            "other_ids": {
+                "DOI": []
+            }
+        }
+    }
+}

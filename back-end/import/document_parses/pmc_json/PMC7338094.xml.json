@@ -1,0 +1,337 @@
+{
+    "paper_id": "PMC7338094",
+    "metadata": {
+        "title": "Transcatheter drug delivery through bronchial artery for COVID-19: is it fiction or could it come true?",
+        "authors": [
+            {
+                "first": "Mohamed",
+                "middle": [
+                    "M.",
+                    "A."
+                ],
+                "last": "Zaitoun",
+                "suffix": "",
+                "email": "Zaitoun82@gmail.com",
+                "affiliation": {}
+            },
+            {
+                "first": "Mohammad",
+                "middle": [
+                    "Abd",
+                    "Alkhalik"
+                ],
+                "last": "Basha",
+                "suffix": "",
+                "email": "dr.mohamedbasha86@gmail.com",
+                "affiliation": {}
+            },
+            {
+                "first": "Ali",
+                "middle": [
+                    "Hassan"
+                ],
+                "last": "Elmokadem",
+                "suffix": "",
+                "email": "mokadem83@yahoo.com",
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [
+        {
+            "text": "COVID-19 is a global pandemic.Many active clinical trials of COVID-19 treatments and vaccines are registered.Bronchial artery infusion (BAI) could be an alternative for systemic drug infusion in COVID-19 trials.",
+            "cite_spans": [],
+            "section": "Key points",
+            "ref_spans": []
+        },
+        {
+            "text": "The novel coronavirus disease 2019 (COVID-19) is a highly infectious disease caused by a severe acute respiratory syndrome coronavirus (SARS-CoV-2) which started in Wuhan, China, in December 2019. The World Health Organization (WHO) declared COVID-19 a global pandemic on March 11, 2020 [1]. Overall, there have been 8,242,999 confirmed cases and 445,535 deaths distributed across the globe as of June 18, 2020 [2]. While COVID-19 pandemic continues to spread, causing exponential morbidity and mortality, and threatening economies, the world is racing to find safe and effective treatments.",
+            "cite_spans": [
+                {
+                    "start": 288,
+                    "end": 289,
+                    "mention": "1",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 412,
+                    "end": 413,
+                    "mention": "2",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "section": "Key points",
+            "ref_spans": []
+        },
+        {
+            "text": "More than 1,200 active or recruiting clinical trials for COVID-19 treatments and vaccines are registered [3]. Several agents are being investigated as potential therapies for COVID-19. Many drugs have shown high promise for treatment of COVID-19 such as immunomodulatory, anti-inflammatory, antiviral, and antiparasitic agents. Nevertheless, up to date, no drugs have been confirmed as a definitive treatment for COVID-19.",
+            "cite_spans": [
+                {
+                    "start": 106,
+                    "end": 107,
+                    "mention": "3",
+                    "ref_id": "BIBREF2"
+                }
+            ],
+            "section": "Key points",
+            "ref_spans": []
+        },
+        {
+            "text": "On March 20, 2020, the WHO and partners announced the SOLIDARITY trial [4]. The SOLIDARITY trial is comparing three treatment options against the standard of care, to assess their relative effectiveness against COVID-19 and discover whether any of these drugs slow disease progression or improve survival. Treatment options under the study are the following: (i) remdesivir, a previously tested Ebola treatment; (ii) lopinavir/ritonavir, a licensed treatment for the human immunodeficiency virus (HIV) infection; and (iii) interferon-\u03b2-1a, used to treat multiple sclerosis. The chloroquine and hydroxychloroquine arm was removed from the SOLIDARITY trial on June 17, 2020 [4].",
+            "cite_spans": [
+                {
+                    "start": 72,
+                    "end": 73,
+                    "mention": "4",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 673,
+                    "end": 674,
+                    "mention": "4",
+                    "ref_id": "BIBREF3"
+                }
+            ],
+            "section": "Key points",
+            "ref_spans": []
+        },
+        {
+            "text": "The \u201cRandomized evaluation of COVID-19 therapy\u201d (RECOVERY) trial [5] is another randomised controlled clinical trial including 11,500 patients who have been randomised to the following treatment arms: (i) lopinavir-ritonavir; (ii) low-dose dexamethasone, an anti-inflammatory steroid; (iii) azithromycin, an antibiotic; (iv) tocilizumab (an anti-inflammatory treatment); (v) convalescent plasma (collected from donors who have recovered from COVID-19); and (vi) hydroxychloroquine (which has been stopped). Overall, the 28-day mortality rate was reduced by 17% using dexamethasone with a highly significant trend showing greatest benefit among those patients requiring ventilation (test for trend, p < 0.001) [5]. The drawbacks of these trials include exposing the patients to drugs with well-documented systemic adverse effects or unknown complications of novel therapies without proof of clinical benefit.",
+            "cite_spans": [
+                {
+                    "start": 66,
+                    "end": 67,
+                    "mention": "5",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 710,
+                    "end": 711,
+                    "mention": "5",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "section": "Key points",
+            "ref_spans": []
+        },
+        {
+            "text": "Based on the first-pass effect of transcatheter therapy, we can hypothesise that bronchial artery infusion could be an alternative for systemic drug infusion in COVID-19 trials with superadded benefits of high drug concentration and low systemic adverse effects. Studies demonstrated that the bronchial artery is the main feeding artery for lung tumours. Hence, bronchial artery infusion is used as a palliative treatment option for primary and metastatic lung cancers [6]. Additionally, transcatheter therapy for purposes other than tumour management was reported. Transcatheter arterial steroid injection therapy prevented the progression of severe acute hepatic failure to a fatal stage of fulminant liver failure in 13 out of 17 patients [7].",
+            "cite_spans": [
+                {
+                    "start": 470,
+                    "end": 471,
+                    "mention": "6",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 743,
+                    "end": 744,
+                    "mention": "7",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "section": "Key points",
+            "ref_spans": []
+        },
+        {
+            "text": "However, the situation is different for COVID-19 as the exact pathophysiologic mechanism of ground-glass opacities is still unclear, and the possibility of being fed by bronchial arteries is not proven as in case of lung neoplasms. Furthermore, the blood flow into the lung in cases of pneumonia might be reduced as reported before in experimental animals [8]. The other major obstacle is how to prepare the angiographic suite for COVID-19 to control the spread of infection to the intervention radiology staff and other patients. Ierardi et al. [9] reported strict preprocedural, intraprocedural, and postprocedural workflow measures in the setting of an IR unit that is highly exposed to COVID-19. These safe practices may raise the equipment cost, prolong procedural times, and increase technical difficulties.",
+            "cite_spans": [
+                {
+                    "start": 357,
+                    "end": 358,
+                    "mention": "8",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 547,
+                    "end": 548,
+                    "mention": "9",
+                    "ref_id": "BIBREF8"
+                }
+            ],
+            "section": "Key points",
+            "ref_spans": []
+        },
+        {
+            "text": "The search for successful therapies for COVID-19 infection is a challenging process. To the best of our knowledge, no previous reports or registered trial was proposing the transcatheter drug delivery through the bronchial artery to treat COVID-19. Proposed drugs for transcatheter therapy are drugs evaluated by SOLIDARITY and RECOVERY trials in addition to anticoagulant therapy that were associated with a better outcome.",
+            "cite_spans": [],
+            "section": "Key points",
+            "ref_spans": []
+        },
+        {
+            "text": "The concept of this idea has many uncertainties and no current clinical data to support. Perhaps, the technique should be first applied in animal models to determine its safety and calculate the effective dose of the drugs. Guidelines and reviews of pharmacotherapy for COVID-19 should be implemented for this fiction to come true.",
+            "cite_spans": [],
+            "section": "Key points",
+            "ref_spans": []
+        }
+    ],
+    "ref_entries": {},
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF1": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF2": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF3": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF4": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF5": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF6": {
+            "title": "Arterial steroid injection therapy can inhibit the progression of severe acute hepatic failure toward fulminant liver failure",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kotoh",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Enjoji",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Nakamuta",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "World J Gastroenterol",
+            "volume": "12",
+            "issn": "",
+            "pages": "6678-6682",
+            "other_ids": {
+                "DOI": [
+                    "10.3748/wjg.v12.i41.6678"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "title": "Blood flow in pulmonary and bronchial arteries in acute experimental pneumonia and pulmonary embolism",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Bj\u00f6rk",
+                    "suffix": ""
+                },
+                {
+                    "first": "BJ",
+                    "middle": [],
+                    "last": "McNeil",
+                    "suffix": ""
+                }
+            ],
+            "year": 1977,
+            "venue": "Acta Radiol Diagn (Stockh)",
+            "volume": "18",
+            "issn": "",
+            "pages": "393-399",
+            "other_ids": {
+                "DOI": [
+                    "10.1177/028418517701800403"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "title": "How to handle a COVID-19 patient in the angiographic suite",
+            "authors": [
+                {
+                    "first": "AM",
+                    "middle": [],
+                    "last": "Ierardi",
+                    "suffix": ""
+                },
+                {
+                    "first": "BJ",
+                    "middle": [],
+                    "last": "Wood",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Gaudino",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Cardiovasc Intervent Radiol",
+            "volume": "43",
+            "issn": "",
+            "pages": "820-826",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s00270-020-02476-8"
+                ]
+            }
+        }
+    }
+}

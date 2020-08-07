@@ -1,0 +1,2821 @@
+{
+    "paper_id": "PMC7324652",
+    "metadata": {
+        "title": "A Contemporary Review of Neurological Sequelae of COVID-19",
+        "authors": [
+            {
+                "first": "Brian",
+                "middle": [],
+                "last": "Fiani",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Claudia",
+                "middle": [],
+                "last": "Covarrubias",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Aditi",
+                "middle": [],
+                "last": "Desai",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Manraj",
+                "middle": [],
+                "last": "Sekhon",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Ryan",
+                "middle": [],
+                "last": "Jarrah",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [
+        {
+            "text": "The emergence of the coronavirus and its viral agent, severe respiratory syndrome coronavirus 2 (SARS-CoV-2), has derived into one of the most unprecedented and considerable pandemics of the modern era. The third zoonotic coronavirus this century, its pathogenic nature and large scale adverse medical effects has cemented its status as one of history's greatest public health threats. This virus was first isolated in December 2019 after many patients in Wuhan, China, were diagnosed with pneumonia of unknown etiology (1\u20133). Following its global dispersion, the World Health Organization (WHO) declared the coronavirus as a pandemic due to its rapidly transmissible nature, increasing mortality rate, and limited treatment options. Currently, there is an ongoing outbreak as the number of COVID-19 cases exponentially increases with a reported low to moderate mortality rate internationally. As of late May 2020, there are over 5.7 million cases confirmed worldwide dispersed throughout 212 countries and territories, including almost 353,000 deaths (1, 2).",
+            "cite_spans": [
+                {
+                    "start": 521,
+                    "end": 522,
+                    "mention": "1",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 523,
+                    "end": 524,
+                    "mention": "3",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 1053,
+                    "end": 1054,
+                    "mention": "1",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 1056,
+                    "end": 1057,
+                    "mention": "2",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "section": "Epidemiology ::: Introduction",
+            "ref_spans": []
+        },
+        {
+            "text": "Until recently, COVID-19 was investigated as primarily a respiratory illness. However, as the number of cases continue to grow, more reports are starting to show that the virus is capable of not only lung damage, but also neurological damage. In a case series from Wuhan, neurological symptoms were noticed in 36.4% of patients with severe infections (4). This notable proportion of cases presents a question on what neurological symptoms are manifested along with how the virus manages to present them. As of May 1st, 2020, remdesivir has been approved for some emergency treatment usage. However, no other clinically approved vaccine or specific antiviral treatments has provided conclusive relief to COVID-19 and its physiological manifestations. Therefore, understanding the clinical impact of SARS-CoV-2, along with its underlying mechanisms is of great importance to promote the development of effective, preventative, and therapeutic counteragents. Herein, we will characterize the virus, along with its neurological impact, through a thorough a review of the literature to date.",
+            "cite_spans": [
+                {
+                    "start": 352,
+                    "end": 353,
+                    "mention": "4",
+                    "ref_id": "BIBREF33"
+                }
+            ],
+            "section": "Epidemiology ::: Introduction",
+            "ref_spans": []
+        },
+        {
+            "text": "Coronaviruses (CoVs; family Coronaviridae, subfamily Coronavirinae) circulate in a diverse array of mammalian and avian reservoirs. CoVs are classified into four genera and are enveloped, positive-stranded, RNA viruses known to have large genomes susceptible to recombination and mutations that lead to the emergence of novel viruses. They can cause respiratory, enteric, hepatic, and neurological diseases (5\u20137). There are still some inconsistencies related to the origin of SARS-CoV-2, with research evidence suggesting that it could be from similar origins of its viral relatives. Both betacoronaviruses, severe acute respiratory syndrome coronavirus (SARS-CoV) and the Middle East respiratory syndrome coronavirus (MERS-CoV), had originated in bats, and it is likely that SARS-CoV-2 did as well from an unknown intermediate host (3, 5, 6).",
+            "cite_spans": [
+                {
+                    "start": 408,
+                    "end": 409,
+                    "mention": "5",
+                    "ref_id": "BIBREF44"
+                },
+                {
+                    "start": 410,
+                    "end": 411,
+                    "mention": "7",
+                    "ref_id": "BIBREF54"
+                },
+                {
+                    "start": 834,
+                    "end": 835,
+                    "mention": "3",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 837,
+                    "end": 838,
+                    "mention": "5",
+                    "ref_id": "BIBREF44"
+                },
+                {
+                    "start": 840,
+                    "end": 841,
+                    "mention": "6",
+                    "ref_id": "BIBREF53"
+                }
+            ],
+            "section": "Virology ::: Introduction",
+            "ref_spans": []
+        },
+        {
+            "text": "The estimated reproduction number (R0) for SARS-CoV-2 ranges from 2.2 to 5.5 (3, 8, 9), meaning one person can potentially transmit the disease to 5\u20136 people, making it highly transmissible. Additionally, SARS-CoV-2 research has revealed specific physiochemical and thermal sensitivities. Properties of SARS-CoV-2 can be inactivated by UV light or at a temperature of 56\u00b0C for 30 min. Disinfectants such as diethyl ether, 75% ethanol, chlorine, peracetic acid, and chloroform destabilize its functional integrity (8). The virus has the longest viability on stainless steel and plastic surfaces and can be detected up to 72 h after initial contact to these surfaces (8). Genomic studies of the virus have revealed that it mutated to produce two variants, L and S. The L-type was more prevalent during early stages of the outbreak and can replicate faster while being more transmissible. The S-type is considered an older and milder variant (8).",
+            "cite_spans": [
+                {
+                    "start": 78,
+                    "end": 79,
+                    "mention": "3",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 81,
+                    "end": 82,
+                    "mention": "8",
+                    "ref_id": "BIBREF55"
+                },
+                {
+                    "start": 84,
+                    "end": 85,
+                    "mention": "9",
+                    "ref_id": "BIBREF56"
+                },
+                {
+                    "start": 514,
+                    "end": 515,
+                    "mention": "8",
+                    "ref_id": "BIBREF55"
+                },
+                {
+                    "start": 666,
+                    "end": 667,
+                    "mention": "8",
+                    "ref_id": "BIBREF55"
+                },
+                {
+                    "start": 940,
+                    "end": 941,
+                    "mention": "8",
+                    "ref_id": "BIBREF55"
+                }
+            ],
+            "section": "Virology ::: Introduction",
+            "ref_spans": []
+        },
+        {
+            "text": "The first human coronavirus was detected by Tyrrell and Bynoe in the 1960s in human embryonic tracheal organ cultures obtained from the respiratory tract of an adult with a common cold. After performing electron microscopy on the samples of this new group of viruses, the morphology denoted a crown-like appearance of the surface projections and thus was named coronavirus (3, 10). Since then, SARS-CoV-2 is the seventh coronavirus that is known to infect humans. The first pandemic of the 21st century was caused by SARS-CoV followed by MERS-CoV. In 2002, the SARS-CoV emerged in Guangdong Province, China, spreading to 37 countries, and its subsequent global epidemic was associated with 8,096 cases and 774 deaths. A decade later, the MERS-CoV spread to 27 countries, causing 2,494 infected cases and 858 deaths worldwide (Figure 1) (2, 6).",
+            "cite_spans": [
+                {
+                    "start": 374,
+                    "end": 375,
+                    "mention": "3",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 377,
+                    "end": 379,
+                    "mention": "10",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 837,
+                    "end": 838,
+                    "mention": "2",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 840,
+                    "end": 841,
+                    "mention": "6",
+                    "ref_id": "BIBREF53"
+                }
+            ],
+            "section": "Timeline: From History to Today ::: Introduction",
+            "ref_spans": [
+                {
+                    "start": 826,
+                    "end": 834,
+                    "mention": "Figure 1",
+                    "ref_id": "FIGREF0"
+                }
+            ]
+        },
+        {
+            "text": "According to the Centers for Disease Control and Prevention, risk of susceptibility to COVID-19 can be stratified into risk of exposure and risk of severe illness (11). Increased risk of exposure to SARS-CoV-2 has been shown to occur in places with ongoing community spread, such as between healthcare workers, close contacts of persons with COVID-19, and travelers from affected international locations. Of those infected, increased severity of illness can be seen more commonly in people aged 65 years and older, those living in a nursing home or long-term care facility, and in people with underlying medical conditions such as hypertension, chronic lung disease, moderate to severe asthma, cardiac disease, immunocompromised states (i.e., cancer, smoking, HIV or AIDS, steroids), BMI > 40, diabetes, chronic kidney disease, and liver disease (11\u201316). Moreover, The Chinese Center for Disease Control and Prevention similarly reported from one of their largest studies of 72,314 cases that high case-fatality rates came from those with similar comorbidities: cardiovascular disease (10.5%), diabetes (7.3%), chronic respiratory disease (6.3%), hypertension (6%), and cancer (5.6%) (17). In addition, those with cerebrovascular disease alongside coronary artery disease had a higher relative risk of acquiring the pathogen more severely than those without this comorbidity (18). Finally, and most applicable to the area of interest, those with chronic neurological pathologies present an added risk of developing a more severe case of COVID-19 (19). Neurological or neurodevelopment conditions (such as cerebral palsy, epilepsy, stroke, intellectual disabilities, spinal cord injury, or muscular dystrophy), present additional risk factors that increase susceptibility to a severe course of COVID-19 through mechanisms that add physiological stress (19). The current epidemiology demonstrates the impact SARS-CoV-2 can have on the health and well-being of people with underlying health conditions, highlighting its potential effects on multiple organ systems in the body. However, due to this virus being relatively new, not all risk factors have been identified adding limitation to this understanding.",
+            "cite_spans": [
+                {
+                    "start": 164,
+                    "end": 166,
+                    "mention": "11",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 847,
+                    "end": 849,
+                    "mention": "11",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 850,
+                    "end": 852,
+                    "mention": "16",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 1185,
+                    "end": 1187,
+                    "mention": "17",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 1376,
+                    "end": 1378,
+                    "mention": "18",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 1547,
+                    "end": 1549,
+                    "mention": "19",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 1852,
+                    "end": 1854,
+                    "mention": "19",
+                    "ref_id": "BIBREF10"
+                }
+            ],
+            "section": "Susceptibility",
+            "ref_spans": []
+        },
+        {
+            "text": "With much being said about SARS CoV-2's hallmark impact on respiratory function, gradual advances in research have found properties of neuroinvasive potential, particularly in the invasion of the central nervous system (CNS). It is widely understood that the mode of transmission of COVID-19 is through direct contact or respiratory droplets from an infected individual. However, indirect contact through fomites can also act as a vehicle of transmission. Fomites are inanimate surfaces that contain the virus (through direct contact), and based on the viability of the virus on to an inanimate surface, it can lead to the rampant spread onto another host. As soon as the virus enters the body, its effects are highly dependent on its viral structure. The viral structure of COVID-19 is contained within the nucleocapsid which is surrounded by a nuclear envelope. The nuclear envelope is derived from the host cell's membrane and embedded within that membrane are glycoprotein spikes, known as S-proteins (20). It is these S-protein spikes that allow the cell to attach to a new cell and infect it (20). To carry through its function, S-proteins contain an S1/S2 activation cleavage site that is activated by the serine endoprotease, furin (21). Furin is a key protein that can cause normal and abnormal physiological conditions. It is important neurologically because it is responsible for activating neural growth factors that are key to homeostasis (22). However, in the case of SARS-CoV-2, furin plays the role of a viral activator. This activation occurs through furin's enzymatic activity, which allows for the irreversible cleavage of precursor proteins to enter their biologically active state (21). With regards to SARS-CoV-2, furin autocleavage helps the S-protein's subunits to separate, and allow for the virus to break open and enter host cells (21). This is done after the S-proteins have interacted with the cell surface receptor, angiotensin-converting enzyme 2, or ACE2 (21). The ACE2 receptor is present along multiple cell organs such as the heart, kidney, lunges, while also being found in both the central and peripheral nervous system. This makes it a valuable target in understanding the neural-potential of the SARS-CoV-2 antigen.",
+            "cite_spans": [
+                {
+                    "start": 1006,
+                    "end": 1008,
+                    "mention": "20",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 1099,
+                    "end": 1101,
+                    "mention": "20",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 1241,
+                    "end": 1243,
+                    "mention": "21",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 1453,
+                    "end": 1455,
+                    "mention": "22",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 1703,
+                    "end": 1705,
+                    "mention": "21",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 1859,
+                    "end": 1861,
+                    "mention": "21",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 1988,
+                    "end": 1990,
+                    "mention": "21",
+                    "ref_id": "BIBREF13"
+                }
+            ],
+            "section": "Central Nervous System ::: Neurological Impact",
+            "ref_spans": []
+        },
+        {
+            "text": "The pathophysiology of neural infections in the CNS from COVID-19 is a phenomenon that is still being characterized. Previous studies have shown that SARS-CoV-2 may reach ACE2 receptors on neuronal tissue through mode of the general circulation. Viremia causes the virus to pass into the cerebral circulation and reach the brain to induce neurotropic effects. The virus may also reach the brain through routes of the nasal cavity, specifically as the virus passes through the cribriform plate. Upon entry into the neural cavity, the virus will encounter ACE2 receptors located on the endothelial lining between the blood capillaries and the brain (23). The virus may also encounter the expression of ACE2 receptors over glial cells and neurons, allowing for multiple sites of invasion. The interaction of the glycoproteins of SARS-CoV-2 to the ACE2 receptor can cause subsequent cycles of viral budding, allowing for neuronal damage to manifest in neural tissues and the blood-brain-barrier (BBB) (23). The breaking of the BBB may allow for cerebral edema, subsequently compressing the brainstem and compromising involuntary respiratory activity (24). This cerebral edema may also be caused by apoptosis of brain cells following elevated intracranial pressure and therefore remains a theoretical concern of the virus. Evidently, patients exhibiting acute SARS-CoV illnesses have presented the virus in cerebrospinal fluid analyses (23). The cerebrospinal fluid (CSF) is a bodily fluid that surrounds the brain and serves an array of functions ranging from acting as a shock absorber from neurological trauma to circulating nutrients around the CNS. Its role in homeostasis and neurological metabolism has made it a great reporter of the neurological environment; therefore, it can be clinically used to detect infectious agents and diseases (25). Furthermore, viral implications on the immune system could induce indirect effects on the CNS. The breakage in the blood-brain barrier could leave an immune response of cytokines (particularly IL-6) becoming overly abundant along infected tissue of the brain (26). This leads to a hypercoagulable state in what is known as a \u201ccytokine storm.\u201d Depending on the severity of the case, this could leave COVID-19 patients at risk of developing acute necrotizing encephalopathy (ANE) and hemorrhages (27). Most recently, a third theory discusses how neural injury is manifested from COVID-19 as a result of a cascade effect following respiratory stress. A loss of oxygen due to lung damage can subsequently result in multisystem organ failure leading to a cascade effect that results in neural injury (28). Ultimately, what these three theories provide are multiple mechanisms through which neural manifestations of COVID-19 can result. These theories also highlight the limitations in addressing neurological manifestations in COVID-19, as research remains ongoing.",
+            "cite_spans": [
+                {
+                    "start": 648,
+                    "end": 650,
+                    "mention": "23",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 998,
+                    "end": 1000,
+                    "mention": "23",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 1147,
+                    "end": 1149,
+                    "mention": "24",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 1432,
+                    "end": 1434,
+                    "mention": "23",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 1842,
+                    "end": 1844,
+                    "mention": "25",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 2107,
+                    "end": 2109,
+                    "mention": "26",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 2342,
+                    "end": 2344,
+                    "mention": "27",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 2643,
+                    "end": 2645,
+                    "mention": "28",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "section": "Central Nervous System ::: Neurological Impact",
+            "ref_spans": []
+        },
+        {
+            "text": "A recent case of a female patient in Detroit, Michigan showed the possible long-term impact of neurological manifestations of COVID-19 (27) while also presenting some histological significance. This patient was jointly diagnosed with COVID-19 and ANE due to possible subsequent neural injury. CT scans of her brain revealed symmetrical tissue damage of the thalamus while her MRI also showed damage to the thalamus along with the cerebral cortex and the brain tissue beneath its gyri (folds within the cerebral cortex) (27). Histological significance is evident in her CT image as hypodense areas are present, indicating tissue damage had occurred. This decrease in density is a result of cerebral edema, when excess fluid floods brain tissue after neural injury, a possible consequence of severe CNS manifestations of COVID-19 (27). As previously stated, the cause of this cerebral edema is possibly through a \u201ccytokine storm,\u201d apoptosis of brain cells, or even from breakage in the BBB. In addition, other severe cases aside from ANE and hemorrhage are prevalent, as the first case of meningitis has been associated with COVID-19 (29). A male patient was found to have this condition after his MRI showed hypersensitivity along the right lateral ventricle, as well as hyperintesnse signal changes in the right mesial temporal lobe and hippocampus (29). He was confirmed to have COVID-19 after SARS-CoV-2 was found in his CSF, however, there was no evidence of cerebral edema like the previous case mentioned (29). Thus, the variability in histological evidence could link theories of pathophysiology regarding COVID-19's impact on the CNS.",
+            "cite_spans": [
+                {
+                    "start": 136,
+                    "end": 138,
+                    "mention": "27",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 520,
+                    "end": 522,
+                    "mention": "27",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 829,
+                    "end": 831,
+                    "mention": "27",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 1133,
+                    "end": 1135,
+                    "mention": "29",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 1350,
+                    "end": 1352,
+                    "mention": "29",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 1511,
+                    "end": 1513,
+                    "mention": "29",
+                    "ref_id": "BIBREF21"
+                }
+            ],
+            "section": "Central Nervous System ::: Neurological Impact",
+            "ref_spans": []
+        },
+        {
+            "text": "While the more severe symptomatic manifestations of the CNS may include ANE, meningitis, and hemorrhage, the more commonly reported CNS symptoms are vertigo, cephalgia, impaired consciousness, seizures, ataxia, and acute cerebrovascular disease (30) (Table 1). In a study published to JAMA Neurology, patients with CNS manifestations most commonly exhibited headache and dizziness (30) as the major symptoms. These manifestations have been reviewed and confirmed by trained neurologists, with most neurological symptoms occurring during the early stages of the illness (30). Laboratory findings of these patients reported lower lymphocyte and platelet counts and higher blood urea nitrogen levels. However, in more mild cases, no significance was found between patients with or without CNS manifestations of COVID-19 (4). Therefore, it was concluded that patients with severe cases were more susceptible to neurological symptoms. Moreover, the more severe cases had higher fibrin degradation product levels (D-dimer), linking these cases to a higher likelihood of cerebrovascular disease (4). Furthermore, recent findings have reported that a portion of patients are developing symptoms of stroke. Specifically, reports coming out of New York health systems have reported that large vessel strokes can be manifested, even in individuals under the age of 50 (31). A large vessel stroke is an interruption of blood flow in one of the larger arteries in the brain. The suspected cause of these strokes are investigated as an immunohematological issue in allowing for blood clotting throughout a patient's body (31).",
+            "cite_spans": [
+                {
+                    "start": 246,
+                    "end": 248,
+                    "mention": "30",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 382,
+                    "end": 384,
+                    "mention": "30",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 570,
+                    "end": 572,
+                    "mention": "30",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 818,
+                    "end": 819,
+                    "mention": "4",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 1089,
+                    "end": 1090,
+                    "mention": "4",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 1358,
+                    "end": 1360,
+                    "mention": "31",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 1608,
+                    "end": 1610,
+                    "mention": "31",
+                    "ref_id": "BIBREF24"
+                }
+            ],
+            "section": "Central Nervous System ::: Neurological Impact",
+            "ref_spans": [
+                {
+                    "start": 251,
+                    "end": 258,
+                    "mention": "Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ]
+        },
+        {
+            "text": "Treatment of COVID-19 and its CNS manifestations are still ongoing. However, if the coronavirus is breaching the blood-brain barrier, this could complicate the recovery process (32). The role of the BBB is to serve as the gatekeeper in cerebral passage, therefore medication delivery to the BBB would be difficult because medications are considered as antigens to it, thereby preventing their therapeutic effects (32). Since differences in genetic makeup can increase susceptibility to viral invasion of the BBB, technologies such as CRISPER/CAS9 presents a possible way to target these adverse genetic differences. By targeting specific sequences to engineer candidate risk genes in the BBB, one can assess if BBB permeability is strengthened (33). With regards to the symptomatic prevalence of the disease, hydroxychloroquine has been notably investigated as a possible therapeutic avenue. However, in certain patients, this antimalarial drug may induce adverse neuropsychiatric effects, such as worsening of CNS symptoms like headaches, vertigo, and increased anxiety (30). This makes hydroxychloroquine a less viable treatment for symptoms pertaining to the CNS, and alternative therapies should be considered for patients suffering from these symptoms or from chronic mental instability (22). Furthermore, the NHS recommends paracetamol for CNS-like symptoms such as fevers and headaches due to its reported symptom relief and low likelihood of complications. However, ibuprofen and other NSAIDs are still being evaluated after being ruled out as a therapeutic option (34). They were initially ruled out due to reports that anti-inflammatory drugs may exacerbate COVID-19 symptoms, due to possibly causing a dampened immune response to viral attack (35). These reports have since been rejected by the World Health Organization due to a lack of evidence suggesting that anti-inflammatory treatments are a direct threat to a patient's immunity (34). However, this does not present NSAIDs as a potential therapy, especially when symptoms become more complicated. With regards to blocking viral activity and ultimately CNS manifestations, furin inhibitors have also been investigated as a possible treatment by preventing the activation of the S-proteins on the viral surface (30). However, with furin's important role in normal physiology, researchers are evaluating whether a molecule could be secreted to separate its activity from the virus. Unfortunately, there are still considerable limitations in finding a viable treatment for COVID-19's CNS manifestations, as clinical trials will continue until a vaccine becomes readily available.",
+            "cite_spans": [
+                {
+                    "start": 178,
+                    "end": 180,
+                    "mention": "32",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 414,
+                    "end": 416,
+                    "mention": "32",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 745,
+                    "end": 747,
+                    "mention": "33",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 1072,
+                    "end": 1074,
+                    "mention": "30",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 1293,
+                    "end": 1295,
+                    "mention": "22",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 1574,
+                    "end": 1576,
+                    "mention": "34",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 1755,
+                    "end": 1757,
+                    "mention": "35",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 1948,
+                    "end": 1950,
+                    "mention": "34",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 2278,
+                    "end": 2280,
+                    "mention": "30",
+                    "ref_id": "BIBREF23"
+                }
+            ],
+            "section": "Central Nervous System ::: Neurological Impact",
+            "ref_spans": []
+        },
+        {
+            "text": "COVID-19, like its pathogenic relatives, could also specifically compromise the activity of the peripheral nervous system. Just like the CNS, PNS manifestations arise following direct contact through respiratory droplets or indirect contact through fomites. However, as an individual starts to touch mucosal membranes, such as their eyes, nose, or mouth, it presents a portal of entry for the virus to disrupt neurological sensations that pertain to these sites. Moreover, just like the CNS manifestations, furin's endoproteolytic activity is maintained in order to activate the virus following its interactions with ACE2 receptors. These consistencies are not just present within the nervous system but along all physiological systems that get affected through COVID-19. However, COVID-19, has a peripheral neural involvement that occurs when ACE2 receptors are interacting with the viral agent. These ACE2 receptors have been found along the tongue, mouth, and nasal passage showing the possibility of the virus targeting multiple neurons and influencing those senses tremendously (36).",
+            "cite_spans": [
+                {
+                    "start": 1084,
+                    "end": 1086,
+                    "mention": "36",
+                    "ref_id": "BIBREF29"
+                }
+            ],
+            "section": "Peripheral Nervous System Involvement ::: Neurological Impact",
+            "ref_spans": []
+        },
+        {
+            "text": "It was recently discovered that two cell types in the nose are the most likely initial infection points for viral entry into the PNS. These two cell types are called goblet cells and ciliated cells (37). Goblet cells are epithelial cells that can produce mucus on the surface of the mucosal membrane, thereby lubricating the epithelium and protecting it against foreign invaders (38). They are found in several physiological systems, including the respiratory system, consequently leading to their involvement in the pathophysiologies of several respiratory diseases such as COVID-19 (38). On the other hand, ciliated cells are another cell type that is known for having tiny hair-like projections anchored along the lining of the epithelial respiratory tract. Ciliated cells aid in mucus transport and stopping foreign bacteria from reaching the lunges (39). These two cell types are related in the sense that they both contain high concentrations of the ACE2 receptor that allows SARS-CoV-2 to enter host cells (38). In addition, they contain high concentrations of another protease called TMPRSS2 (38). TMPRSS2 is a cell surface protease that can have cumulative effects with furin to promote SARS-CoV-2 activation and entry (40). To understand what types of cells are infected following initial viral entry, it is important to understand that the sense of smell and taste are closely associated with one another. Both rely on the same type of sensory cells, called chemoreceptors, which are activated when they meet certain types of chemical stimuli. SARS-CoV-2 could disrupt these chemoreceptors by reaching the olfactory mucosa (which contains epithelium cells, blood vessels, and axons from olfactory neurons) and initiate an inflammatory response (24). This area is joined with the olfactory bulb by the cribriform plate, which allows for the transmission of olfaction senses at the base of the frontal lobe (41). Here, neurons can be infected while endangering deeper cerebral tissue (24). This highlights the linkage between the CNS and PNS during the viral invasion through the nasal cavity (Figure 2). Moreover, should defects in respiration be considerable, then PNS chemoreceptic dysfunction may be presented due to the proximity of sensory neurons in the olfactory bulb to deeper brain tissue (42).",
+            "cite_spans": [
+                {
+                    "start": 199,
+                    "end": 201,
+                    "mention": "37",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 380,
+                    "end": 382,
+                    "mention": "38",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 585,
+                    "end": 587,
+                    "mention": "38",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 855,
+                    "end": 857,
+                    "mention": "39",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 1014,
+                    "end": 1016,
+                    "mention": "38",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 1101,
+                    "end": 1103,
+                    "mention": "38",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 1229,
+                    "end": 1231,
+                    "mention": "40",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 1756,
+                    "end": 1758,
+                    "mention": "24",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 1917,
+                    "end": 1919,
+                    "mention": "41",
+                    "ref_id": "BIBREF35"
+                },
+                {
+                    "start": 1994,
+                    "end": 1996,
+                    "mention": "24",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 2309,
+                    "end": 2311,
+                    "mention": "42",
+                    "ref_id": "BIBREF36"
+                }
+            ],
+            "section": "Peripheral Nervous System Involvement ::: Neurological Impact",
+            "ref_spans": [
+                {
+                    "start": 2103,
+                    "end": 2111,
+                    "mention": "Figure 2",
+                    "ref_id": "FIGREF1"
+                }
+            ]
+        },
+        {
+            "text": "Histological significance pertaining to the PNS involvement was found following analysis of infected olfactory tissue. Professor Carl Philpott, director of medical affairs and research at Fifth Sense, states that while looking at the olfactory tissue microscopically, one will notice the fine hair-like endings of the receptor cells had fallen, thus disabling the cells from receiving olfactory senses from the nose (43). This is a byproduct of the virus interacting with the chemoreceptors in the mucosal membrane and compromising neural sensations. Further histological evidence on peripheral tissue and other mucosal membranes have not been actively reported, thus highlighting limitations to understanding peripheral involvement following viral activity.",
+            "cite_spans": [
+                {
+                    "start": 417,
+                    "end": 419,
+                    "mention": "43",
+                    "ref_id": "BIBREF37"
+                }
+            ],
+            "section": "Peripheral Nervous System Involvement ::: Neurological Impact",
+            "ref_spans": []
+        },
+        {
+            "text": "According to the American Academy of Otolaryngology\u2014Head and Neck Surgery, otolaryngologists in the U.K have reported that more than two-thirds of confirmed COVID-19 cases in Germany had anosmia (loss of smell) (44). While in South Korea, 30% of patients testing positive have had anosmia as their primary symptom in otherwise mild cases (44). Similar reports have been found globally, as anosmia and ageusia are highly reported as primary symptoms of COVID-19. In another study, patients with confirmed cases of COVID-19 were recruited from 12 European hospitals to investigate olfactory and gaustory dysfunctions (45). Out of the 417 patients studied, between 85.6 and 88% of patients reported these dysfunctions, with significantly more cases in females (45). 44% of the participants also reported their symptoms early in their pathology (45). Physicians state that it's not surprising that the olfactory system might be heavily influenced, given that loss of smell and changes in taste are a rather common complaint of people who get influenza as well (46). Other symptoms may include hyposmia, neuralgia, and skeletal muscular symptoms, however, these symptoms are not considered primary peripheral manifestations due to a lack of supporting evidence. Additionally, a single case suggests a possible association between Guillain-Barr\u00e9 Syndrome (GBS) and SARS-CoV-2 infection (47, 48). A female patient who returned from Wuhan, China, underwent neurologic examination and was diagnosed with GBS while also testing positive for SARS-CoV-2 (48). This was followed with five more cases also displaying COVID-19 with GBS complications (49). GBS is a rare autoimmune disorder that attacks nerves in the PNS and can lead to paresthesia, areflexia, ataxia, and muscle and facial weakness, or paralysis (49). Despite being a unique condition, viral infections can be triggers of GBS, especially when these infections reach a severe state. Primary symptoms of GBS, such as tingling, leg weakness, and facial weakness, were noticed in COVID-19 patients around 5\u201310 days after the initial common COVID symptoms (49). After a few days, more adverse symptoms such as quadraparesis and paralysis were recognized (49). Moreover, a variant of GBS, known as Miller Fisher Syndrome, has also been reported in two cases of COVID-19 from Madrid, Spain (50). Miller-Fisher Syndrome is characterized by areflexia and paralysis of the eyes and may also be proceeded by a viral agent's neurological activity (51). While still being a rare condition, the association between COVID-19, GBS, and Miller-Fisher Syndrome warrants further epidemiological data to support a causal relationship between them (47).",
+            "cite_spans": [
+                {
+                    "start": 212,
+                    "end": 214,
+                    "mention": "44",
+                    "ref_id": "BIBREF38"
+                },
+                {
+                    "start": 339,
+                    "end": 341,
+                    "mention": "44",
+                    "ref_id": "BIBREF38"
+                },
+                {
+                    "start": 616,
+                    "end": 618,
+                    "mention": "45",
+                    "ref_id": "BIBREF39"
+                },
+                {
+                    "start": 758,
+                    "end": 760,
+                    "mention": "45",
+                    "ref_id": "BIBREF39"
+                },
+                {
+                    "start": 842,
+                    "end": 844,
+                    "mention": "45",
+                    "ref_id": "BIBREF39"
+                },
+                {
+                    "start": 1057,
+                    "end": 1059,
+                    "mention": "46",
+                    "ref_id": "BIBREF40"
+                },
+                {
+                    "start": 1381,
+                    "end": 1383,
+                    "mention": "47",
+                    "ref_id": "BIBREF41"
+                },
+                {
+                    "start": 1385,
+                    "end": 1387,
+                    "mention": "48",
+                    "ref_id": "BIBREF42"
+                },
+                {
+                    "start": 1543,
+                    "end": 1545,
+                    "mention": "48",
+                    "ref_id": "BIBREF42"
+                },
+                {
+                    "start": 1636,
+                    "end": 1638,
+                    "mention": "49",
+                    "ref_id": "BIBREF43"
+                },
+                {
+                    "start": 1800,
+                    "end": 1802,
+                    "mention": "49",
+                    "ref_id": "BIBREF43"
+                },
+                {
+                    "start": 2105,
+                    "end": 2107,
+                    "mention": "49",
+                    "ref_id": "BIBREF43"
+                },
+                {
+                    "start": 2203,
+                    "end": 2205,
+                    "mention": "49",
+                    "ref_id": "BIBREF43"
+                },
+                {
+                    "start": 2337,
+                    "end": 2339,
+                    "mention": "50",
+                    "ref_id": "BIBREF45"
+                },
+                {
+                    "start": 2489,
+                    "end": 2491,
+                    "mention": "51",
+                    "ref_id": "BIBREF46"
+                },
+                {
+                    "start": 2681,
+                    "end": 2683,
+                    "mention": "47",
+                    "ref_id": "BIBREF41"
+                }
+            ],
+            "section": "Peripheral Nervous System Involvement ::: Neurological Impact",
+            "ref_spans": []
+        },
+        {
+            "text": "As far as treatment, research is ongoing with clinical trials still being administered to determine the most viable form of care. Once the virus has started impacting neuronal activity, it becomes very difficult to treat, meaning the best mode of treatment is by preventing or reducing the viral entry. However, The Center of Disease Control recently stated: \"There are no drugs or other therapeutics approved by the US Food and Drug Administration to prevent or treat COVID-19\u201d (52). This adds further limitations to addressing PNS neural manifestations of COVID-19. The British Rhinological Society has advised against the use of oral steroids in the treatment of anosmia in COVID-19 patients (53). This precaution comes with the concern that corticosteroid use may increase severity of the pathogen. However, due to the concentrated presence of the coronavirus in the nasal tissues, a nasal spray has been suspected as the best mode in medication delivery (54). Recent reports from Utah have started addressing the efficacy of chlorpheniramine maleate (CPM) combined into a nasal spray to study cultures with SARS-CoV-2 (54). CPM is an antihistamine with previous studies suggesting that it acts well in the antiviral treatment against strains of influenza (54). The initial trials have showed relative success with reduced amounts of the virus being reported in vivo following CPM administration (54). However, this requires further testing in order to accurately and effectively treat COVID patients. With more severe patients who may have acquired GBS with COVID-19, intravenous immunoglobulin therapy (IVIG) have been known as the most common treatment for these patients (49). IVIG treatment allows for the administration of healthy antibodies and has been suggested to be taken with antivirals to further combat the COVID like symptoms (49). Plasmapheresis with antiviral treatment has also been suggested as another treatment option to enhance the autoimmune system while reducing viral activity (49). With regards to the two cases with Miller-Fisher Syndrome, the first was treated with IVIG while the second with acetaminophen. After two weeks, it was seen that both patients made a complete neurological recovery, except for primary symptoms of anosmia and ageusia from their COVID-19 diagnosis (50). However, these reports have yet to be confirmed as a definite viable treatment and may not directly lead to every patient's recovery.",
+            "cite_spans": [
+                {
+                    "start": 480,
+                    "end": 482,
+                    "mention": "52",
+                    "ref_id": "BIBREF47"
+                },
+                {
+                    "start": 696,
+                    "end": 698,
+                    "mention": "53",
+                    "ref_id": "BIBREF48"
+                },
+                {
+                    "start": 960,
+                    "end": 962,
+                    "mention": "54",
+                    "ref_id": "BIBREF49"
+                },
+                {
+                    "start": 1124,
+                    "end": 1126,
+                    "mention": "54",
+                    "ref_id": "BIBREF49"
+                },
+                {
+                    "start": 1261,
+                    "end": 1263,
+                    "mention": "54",
+                    "ref_id": "BIBREF49"
+                },
+                {
+                    "start": 1401,
+                    "end": 1403,
+                    "mention": "54",
+                    "ref_id": "BIBREF49"
+                },
+                {
+                    "start": 1680,
+                    "end": 1682,
+                    "mention": "49",
+                    "ref_id": "BIBREF43"
+                },
+                {
+                    "start": 1846,
+                    "end": 1848,
+                    "mention": "49",
+                    "ref_id": "BIBREF43"
+                },
+                {
+                    "start": 2007,
+                    "end": 2009,
+                    "mention": "49",
+                    "ref_id": "BIBREF43"
+                },
+                {
+                    "start": 2309,
+                    "end": 2311,
+                    "mention": "50",
+                    "ref_id": "BIBREF45"
+                }
+            ],
+            "section": "Peripheral Nervous System Involvement ::: Neurological Impact",
+            "ref_spans": []
+        },
+        {
+            "text": "To better combat PNS manifestations today, ENT UK released an info-sheet encouraging those who experience sudden loss of smell or taste during the COVID-19 pandemic to assume they have the virus until tests prove negative. The management plan included: self-isolation, avoiding visits to medical professionals or hospitals unless symptoms require proper treatment, and try smell training to improve senses. Furthermore, The AAO-HNS created a web-based reporting tool for any health-care professionals to file reports of patients experiencing anosmia and ageusia related to COVID-19. Until a viable treatment is released to the public, these guidelines will help those with chemosensory dysfunction to be informed and aware of what conditions to follow.",
+            "cite_spans": [],
+            "section": "Peripheral Nervous System Involvement ::: Neurological Impact",
+            "ref_spans": []
+        },
+        {
+            "text": "Following the emergence of more literature findings about the neurological manifestations of COVID-19, an increasing number of studies are now urging clinicians to screen for neurological presentations of this disease (1, 4, 23, 55, 56). As previously mentioned, the symptoms present a neurological pathology, while those with more severe cases have been susceptible to neurological complications. Thus, these studies are urging clinicians to comprehensively assess the neurological symptoms in patients coming into acute healthcare settings, to effectively triage patients, delay diagnosis and misdiagnosis, and prevent transmission of the virus. Although preliminary, studies suggest that surveillance of the neurological manifestations of COVID-19 may have guiding significance for the prevention and treatment of COVID-19 induced respiratory failure and death (4, 55).",
+            "cite_spans": [
+                {
+                    "start": 219,
+                    "end": 220,
+                    "mention": "1",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 222,
+                    "end": 223,
+                    "mention": "4",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 225,
+                    "end": 227,
+                    "mention": "23",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 229,
+                    "end": 231,
+                    "mention": "55",
+                    "ref_id": "BIBREF50"
+                },
+                {
+                    "start": 233,
+                    "end": 235,
+                    "mention": "56",
+                    "ref_id": "BIBREF51"
+                },
+                {
+                    "start": 865,
+                    "end": 866,
+                    "mention": "4",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 868,
+                    "end": 870,
+                    "mention": "55",
+                    "ref_id": "BIBREF50"
+                }
+            ],
+            "section": "Avoidance of Detrimental Neurological Sequelae and Multidisciplinary Approach",
+            "ref_spans": []
+        },
+        {
+            "text": "Knowledge and clinical guidelines surrounding treatment of COVID-19 is rapidly evolving as more information becomes available. At this time, knowledge surrounding the prevention and treatment of neurological complications of COVID-19 is limited. One study published several clinical guidelines for neurologists treating patients with suspected or confirmed cases of COVID-19(57). These guidelines were pertaining to the management of acute cerebrovascular disease, intracranial infection, and muscle damage as a result of SARS-CoV-2.",
+            "cite_spans": [
+                {
+                    "start": 375,
+                    "end": 377,
+                    "mention": "57",
+                    "ref_id": "BIBREF52"
+                }
+            ],
+            "section": "Avoidance of Detrimental Neurological Sequelae and Multidisciplinary Approach",
+            "ref_spans": []
+        },
+        {
+            "text": "In the context of SARS-CoV-2, neurologists may encounter two phenotypes of patients with acute cerebrovascular diseases\u2014acute ischemic stroke patients, and hypertensive patients with increased risk of intracranial hemorrhage. The authors recommend that emergency treatment be jointly offered by neurologists and infectious disease specialists when admitting an acute ischemic stroke patient with suspected or confirmed SARS-CoV-2 diagnosis, and preventive anticoagulation is recommended for ischemic stroke patients with high D-dimer levels (57). Hypertensive patients with SARS-CoV-2 may be particularly challenging to treat, as they may encounter blood pressure fluctuations (since SARS-CoV-2 specifically binds to ACE2 receptors), which may increase their risk of intracranial hemorrhage. Additionally, patients with severe infection may have severe thrombocytopenia, which is another risk factor for cerebral hemorrhage. Per the guidelines, clinicians treating hypertensive patients with SARS-CoV-2 should consider calcium channel blockers, diuretics and other classes of antihypertensive drugs instead of ACE inhibitors or angiotensin II receptor blockers (ARBs) (57).",
+            "cite_spans": [
+                {
+                    "start": 542,
+                    "end": 544,
+                    "mention": "57",
+                    "ref_id": "BIBREF52"
+                },
+                {
+                    "start": 1169,
+                    "end": 1171,
+                    "mention": "57",
+                    "ref_id": "BIBREF52"
+                }
+            ],
+            "section": "Avoidance of Detrimental Neurological Sequelae and Multidisciplinary Approach",
+            "ref_spans": []
+        },
+        {
+            "text": "Further surveillance of intracranial infection for COVID-19 patients would provide further insight in a neurological prognosis. MRI scans (with and without contrast) of the cranium along with lumbar puncture procedures to collect cerebrospinal fluid would highlight such a neuroinvasive association to the pathogen (57). For patients with definitive intracranial infection, suggested treatment strategies are controlling for cerebral edema, treating and preventing seizures, and treating psychotic symptoms (57). Lastly, for patients experiencing symptoms associated with muscle damage, strengthening nutritional support is recommended on top of active treatment for the virus (57).",
+            "cite_spans": [
+                {
+                    "start": 316,
+                    "end": 318,
+                    "mention": "57",
+                    "ref_id": "BIBREF52"
+                },
+                {
+                    "start": 508,
+                    "end": 510,
+                    "mention": "57",
+                    "ref_id": "BIBREF52"
+                },
+                {
+                    "start": 678,
+                    "end": 680,
+                    "mention": "57",
+                    "ref_id": "BIBREF52"
+                }
+            ],
+            "section": "Avoidance of Detrimental Neurological Sequelae and Multidisciplinary Approach",
+            "ref_spans": []
+        },
+        {
+            "text": "In summary, the SARS-CoV-2 pandemic remains one of the greatest threats to public health to date. Although the virus is known to directly invade the lungs, emerging research shows central and peripheral nervous system involvement in the pathology of the disease and clinical worsening in patients. Patients with nervous system involvement as the presenting symptoms in the early stages of infection may be misdiagnosed, and may inadvertently spread the virus. Furthermore, studies suggest that the time it takes for SARS-CoV-2 to advance from initial symptoms, such as coughing, tiredness, and fever, to difficulty breathing, is roughly five days, which is long enough for the virus to enter and damage medullary neurons involved in respiratory control (4, 55). Thus, healthcare providers and neurologists should work closely to monitor the neurological manifestations of the disease and carry a high index of suspicion when evaluating patients in an endemic area. In some cases, tele-neurology as a substitute for face to face interactions with patients to monitor their clinical status may be useful.",
+            "cite_spans": [
+                {
+                    "start": 754,
+                    "end": 755,
+                    "mention": "4",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 757,
+                    "end": 759,
+                    "mention": "55",
+                    "ref_id": "BIBREF50"
+                }
+            ],
+            "section": "Conclusion",
+            "ref_spans": []
+        },
+        {
+            "text": "Going forward, to elucidate the involvement of the nervous system in the progression of this disease, postmortem examinations of the brain may be a valuable facet in understanding the neurological mechanisms the virus manifests. Currently, few, if any, autopsies are being performed due to the fear of contracting the disease. Furthermore, a more comprehensive neurological follow-up of patients who recovered from the disease may be warranted to screen for long-lasting neurological impacts of the illness and save lives.",
+            "cite_spans": [],
+            "section": "Conclusion",
+            "ref_spans": []
+        },
+        {
+            "text": "BF was the primary author contributing to the outline/direction of the paper, literature review, and writing, editing, and overseeing of the paper as a whole including submission process. RJ played a major role in writing and editing the paper. MS, AD, and CC focused their efforts on writing. All authors contributed to the article and approved the submitted version.",
+            "cite_spans": [],
+            "section": "Author Contributions",
+            "ref_spans": []
+        },
+        {
+            "text": "The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.",
+            "cite_spans": [],
+            "section": "Conflict of Interest",
+            "ref_spans": []
+        }
+    ],
+    "ref_entries": {
+        "TABREF0": {
+            "text": "Table 1: Overview of COVID-19's impact on the central and peripheral nervous system, as known to date.\nLimitations are prevalent as a neurological understanding is yet to be fully confirmed.",
+            "type": "table"
+        },
+        "FIGREF0": {
+            "text": "Figure 1: Timeline of the SARS-CoV-2 outbreak. Significant epidemiological events and scientific advances during this time period are highlighted and adapted from the WHO and recently published data (1\u20133, 10). The superscript number adjacent to the text indicate the calendar date of each event described.",
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Figure 2: The pathway of the virus in the central and peripheral nervous system which are connected when the virus reaches the olfactory bulb.",
+            "type": "figure"
+        }
+    },
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Clinical Characteristics of Coronavirus Disease 2019 in China",
+            "authors": [
+                {
+                    "first": "W-J",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z-Y",
+                    "middle": [],
+                    "last": "Ni",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "W-H",
+                    "middle": [],
+                    "last": "Liang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C-Q",
+                    "middle": [],
+                    "last": "Ou",
+                    "suffix": ""
+                },
+                {
+                    "first": "J-X",
+                    "middle": [],
+                    "last": "He",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med.",
+            "volume": "382",
+            "issn": "",
+            "pages": "1708-20",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2020.02.06.20020974"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "title": "History and recent advances in coronavirus discovery",
+            "authors": [
+                {
+                    "first": "JS",
+                    "middle": [],
+                    "last": "Kahn",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "McIntosh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Pediatr Infect Dis J.",
+            "volume": "24",
+            "issn": "11 Suppl",
+            "pages": "S223-7",
+            "other_ids": {
+                "DOI": [
+                    "10.1097/01.inf.0000188166.17324.60"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "Coronavirus disease 2019 (COVID-19): Situation Summary Atlanta, GA: US Department of Health and Human Services, CDC",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF3": {
+            "title": "Coronavirus disease 2019 (COVID-19): cases in U.S",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF4": {
+            "title": "",
+            "authors": [],
+            "year": 2020,
+            "venue": "Coronavirus disease 2019 (COVID-19): At Risk for Severe Illness Atlanta, GA: US Department of Health and Human Services, CDC",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF5": {
+            "title": "Severe outcomes among patients with coronavirus disease 2019 (COVID-19) \u2014 United States, February 12\u2013March 16, 2020",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Bialek",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Boundy",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Bowen",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Chow",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Cohn",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Dowling",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "MMWR Morbid Mort Weekly Rep.",
+            "volume": "69",
+            "issn": "",
+            "pages": "343-6",
+            "other_ids": {
+                "DOI": [
+                    "10.15585/mmwr.mm6912e2"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "title": "Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Du",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Fan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet.",
+            "volume": "395",
+            "issn": "",
+            "pages": "1054-62",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(20)30566-3"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "title": "Host susceptibility to severe COVID-19 and establishment of a host risk score: findings of 487 cases outside Wuhan",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Sheng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Critical Care.",
+            "volume": "24",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s13054-020-2833-7"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "title": "Characteristics of and important lessons from the coronavirus disease 2019 (COVID-19) outbreak in China",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "McGoogan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Jama.",
+            "volume": "323",
+            "issn": "",
+            "pages": "1239-42",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.2020.2648"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "Prevalence and impact of cardiovascular metabolic diseases on COVID-19 in China",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhi",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Clin Res Cardiol.",
+            "volume": "109",
+            "issn": "",
+            "pages": "531-8",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s00392-020-01626-9"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "If You Are at Higher Risk",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF11": {
+            "title": "",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF12": {
+            "title": "How Furin and ACE2 Interact with the Spike on SARS-CoV-2 Assay Genie",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Dougherty",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF13": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sandoiu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Why does SARS-CoV-2 Spread So Easily?",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF14": {
+            "title": "Proprotein convertase furin enhances survival and migration of vascular smooth muscle cells via processing of pro-nerve growth factor",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Urban",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Lorenz",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Meyborg",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ghosh",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Kintscher",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Kaufmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "J Biochem.",
+            "volume": "153",
+            "issn": "",
+            "pages": "197-207",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/jb/mvs137"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "title": "Evidence of the COVID-19 virus targeting the CNS: tissue distribution, host\u2013virus interaction, and proposed neurotropic mechanisms",
+            "authors": [
+                {
+                    "first": "AM",
+                    "middle": [],
+                    "last": "Baig",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Khaleeq",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Ali",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Syeda",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "ACS Chem Neurosci.",
+            "volume": "11",
+            "issn": "",
+            "pages": "995-8",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/acschemneuro.0c00122"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "title": "Lost smell and taste hint COVID-19 can target the nervous system: the scientist",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Yeager",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF17": {
+            "title": "Potential role of CSF cytokine profiles in discriminating infectious from non-infectious CNS disorders",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Fortuna",
+                    "suffix": ""
+                },
+                {
+                    "first": "DC",
+                    "middle": [],
+                    "last": "Hooper",
+                    "suffix": ""
+                },
+                {
+                    "first": "AL",
+                    "middle": [],
+                    "last": "Roberts",
+                    "suffix": ""
+                },
+                {
+                    "first": "LA",
+                    "middle": [],
+                    "last": "Harshyne",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Nagurney",
+                    "suffix": ""
+                },
+                {
+                    "first": "MT",
+                    "middle": [],
+                    "last": "Curtis",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "PLoS ONE.",
+            "volume": "13",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0205501"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "title": "Cytokine release syndrome in severe COVID-19: Interleukin-6 receptor antagonist tocilizumab may be the key to reduce mortality",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J-W",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "G-Q",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Int J Antimicrob Agents.",
+            "volume": "55",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ijantimicag.2020.105954"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "title": "COVID-19\u2013associated acute hemorrhagic necrotizing encephalopathy: CT and MRI features",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Poyiadji",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Shahin",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Noujaim",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Stone",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Patel",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Griffith",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Radiology.",
+            "volume": "294",
+            "issn": "",
+            "pages": "485-722",
+            "other_ids": {
+                "DOI": [
+                    "10.1148/radiol.2020201187"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "title": "This is what the coronavirus can do to your brain",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Nania",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF21": {
+            "title": "A first case of meningitis/encephalitis associated with SARS-Coronavirus-2",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Moriguchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Harii",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Goto",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Harada",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Sugawara",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Takamino",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Int J Infect Dis.",
+            "volume": "94",
+            "issn": "",
+            "pages": "55-8",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ijid.2020.03.062"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "title": "The origin, transmission and clinical therapies on coronavirus disease 2019 (COVID-19) outbreak - an update on the status",
+            "authors": [
+                {
+                    "first": "YR",
+                    "middle": [],
+                    "last": "Guo",
+                    "suffix": ""
+                },
+                {
+                    "first": "QD",
+                    "middle": [],
+                    "last": "Cao",
+                    "suffix": ""
+                },
+                {
+                    "first": "ZS",
+                    "middle": [],
+                    "last": "Hong",
+                    "suffix": ""
+                },
+                {
+                    "first": "YY",
+                    "middle": [],
+                    "last": "Tan",
+                    "suffix": ""
+                },
+                {
+                    "first": "SD",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "HJ",
+                    "middle": [],
+                    "last": "Jin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Mil Med Res.",
+            "volume": "7",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s40779-020-00240-0]10.1186/s40779-020-00240-0"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Fitzgerald",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Loss of Smell as an Early Symptom of COVID-19: What Research Is Uncovering: American Academy of Neurology",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF24": {
+            "title": "Large-vessel stroke as a presenting feature of covid-19 in the young",
+            "authors": [
+                {
+                    "first": "TJ",
+                    "middle": [],
+                    "last": "Oxley",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Mocco",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Majidi",
+                    "suffix": ""
+                },
+                {
+                    "first": "CP",
+                    "middle": [],
+                    "last": "Kellner",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Shoirah",
+                    "suffix": ""
+                },
+                {
+                    "first": "IP",
+                    "middle": [],
+                    "last": "Singh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med.",
+            "volume": "382",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMc2009787"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Molteni",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "What Does Covid-19 Do to Your Brain?",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF26": {
+            "title": "",
+            "authors": [],
+            "year": 2020,
+            "venue": "How Could Covid-19 and the Body's Immune Response Affect the Brain? The Picower Institute",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF27": {
+            "title": "",
+            "authors": [],
+            "year": 2020,
+            "venue": "The Use of Non-steroidal Anti-inflammatory Drugs (NSAIDs) in Patients With COVID-19: World Health Organization",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF28": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "McDonald",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "No Evidence to Back COVID-19 Ibuprofen Concerns",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF29": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sandoie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "What Are the Effects of COVID-19 on the Lungs",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF30": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Nandi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "2 Cell Types Are Entry Points for Virus",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF31": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Vaskovi\u0107",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Goblet Cells",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF32": {
+            "title": "Histology, respiratory epithelium",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Kia'i",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Bajaj",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF33": {
+            "title": "Neurologic manifestations of hospitalized patients with coronavirus disease 2019 in Wuhan, China",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Mao",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Jin",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "He",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "JAMA Neurol.",
+            "volume": "77",
+            "issn": "",
+            "pages": "403-527",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jamaneurol.2020.1127"
+                ]
+            }
+        },
+        "BIBREF34": {
+            "title": "Cell entry mechanisms of SARS-CoV-2",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Shang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wan",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Luo",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Ye",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Geng",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Auerbach",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Proc Natl Acad Sci U S A.",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.2003138117"
+                ]
+            }
+        },
+        "BIBREF35": {
+            "title": "Olfactory nerve",
+            "authors": [
+                {
+                    "first": "J-P",
+                    "middle": [],
+                    "last": "Barral",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Croibier",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Manual Therapy for the Cranial Nerves.",
+            "volume": "",
+            "issn": "",
+            "pages": "59-72",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/B978-0-7020-3100-7.50013-6"
+                ]
+            }
+        },
+        "BIBREF36": {
+            "title": "The Spectrum of Neurologic Disease in the Severe Acute Respiratory Syndrome Coronavirus 2 Pandemic Infection",
+            "authors": [
+                {
+                    "first": "SJ",
+                    "middle": [],
+                    "last": "Pleasure",
+                    "suffix": ""
+                },
+                {
+                    "first": "AJ",
+                    "middle": [],
+                    "last": "Green",
+                    "suffix": ""
+                },
+                {
+                    "first": "SA",
+                    "middle": [],
+                    "last": "Josephson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "JAMA Neurology.",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jamaneurol.2020.1065"
+                ]
+            }
+        },
+        "BIBREF37": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Barr",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Coronavirus: Why Are Loss of Smell and Taste Reportedly Symptoms of COVID-19?",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF38": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Brice-Saddler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Losing Sense of Smell May be a Hidden Symptom of Coronavirus Infection, Doctors Warn",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF39": {
+            "title": "Olfactory and gustatory dysfunctions as a clinical presentation of mild-to-moderate forms of the coronavirus disease (COVID-19): a multicenter European study",
+            "authors": [
+                {
+                    "first": "JR",
+                    "middle": [],
+                    "last": "Lechien",
+                    "suffix": ""
+                },
+                {
+                    "first": "CM",
+                    "middle": [],
+                    "last": "Chiesa-Estomba",
+                    "suffix": ""
+                },
+                {
+                    "first": "DR",
+                    "middle": [],
+                    "last": "De Siati",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Horoi",
+                    "suffix": ""
+                },
+                {
+                    "first": "SD",
+                    "middle": [],
+                    "last": "Le Bon",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Rodriguez",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Eur Arch Otorhinolaryngol.",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s00405-020-05965-1"
+                ]
+            }
+        },
+        "BIBREF40": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bienkov",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "If You've Lost Your Sense of Smell or Taste, You Could Be a 'hidden Carrier' of the Coronavirus: Business Insider",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF41": {
+            "title": "Guillain-Barr\u00e9 syndrome associated with SARS-CoV-2 infection: causality or coincidence?",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Shen",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet Neurol.",
+            "volume": "19",
+            "issn": "",
+            "pages": "383-4",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1474-4422(20)30109-5"
+                ]
+            }
+        },
+        "BIBREF42": {
+            "title": "Guillain-Barre Syndrome Associated with SARS-CoV-2",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Toscano",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Palmerini",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ravaglia",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Ruiz",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Invernizzi",
+                    "suffix": ""
+                },
+                {
+                    "first": "MG",
+                    "middle": [],
+                    "last": "Cuzzoni",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med.",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMc2009191"
+                ]
+            }
+        },
+        "BIBREF43": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "EJ",
+                    "middle": [],
+                    "last": "Mundell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Some COVID-19 Patients Stricken by Guillain-Barre Syndrome",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF44": {
+            "title": "A pneumonia outbreak associated with a new coronavirus of probable bat origin",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "XL",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "XG",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Nature.",
+            "volume": "579",
+            "issn": "",
+            "pages": "270-3",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41586-020-2012-7"
+                ]
+            }
+        },
+        "BIBREF45": {
+            "title": "Miller Fisher Syndrome and polyneuritis cranialis in COVID-19",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Guti\u00e9rrez-Ortiz",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "M\u00e9ndez",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Rodrigo-Rey",
+                    "suffix": ""
+                },
+                {
+                    "first": "Pedro-Murillo",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "San",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Bermejo-Guerrero",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Gordo-Ma\u00f1as",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Neurology.",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1212/WNL.0000000000009619"
+                ]
+            }
+        },
+        "BIBREF46": {
+            "title": "The Miller Fisher syndrome. Review of the literature",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Berlit",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Rakicky",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "J Clin Neuroophthalmol.",
+            "volume": "12",
+            "issn": "",
+            "pages": "57-63",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF47": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "SJ",
+                    "middle": [],
+                    "last": "Gross",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "CDC Removes Chloroquine From Guidance on COVID-19 Therapy.",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF48": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Bender",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Does Loss of Smell Require COVID-19 Precautions?",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF49": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Czachor",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Nasal Spray Being Tested as Potention Coronavirus Treatment.",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF50": {
+            "title": "Neurological manifestations in COVID-19 caused by SARS-CoV-2",
+            "authors": [
+                {
+                    "first": "AM",
+                    "middle": [],
+                    "last": "Baig",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "CNS Neurosci Therap.",
+            "volume": "26",
+            "issn": "",
+            "pages": "499-501",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/cns.13372"
+                ]
+            }
+        },
+        "BIBREF51": {
+            "title": "Neurologic complications of coronavirus infections",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Nath",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Neurology.",
+            "volume": "94",
+            "issn": "",
+            "pages": "809-10",
+            "other_ids": {
+                "DOI": [
+                    "10.1212/WNL.0000000000009455"
+                ]
+            }
+        },
+        "BIBREF52": {
+            "title": "Consensus for prevention and management of coronavirus disease 2019 (COVID-19) for neurologists",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Jin",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Hong",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Mao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Stroke Vasc Neurol.",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1136/svn-2020-000382"
+                ]
+            }
+        },
+        "BIBREF53": {
+            "title": "The epidemic of 2019-novel-coronavirus (2019-nCoV) pneumonia and insights for emerging infectious diseases in the future",
+            "authors": [
+                {
+                    "first": "JY",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "You",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "ZJ",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Qiu",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Luo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Microbes Infect.",
+            "volume": "22",
+            "issn": "",
+            "pages": "80-5",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.micinf.2020.02.002"
+                ]
+            }
+        },
+        "BIBREF54": {
+            "title": "Molecular evolution of human coronavirus genomes",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Forni",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Cagliani",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Clerici",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Sironi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Trends Microbiol.",
+            "volume": "25",
+            "issn": "",
+            "pages": "35-48",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.tim.2016.09.001"
+                ]
+            }
+        },
+        "BIBREF55": {
+            "title": "Virology, epidemiology, pathogenesis, and control of COVID-19",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Jin",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Ji",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Viruses.",
+            "volume": "12",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.3390/v12040372"
+                ]
+            }
+        },
+        "BIBREF56": {
+            "title": "Early transmission dynamics in wuhan, china, of novel coronavirus-infected pneumonia",
+            "authors": [
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Tong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med.",
+            "volume": "382",
+            "issn": "",
+            "pages": "1199-207",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/nejmoa2001316"
+                ]
+            }
+        }
+    }
+}

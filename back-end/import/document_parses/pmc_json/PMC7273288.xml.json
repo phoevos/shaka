@@ -1,0 +1,684 @@
+{
+    "paper_id": "PMC7273288",
+    "metadata": {
+        "title": "Clinical predictors of COVID-19 mortality",
+        "authors": [
+            {
+                "first": "Arjun",
+                "middle": [
+                    "S."
+                ],
+                "last": "Yadaw",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Yan-chak",
+                "middle": [],
+                "last": "Li",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Sonali",
+                "middle": [],
+                "last": "Bose",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Ravi",
+                "middle": [],
+                "last": "Iyengar",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Supinda",
+                "middle": [],
+                "last": "Bunyavanich",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Gaurav",
+                "middle": [],
+                "last": "Pandey",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [
+        {
+            "text": "The coronavirus disease 2019 (COVID-19) pandemic has affected over 3.6 million individuals, and caused over 250,000 deaths worldwide as of May 5th, 2020.(1) Although the causative SARS-CoV-2 virus primarily targets the respiratory system(2, 3), complications in other organ systems, e.g., cardiovascular, neurologic and renal, can also contribute to death from the disease. Clinical experience thus far has demonstrated significant heterogeneity in the trajectory of SARS-CoV-2 infection, spanning patients who are asymptomatic to those with mild, moderate, and severe disease forms, with a high percentage of patients who do not survive(2, 3). Notably, it can be difficult to accurately predict clinical outcomes for patients across this spectrum of clinical presentations. This presents an enormous challenge to the prognostication and management of COVID-19 patients, especially within disease epicenters such as New York City (NYC) that need to triage a high volume of patients. Accurate prediction of COVID-19 mortality, and the identification of contributing factors would therefore allow for targeted strategies in patients with the highest risk of death.",
+            "cite_spans": [
+                {
+                    "start": 154,
+                    "end": 155,
+                    "mention": "1",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 238,
+                    "end": 239,
+                    "mention": "2",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 241,
+                    "end": 242,
+                    "mention": "3",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 638,
+                    "end": 639,
+                    "mention": "2",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 641,
+                    "end": 642,
+                    "mention": "3",
+                    "ref_id": "BIBREF22"
+                }
+            ],
+            "section": "Introduction",
+            "ref_spans": []
+        },
+        {
+            "text": "Towards this aim, we analyzed clinical data from 5051 patients who had laboratory confirmed COVID-19 and were treated within multiple hospitals and locations of the Mount Sinai Health System spanning different boroughs of NYC. We used multiple machine learning-based classification algorithms(4) to develop models that can accurately predict mortality from COVID-19. We also identified clinical features that contributed the most to this prediction. An improved understanding of predictive factors for COVID-19 is critical to the development of clinical decision support systems that can better identify those with higher risk of mortality, and inform interventions to reduce the risk of death.",
+            "cite_spans": [
+                {
+                    "start": 293,
+                    "end": 294,
+                    "mention": "4",
+                    "ref_id": "BIBREF24"
+                }
+            ],
+            "section": "Introduction",
+            "ref_spans": []
+        },
+        {
+            "text": "De-identified electronic medical record (EMR) data from patients diagnosed with COVID-19 within the Mount Sinai Hospital System, New York, NY through April 7, 2020 were included in the study. The Mount Sinai Health System is a network of 5 hospital campuses and over 400 ambulatory practices spanning the New York metropolitan area (Supplementary Table 1). COVID-19 diagnosis was based on positive polymerase chain reaction (PCR)-based clinical laboratory testing for the SARS-CoV-2 virus.",
+            "cite_spans": [],
+            "section": "Study population ::: Methods",
+            "ref_spans": []
+        },
+        {
+            "text": "Data from COVID-19 patients through April 6, 2020 were randomly split into two groups of independent subjects comprising 80% of the sample (n=3841) for development of the mortality predictor (i.e. development set), and 20% (n=961) to serve as retrospective test set 1. A prospective validation set of independent subjects, test set 2, included COVID-19 patients encountered on April 7, 2020 (n=249).",
+            "cite_spans": [],
+            "section": "Study population ::: Methods",
+            "ref_spans": []
+        },
+        {
+            "text": "We implemented a systematic machine learning-based framework to construct the mortality predictor from the development set using missing value imputation(5), feature selection(6), classification(4) and statistical(7) techniques. The goal of this predictor was to classify a COVID-19 patient as likely to survive or die from the disease, i.e., \u201cAlive\u201d or \u201cDeceased,\u201d respectively. The identified predictor was then validated in test sets 1 and 2 in terms of the Area Under the ROC Curve (AUC score) (8). The overall workflow is shown in Figure 1, and detailed methods are provided in Supplementary Material.",
+            "cite_spans": [
+                {
+                    "start": 154,
+                    "end": 155,
+                    "mention": "5",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 176,
+                    "end": 177,
+                    "mention": "6",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 195,
+                    "end": 196,
+                    "mention": "4",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 214,
+                    "end": 215,
+                    "mention": "7",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 499,
+                    "end": 500,
+                    "mention": "8",
+                    "ref_id": "BIBREF28"
+                }
+            ],
+            "section": "Identification and validation of the predictor ::: Methods",
+            "ref_spans": [
+                {
+                    "start": 536,
+                    "end": 544,
+                    "mention": "Figure 1",
+                    "ref_id": "FIGREF0"
+                }
+            ]
+        },
+        {
+            "text": "The funding organizations had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.",
+            "cite_spans": [],
+            "section": "Role of the funding source ::: Methods",
+            "ref_spans": []
+        },
+        {
+            "text": "The demographic and clinical characteristics of the COVID-19 patients included in the development set (n=3841), test set 1 (n=961) and test set 2 (n=249) are shown in Table 1. The majority (55\u00b73%) of patients in the development set were male, with an even higher prevalence of male sex among the deceased (61\u00b73%). COVID-19 patients were mostly Caucasian (25\u00b73%), African American (26\u00b72%) and Latino (24\u00b73%), with a minority identifying as Asian (4\u00b72%). Hypertension and diabetes were the most common comorbidities (22\u00b76% and 15\u00b78%%, respectively). While a small minority were obese (6\u00b70%) or had cancer (5\u00b74%), an even smaller percentage had asthma (4\u00b72%), COPD (2\u00b73%), or currently smoked (3\u00b75%). Over a third of the patients had been treated with azithromycin and/or hydroxychloroquine, consistent with the health system\u2019s treatment practices during this time period.",
+            "cite_spans": [],
+            "section": "Patient characteristics ::: Results",
+            "ref_spans": [
+                {
+                    "start": 167,
+                    "end": 174,
+                    "mention": "Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ]
+        },
+        {
+            "text": "Univariate analyses of patient characteristics in the development set (Table 1) showed that COVID-19 patients who died were significantly older with a mean age of 73\u00b74 (SD 12\u00b77) vs. 54\u00b77 (SD 18\u00b77) years in survivors (P<0\u00b7001). They were more likely to have had their initial encounter at a hospital rather than at an outpatient or telehealth setting within our hospital system (P<0\u00b7001). Those who died had higher body temperature and lower oxygen saturation at initial presentation, and their minimum oxygen (O2) saturation over the duration of their encounter was also lower (P<0\u00b7001 for all). Death from COVID-19 was associated with smoking (P=0\u00b705), COPD (P<0\u00b7001), hypertension (P<0\u00b7001), and diabetes (P<0\u00b7001).",
+            "cite_spans": [],
+            "section": "Patient characteristics ::: Results",
+            "ref_spans": [
+                {
+                    "start": 71,
+                    "end": 78,
+                    "mention": "Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ]
+        },
+        {
+            "text": "The characteristics of test sets 1 and 2 were largely similar to those of the development set, except for some differences in the relative proportions of race (Table 1). While minimum O2 saturation during encounter was consistently lower in the deceased vs. alive patients in both test sets, O2 saturation at presentation was lower among the deceased in test set 1 only. COPD, hypertension, and diabetes were more prevalent among the deceased in test set 1, but there were no significant differences in these comorbidities in test set 2.",
+            "cite_spans": [],
+            "section": "Patient characteristics ::: Results",
+            "ref_spans": [
+                {
+                    "start": 160,
+                    "end": 167,
+                    "mention": "Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ]
+        },
+        {
+            "text": "Following imputation, there were twenty distinct clinical features with less than 20% missing values in the development set that improved predictor performance (Figure 2A). Compared to the other classification algorithms (LR, RF, SVM), XGBoost performed significantly better at this and higher levels of missing values (Figure 2A; Friedman-Nemenyi P<0\u00b7001). Therefore, we used the imputed version of the development set with 20 features and XGBoost, to develop the first COVID-19 mortality predictor in this study, referred to as the 20F model.",
+            "cite_spans": [],
+            "section": "Development and validation of the predictor ::: Results",
+            "ref_spans": [
+                {
+                    "start": 161,
+                    "end": 170,
+                    "mention": "Figure 2A",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 320,
+                    "end": 329,
+                    "mention": "Figure 2A",
+                    "ref_id": "FIGREF1"
+                }
+            ]
+        },
+        {
+            "text": "We also tested if a smaller subset of the 20 features could yield an even more accurate predictor, since such a subset would be easier to study and implement in a clinical setting. Indeed, we found that for the best-performing XGBoost algorithm (Friedman-Nemenyi P<0\u00b7001), the AUC saturated at as few as five features (Figure 2B), validating our hypothesis that fewer than 20 features could yield an accurate predictor. The five features identified from the development set included the following: minimum oxygen saturation recorded during the encounter, patient\u2019s age, type of encounter, maximum body temperature during the encounter, and use of hydroxychloroquine during treatment. We trained this second Covid-19 mortality predictor, referred to as the 5F model, by applying XGBoost to these 5 features in the imputed development set.",
+            "cite_spans": [],
+            "section": "Development and validation of the predictor ::: Results",
+            "ref_spans": [
+                {
+                    "start": 319,
+                    "end": 328,
+                    "mention": "Figure 2B",
+                    "ref_id": "FIGREF1"
+                }
+            ]
+        },
+        {
+            "text": "Validation of the 20F and 5F models on test set 1 (retrospective data) and test set 2 (prospective data) both yielded very good performance (AUC>0\u00b79; Figure 3). The predictor\u2019s strong performance in both test sets demonstrated that the predictors constructed from data on a given day can be reliably applied retrospectively and prospectively.",
+            "cite_spans": [],
+            "section": "Development and validation of the predictor ::: Results",
+            "ref_spans": [
+                {
+                    "start": 150,
+                    "end": 158,
+                    "mention": "Figure 3",
+                    "ref_id": "FIGREF2"
+                }
+            ]
+        },
+        {
+            "text": "Similar to the features that the 5F model was based on, we identified the five most predictive features for the other classification algorithms we tested (Figure 4A). While there was variability among these features due to the inherent differences among the algorithms, the age of the patient, and their minimum oxygen saturation level during the clinical encounter (O2SAT_min) were consistent across the algorithms. The values of O2SAT_min and age were indeed significantly different between the Deceased and Alive classes (Table 1, Figures 4B and 4C respectively; T-test P<0.001 for both features), affirming their predictive power. Supplementary Figure 1 shows that the top five features are consistent across all three runs of the feature selection and predictor development process.",
+            "cite_spans": [],
+            "section": "Features predictive of mortality ::: Results",
+            "ref_spans": [
+                {
+                    "start": 155,
+                    "end": 164,
+                    "mention": "Figure 4A",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 534,
+                    "end": 544,
+                    "mention": "Figures 4B",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 549,
+                    "end": 551,
+                    "mention": "4C",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 525,
+                    "end": 532,
+                    "mention": "Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ]
+        },
+        {
+            "text": "Although our datasets likely are the largest that have been used to predict COVID-19 mortality, the clinical features available to us were limited to those routinely collected during hospital encounters. Although we were able to develop accurate predictors from these limited data using our machine learning framework, it should be possible to develop even better predictors using a richer set of features. A key limitation of clinical indices included in the datasets include the uniformity of Electronic Medical Record (EMR)-derived data. For example, while minimum oxygen saturation during the health encounter was identified as a significant predictor for mortality, limitations inherent in the interpretation of this data must be noted, such as the unavailability of the amount of supplemental oxygen being administered at the time of recording and acquisition-related limitations, such as readings below the threshold of accuracy of the monitoring device (e.g. less than 70%). Nonetheless, we found a clearly lower distribution of minimum oxygen saturations in those patients who died from COVID-19 compared to those who survived, highlighting this clinical feature as central to predicting morality for infected patients.",
+            "cite_spans": [],
+            "section": "Limitations of the study ::: Discussion",
+            "ref_spans": []
+        },
+        {
+            "text": "Applying machine learning approaches to data from a large cohort of COVID-19 patients resulted in the identification of accurate and parsimonious predictors of mortality. These data-driven findings may help clinicians better recognize and prioritize the care of patients at greatest risk of death.",
+            "cite_spans": [],
+            "section": "Conclusion ::: Discussion",
+            "ref_spans": []
+        }
+    ],
+    "ref_entries": {
+        "TABREF0": {
+            "text": "Table 1:: Characteristics of patients in the development and test sets.\n",
+            "type": "table"
+        },
+        "FIGREF0": {
+            "text": "Figure 1:: Data were obtained from the Mount Sinai Data Warehouse (MSDW). After pre-processing, COVID-19-positive patients\u2019 data (n=4802) were randomly divided in an 80:20 ratio into a predictor development (n=3841) and an independent retrospective validation dataset (test set 1; n=961). For predictor training and selection, the development set was further randomly split into a 60% training dataset (n=2880) and a 20% holdout dataset (n=961). Four classification algorithms (logistic regression (LR), random forest (RF), support vector machine (SVM) and extreme Gradient Boosting (XGBoost)) were evaluated. The final predictive model was validated on test set 1 and another independent prospective validation set (test set 2; n=249). The complete details of the computational methods used can be found in Supplementary Material.",
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Figure 2:: (A) We attempted to find the optimal level of missing values in the range of 0% to 60% that could be imputed and lead to more accurate predictors. For this, we took incremental steps of 5% in missing value levels, and used mean and mode imputation for continuous and categorical features respectively. At each level, four candidate classifiers (LR, RF, SVM and XGBoost) were trained and evaluated on the corresponding holdout set in terms of the area under the receiver operating characteristic (ROC) curve (AUC score) as the metric. This process was repeated 100 times and the average AUCs for each candidate classifier and missing value level are shown here, along with error bars denoted by vertical arrows. (B) Using a setup analogous to (A), and the Recursive Feature Elimination (RFE) algorithm, we evaluated the performance of the four classification algorithms with different number of features selected from the full set of twenty. The average AUC scores from 100 runs of this process are shown here, along with error bars denoted by vertical arrows. The details of the computational methods underlying these analyses are provided in Supplementary Material. LR = logistic regression; RF = random forest; SVM = support vector machine.",
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Figure 3:: Based on the results in Figure 2, we constructed two predictors: (1) Training XGBoost, the best performer in Figure 2(A), on 20 features with at most 20% missing values (20F model), and (2) Training XGBoost, the best performer in Figure 2(B), on the optimal 5 features at which the performance saturated (5F model). Both these predictors were evaluated on the (A) retrospective Test set 1 (n=961) and the (B) prospective Test set 2 (n=249). Evaluation results are shown here in terms of the ROC curves obtained, as well as their area under the curve (AUC) scores. The 95% confidence intervals of the AUC scores are shown in square brackets.",
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Figure 4:: (A) Top five predictive features identified using the RFE algorithm for the four classification algorithms across three independent sets of hundred runs each of the predictor training and selection process described in Figures 1 and 2, and Supplementary Material. The values in parentheses indicate the number of times the feature was selected as top ranked. Also shown are violin plots representing the distributions of the values of the (B) O2SAT_min and (C) age features that were selected as top predictive features for all the four algorithms. The plot in (B) shows that the median value of O2SAT_min for the deceased group (79) was significantly lower (T-test P < 0.001) than that for the live group (92). Similarly the plot in (C) shows that the median age in the deceased group (75) is significantly higher (T-test P < 0.001) than that in the alive group (56).",
+            "type": "figure"
+        }
+    },
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "An interactive web-based dashboard to track COVID-19 in real time",
+            "authors": [],
+            "year": 2020,
+            "venue": "Lancet Infect Dis",
+            "volume": "20",
+            "issn": "5",
+            "pages": "533-4",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF1": {
+            "title": "Characteristics of and Important Lessons From the Coronavirus Disease 2019 [COVID-19) Outbreak in China: Summary of a Report of 72314 Cases From the Chinese Center for Disease Control and Prevention",
+            "authors": [],
+            "year": 2020,
+            "venue": "JAMA",
+            "volume": "323",
+            "issn": "13",
+            "pages": "1239-42",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF2": {
+            "title": "Cardiovascular Disease, Drug Therapy, and Mortality in Covid-19",
+            "authors": [],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF3": {
+            "title": "",
+            "authors": [],
+            "year": 2020,
+            "venue": "COVID-19 Tracker: Fatalities",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF4": {
+            "title": "Covid-19 in Critically Ill Patients in the Seattle Region - Case Series",
+            "authors": [],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF5": {
+            "title": "Regional Planning for Extracorporeal Membrane Oxygenation Allocation During COVID-19",
+            "authors": [],
+            "year": 2020,
+            "venue": "Chest",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF6": {
+            "title": "Clinical characteristics of 113 deceased patients with coronavirus disease 2019: retrospective study",
+            "authors": [],
+            "year": 2020,
+            "venue": "BMJ",
+            "volume": "368",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF7": {
+            "title": "Baseline Characteristics and Outcomes of 1591 Patients Infected With SARS-CoV-2 Admitted to ICUs of the Lombardy Region, Italy",
+            "authors": [],
+            "year": 2020,
+            "venue": "JAMA",
+            "volume": "323",
+            "issn": "16",
+            "pages": "1574-81",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF8": {
+            "title": "Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study",
+            "authors": [],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "395",
+            "issn": "10223",
+            "pages": "507-13",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF9": {
+            "title": "Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China",
+            "authors": [],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "395",
+            "issn": "10223",
+            "pages": "497-506",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF10": {
+            "title": "Clinical Characteristics of Covid-19 in China",
+            "authors": [],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "382",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF11": {
+            "title": "Clinical Characteristics of Coronavirus Disease 2019 in China",
+            "authors": [],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "382",
+            "issn": "18",
+            "pages": "1708-20",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF12": {
+            "title": "Pharmacologic Treatments for Coronavirus Disease 2019 [COVID-19): A Review",
+            "authors": [],
+            "year": 2020,
+            "venue": "JAMA",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF13": {
+            "title": "Chloroquine and hydroxychloroquine as available weapons to fight COVID-19",
+            "authors": [],
+            "year": 2020,
+            "venue": "Int J Antimicrob Agents",
+            "volume": "55",
+            "issn": "4",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF14": {
+            "title": "Clinical predictors of mortality due to COVID-19 based on an analysis of data of 150 patients from Wuhan, China",
+            "authors": [],
+            "year": 2020,
+            "venue": "Intensive Care Med",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF15": {
+            "title": "Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study",
+            "authors": [],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "395",
+            "issn": "10229",
+            "pages": "1054-62",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF16": {
+            "title": "Prognostic value of NT-proBNP in patients with severe COVID-19",
+            "authors": [],
+            "year": 2020,
+            "venue": "Respir Res",
+            "volume": "21",
+            "issn": "1",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF17": {
+            "title": "Predictors of Mortality for Patients with COVID-19 Pneumonia Caused by SARS-CoV-2: A Prospective Cohort Study",
+            "authors": [],
+            "year": 2020,
+            "venue": "Eur Respir J",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF18": {
+            "title": "A Tool to Early Predict Severe Corona Virus Disease 2019 [COVID-19) : A Multicenter Study using the Risk Nomogram in Wuhan and Guangdong, China",
+            "authors": [],
+            "year": 2020,
+            "venue": "Clin Infect Dis",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF19": {
+            "title": "Prediction models for diagnosis and prognosis of covid-19 infection: systematic review and critical appraisal",
+            "authors": [],
+            "year": 2020,
+            "venue": "BMJ",
+            "volume": "369",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF20": {
+            "title": "",
+            "authors": [],
+            "year": 2016,
+            "venue": "Machine Learning in Medicine-a Complete Overview",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF21": {
+            "title": "",
+            "authors": [],
+            "year": 2019,
+            "venue": "XGBoost Algorithm: Long May She Reign!",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF22": {
+            "title": "Presenting Characteristics, Comorbidities, and Outcomes Among 5700 Patients Hospitalized With COVID-19 in the New York City Area",
+            "authors": [],
+            "year": 2020,
+            "venue": "JAMA",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF23": {
+            "title": "",
+            "authors": [],
+            "year": 2017,
+            "venue": "XGBoost, a Top Machine Learning Method on Kaggle, Explained",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF24": {
+            "title": "",
+            "authors": [],
+            "year": 2014,
+            "venue": "Introduction to machine learning",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF25": {
+            "title": "Strategies for handling missing data in electronic health record derived data",
+            "authors": [],
+            "year": 2013,
+            "venue": "EGEMS [Wash DC)",
+            "volume": "1",
+            "issn": "3",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF26": {
+            "title": "A review of feature selection techniques in bioinformatics",
+            "authors": [],
+            "year": 2007,
+            "venue": "Bioinformatics",
+            "volume": "23",
+            "issn": "19",
+            "pages": "2507-17",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF27": {
+            "title": "Statistical Comparisons of Classihers over Multiple Data Sets",
+            "authors": [],
+            "year": 2006,
+            "venue": "J Mach Learn Res",
+            "volume": "7",
+            "issn": "",
+            "pages": "1-30",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF28": {
+            "title": "Classification evaluation",
+            "authors": [],
+            "year": 2016,
+            "venue": "Nature Methods",
+            "volume": "13",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF29": {
+            "title": "",
+            "authors": [],
+            "year": 2016,
+            "venue": "XGBoost: A Scalable Tree Boosting System",
+            "volume": "",
+            "issn": "",
+            "pages": "785-94",
+            "other_ids": {
+                "DOI": []
+            }
+        }
+    }
+}

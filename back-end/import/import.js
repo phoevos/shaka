@@ -63,7 +63,7 @@ function extractData (data) {
 }
 
 function parseRows () {
-    console.log("Saving article texts to MongoDB...\nThis usually takes around 12 minutes.")
+    console.log("Saving article texts to MongoDB...\nThis could take a while.")
 
     let csvStream = fastcsv
         .parse({ delimiter: ',', skipLines:1})

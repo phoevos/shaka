@@ -1,0 +1,2686 @@
+{
+    "paper_id": "PMC7313507",
+    "metadata": {
+        "title": "A critical evaluation of glucocorticoids in the treatment of severe COVID-19",
+        "authors": [
+            {
+                "first": "Cinzia",
+                "middle": [],
+                "last": "Solinas",
+                "suffix": "",
+                "email": "czsolinas@gmail.com",
+                "affiliation": {}
+            },
+            {
+                "first": "Laura",
+                "middle": [],
+                "last": "Perra",
+                "suffix": "",
+                "email": "lauraperra7@gmail.com",
+                "affiliation": {}
+            },
+            {
+                "first": "Marco",
+                "middle": [],
+                "last": "Aiello",
+                "suffix": "",
+                "email": "marcomaria.aiello@gmail.com",
+                "affiliation": {}
+            },
+            {
+                "first": "Edoardo",
+                "middle": [],
+                "last": "Migliori",
+                "suffix": "",
+                "email": "em3364@cumc.columbia.edu",
+                "affiliation": {}
+            },
+            {
+                "first": "Nicola",
+                "middle": [],
+                "last": "Petrosillo",
+                "suffix": "",
+                "email": "nicola.petrosillo@inmi.it",
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [
+        {
+            "text": "Faced with the complex scenario of severely ill patients with COVID-19, a variety of protocols employing complementary treatments (i.e., anti-viral, anti-malarial and anti-rheumatic agents, serine protease inhibitors, IL blockers and low-molecular-weight heparin (LMWH) [8]) have been developed in various countries, some of them using GC for the treatment of hospitalized patients with phase IIb-III COVID-19 [9,10] (Fig. 2\n). The crucial point here is that GC might be helpful in preventing the alveolar/pulmonary damage induced by the cytokine and chemokine storm. However, despite that in this situation GC are used for their role as immune suppressants (i.e., leading to an inhibition of cytokine production), they potentially cause delay in the clearance of the pathogen (namely, the virus) and impair lymphocyte proliferation, etc. [10,11] (Fig. 1). Nevertheless, in the past, GC have been used in the management of ARDS caused by Middle East Respiratory Syndrome (MERS)-CoV [12] and SARS-CoV [13], both characterized by a histological pulmonary inflammation and by a diffuse alveolar damage [14] (Fig. 1). However, there was no consensus in the literature that the treatment with GC could be beneficial in the management of COVID-19, considering the potential delay in the clearance of the virus, but also the increase of the risk of secondary infections and adverse effects (i.e., hyperglycemia, psychosis, and avascular necrosis) and taking into account that the effects on patients\u2019 outcome are so far not that clear [8,12,13,15]. Recently, results from a randomized trial were publicly announced, revealing that low dose dexamethasone (DX) helped saving the lives of seriously ill patients with COVID-19[b], cutting the risk of death by a third for patients on ventilators and by a fifth for those on oxygen (O2) therapy.",
+            "cite_spans": [
+                {
+                    "start": 271,
+                    "end": 272,
+                    "mention": "8",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 411,
+                    "end": 412,
+                    "mention": "9",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 413,
+                    "end": 415,
+                    "mention": "10",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 840,
+                    "end": 842,
+                    "mention": "10",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 843,
+                    "end": 845,
+                    "mention": "11",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 983,
+                    "end": 985,
+                    "mention": "12",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 1001,
+                    "end": 1003,
+                    "mention": "13",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 1100,
+                    "end": 1102,
+                    "mention": "14",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 1529,
+                    "end": 1530,
+                    "mention": "8",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 1531,
+                    "end": 1533,
+                    "mention": "12",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 1534,
+                    "end": 1536,
+                    "mention": "13",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 1537,
+                    "end": 1539,
+                    "mention": "15",
+                    "ref_id": "BIBREF14"
+                }
+            ],
+            "section": "Glucocorticoids and COVID-19 ::: Introduction",
+            "ref_spans": [
+                {
+                    "start": 418,
+                    "end": 424,
+                    "mention": "Fig. 2",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 848,
+                    "end": 854,
+                    "mention": "Fig. 1",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 1105,
+                    "end": 1111,
+                    "mention": "Fig. 1",
+                    "ref_id": "FIGREF0"
+                }
+            ]
+        },
+        {
+            "text": "The mechanisms of action of GC are characterized as: 1) genomic and 2) non-genomic, as summarized in Fig. 3\n.",
+            "cite_spans": [],
+            "section": "Glucocorticoids: principal mechanisms of action ::: Introduction",
+            "ref_spans": [
+                {
+                    "start": 101,
+                    "end": 107,
+                    "mention": "Fig. 3",
+                    "ref_id": "FIGREF2"
+                }
+            ]
+        },
+        {
+            "text": "The genomic mechanism of action is mediated by the GC receptor (GCR) that generates the majority of anti-inflammatory and immunosuppressive effects. GCR is localized within the cytoplasm, and the complex generated after its binding with the GC translocates into the nucleus, where it inhibits the transcription of the genes involved in the activation of leukocytes and in the regulation of the function of epithelial, stromal and endothelial cells [16,17]. This generates a reduction of pro-inflammatory cytokines, chemokines, and molecules of cellular adhesion and of other enzymes that are involved in the inflammatory response. Specifically, the effects are: a reduction of the recruitment of white blood cells (including monocytes-macrophages but excluding neutrophils) into affected areas, further inhibiting the release of chemotactic signals and the expression of cytokines regulating the function of macrophages, endothelial cells, lymphocyte activities (i.e.: IL-1, IL-2, IL-3, IL-6, TNF-\u03b1 and granulocyte monocyte-colony stimulating factor (GM-CSF)) and fibroblast proliferation. Further, release of histamine from basophils is impaired.",
+            "cite_spans": [
+                {
+                    "start": 449,
+                    "end": 451,
+                    "mention": "16",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 452,
+                    "end": 454,
+                    "mention": "17",
+                    "ref_id": "BIBREF16"
+                }
+            ],
+            "section": "Glucocorticoids: principal mechanisms of action ::: Introduction",
+            "ref_spans": []
+        },
+        {
+            "text": "The non-genomic mechanism is more rapid and is mediated by the interactions with the cytoplasmic GCR or with the membrane GCR [18]. Within a few seconds or minutes after GC binding to GCR, a cascade of effects is activated, including the inhibition of phospholipase A2. This phenomenon is mediated by an increased synthesis of lipocortin-1, generating an impaired release of arachidonic acid followed by a decreased production of prostaglandins, leukotrienes and platelet activating factor [16,18].",
+            "cite_spans": [
+                {
+                    "start": 127,
+                    "end": 129,
+                    "mention": "18",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 491,
+                    "end": 493,
+                    "mention": "16",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 494,
+                    "end": 496,
+                    "mention": "18",
+                    "ref_id": "BIBREF17"
+                }
+            ],
+            "section": "Glucocorticoids: principal mechanisms of action ::: Introduction",
+            "ref_spans": []
+        },
+        {
+            "text": "In addition to the immunosuppressive effects on the proliferation of B and T lymphocytes, as well as the inhibition of monocyte function, high concentrations of GC reduce complement levels [18,19].",
+            "cite_spans": [
+                {
+                    "start": 190,
+                    "end": 192,
+                    "mention": "18",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 193,
+                    "end": 195,
+                    "mention": "19",
+                    "ref_id": "BIBREF18"
+                }
+            ],
+            "section": "Glucocorticoids: principal mechanisms of action ::: Introduction",
+            "ref_spans": []
+        },
+        {
+            "text": "Overall, GC anti-inflammatory and immunosuppressive activity influence the concentration, distribution and function of peripheral leukocytes, with an impairment of the activity of B and T lymphocytes and an increase in the number and activity of neutrophils, whereas in macrophages a reduction of the arachidonic acid metabolites like prostaglandins, leukotrienes and platelet activating factor is observed.",
+            "cite_spans": [],
+            "section": "Glucocorticoids: principal mechanisms of action ::: Introduction",
+            "ref_spans": []
+        },
+        {
+            "text": "\nTable 1\nTable 1 summarizes the protocols of GC employed in the treatment of COVID-19 patients.",
+            "cite_spans": [],
+            "section": "Glucocorticoids: treatment of COVID-19 ::: Introduction",
+            "ref_spans": [
+                {
+                    "start": 1,
+                    "end": 8,
+                    "mention": "Table 1",
+                    "ref_id": "TABREF0"
+                },
+                {
+                    "start": 9,
+                    "end": 16,
+                    "mention": "Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ]
+        },
+        {
+            "text": "Overall, it was not clear whether patients diagnosed with COVID-19 could take advantage or might be harmed by the use of GC [15]. So far, WHO did not recommend GC in this setting[c], considering the available evidence in the literature, arising from non-randomized studies conducted on patients with MERS that revealed a prolonged viral clearance, without influencing or positively impacting the clinical outcome [12]. Nevertheless, WHO considered it a priority to wait for results from randomized controlled trials (RCT) on the use of GC, since these drugs might represent complementary treatments potentially useful to save human lives during the COVID-19 pandemic in the coming future[d]. The announced results from the RCT on DX will probably change the future scenarios[b].",
+            "cite_spans": [
+                {
+                    "start": 125,
+                    "end": 127,
+                    "mention": "15",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 414,
+                    "end": 416,
+                    "mention": "12",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "section": "Glucocorticoids: treatment of COVID-19 ::: Introduction",
+            "ref_spans": []
+        },
+        {
+            "text": "In some patients affected by SARS-CoV-2-linked pneumonia, the development of an ARDS, potentially responsive to GC, has been observed. Indeed, a recent study published in the Journal of American Medical Association has shown favorable data on the use of methylprednisolone (MP), revealing that it might be beneficial in terms of mortality (=mortality reduction: 62%) [5].",
+            "cite_spans": [
+                {
+                    "start": 368,
+                    "end": 369,
+                    "mention": "5",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "section": "Glucocorticoids: treatment of COVID-19 ::: Introduction",
+            "ref_spans": []
+        },
+        {
+            "text": "In China MP was employed in hospitalized patients with severe and critically ill stage III, with persistent fever (temperature >39 \u00b0C), with peculiar radiological manifestations in Computerized Tomography scans and with IL-6 levels >5 ULN (Table 1).",
+            "cite_spans": [],
+            "section": "Glucocorticoids: treatment of COVID-19 ::: Introduction",
+            "ref_spans": [
+                {
+                    "start": 240,
+                    "end": 247,
+                    "mention": "Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ]
+        },
+        {
+            "text": "In Italy, the use of GC is not nowadays clearly recommended by the official guidelines of the principal scientific societies in the different disciplines that are involved in the management of COVID-19 patients (i.e., infectious disease[e], anesthesiology[f], pneumology[g], and internal medicine[h]). Nevertheless, the use of DX is suggested for the supportive treatment of patients with confirmed ARDS by an online vademecum published by the SIMIT (Italian Society of Tropical and Infectious Diseases[e]) in the section of Lombardy (the most affected region by COVID-19 in Italy) [20], and also by the recommendations of the Italian National Institute for the Infectious Diseases \u201cL. Spallanzani\u201d, that, as alternative treatment, also suggests the use of MP [21]. Further GC are used in some Intensive Care Units, on the bases of the positive results from RCT on patients with severe Community-Acquired Pneumonia (CAP) [22]. Indeed, a number of RCT demonstrated that a prolonged treatment with a moderate dose of GC, by downregulating the systemic and lung inflammation is essential for increasing the speed of the resolution of the disease and for restoring tissue homeostasis [23,24].",
+            "cite_spans": [
+                {
+                    "start": 583,
+                    "end": 585,
+                    "mention": "20",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 761,
+                    "end": 763,
+                    "mention": "21",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 922,
+                    "end": 924,
+                    "mention": "22",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 1181,
+                    "end": 1183,
+                    "mention": "23",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 1184,
+                    "end": 1186,
+                    "mention": "24",
+                    "ref_id": "BIBREF23"
+                }
+            ],
+            "section": "Glucocorticoids: treatment of COVID-19 ::: Introduction",
+            "ref_spans": []
+        },
+        {
+            "text": "In United States (US), the use of MP is considered for salvage therapy for the critical care teams, as a part of the standard of care (i.e., for an asthma or chronic obstructive pulmonary disease exacerbation, or shock with history of chronic steroid use[i]).",
+            "cite_spans": [],
+            "section": "Glucocorticoids: treatment of COVID-19 ::: Introduction",
+            "ref_spans": []
+        },
+        {
+            "text": "In United Kingdom, GC were not recommended and a RCT named RECOVERY (EudraCT number: 2020-001113-21[j]), is testing a variety of drugs, including single agent low dose DX, whose positive results were recently announced[b] (Table 1).",
+            "cite_spans": [],
+            "section": "Glucocorticoids: treatment of COVID-19 ::: Introduction",
+            "ref_spans": [
+                {
+                    "start": 223,
+                    "end": 230,
+                    "mention": "Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ]
+        },
+        {
+            "text": "To date 1324 trials for COVID-19 have been recorded on ClinicalTrials.gov and currently only 35 studies explore the use of GC alone or in association with other drugs for the treatment of patients with SARS-CoV-2 infection.",
+            "cite_spans": [],
+            "section": "Ongoing clinical trials ::: Introduction",
+            "ref_spans": []
+        },
+        {
+            "text": "All these studies involving GC are currently ongoing, with the exception of three studies: 1) a Chinese trial that has been permanently suspended because the epidemic of COVID-19 in China has been coming to an end (NCT04273321); 2) the NCT04244591 study from Beijing, which started on January 2020 and concluded the final data collection on April 13, 2020) and a 3) recently completed US observational retrospective trial which intends to study the role of early use of MP in the hospitalized patients with a diagnosis of COVID-19 pneumonia (NCT04374071). However, due to the extreme recentness and complexity of this disease, no results are still available from these studies.",
+            "cite_spans": [],
+            "section": "Ongoing clinical trials ::: Introduction",
+            "ref_spans": []
+        },
+        {
+            "text": "\nTable 2\nsummarizes the main clinical trials using GC as single agent therapy for the treatment of COVID-19 in at least one of their treatment arms.",
+            "cite_spans": [],
+            "section": "Ongoing clinical trials ::: Introduction",
+            "ref_spans": [
+                {
+                    "start": 1,
+                    "end": 8,
+                    "mention": "Table 2",
+                    "ref_id": "TABREF1"
+                }
+            ]
+        },
+        {
+            "text": "Considering the 27 studies listed in Table 2: 13 trials are currently recruiting, 10 are not yet recruiting, 2 are completed, 1 is suspended, and 1 is enrolling by invitation.",
+            "cite_spans": [],
+            "section": "Ongoing clinical trials ::: Introduction",
+            "ref_spans": [
+                {
+                    "start": 37,
+                    "end": 44,
+                    "mention": "Table 2",
+                    "ref_id": "TABREF1"
+                }
+            ]
+        },
+        {
+            "text": "Most of these studies are phase II trials ( = 10), followed by 7 phase III, 4 phase IV, 2 phase II/III, 2 observational and 1 phase I/II trial. No classification was provided for one study (NCT04344730).",
+            "cite_spans": [],
+            "section": "Ongoing clinical trials ::: Introduction",
+            "ref_spans": []
+        },
+        {
+            "text": "Almost all of the trials cited in Table 2 are randomized except for the 2 aforementioned observational studies (NCT04278404, NCT04374071) and 2 non-randomized trials (NCT04355247, NCT04323592); only 1 study is retrospective (NCT04374071).",
+            "cite_spans": [],
+            "section": "Ongoing clinical trials ::: Introduction",
+            "ref_spans": [
+                {
+                    "start": 34,
+                    "end": 41,
+                    "mention": "Table 2",
+                    "ref_id": "TABREF1"
+                }
+            ]
+        },
+        {
+            "text": "Monotherapy with GC was tested as an experimental arm in 23 trials while GC were used as standard control arm in the remaining 4 studies.",
+            "cite_spans": [],
+            "section": "Ongoing clinical trials ::: Introduction",
+            "ref_spans": []
+        },
+        {
+            "text": "The most commonly used GC is intravenous (IV) MP, followed by IV DX, IV hydrocortisone and prednisone administered per os. Interestingly, inhaled GC such as budesonide and ciclesonide are also tested in 4 and 3 trials respectively.",
+            "cite_spans": [],
+            "section": "Ongoing clinical trials ::: Introduction",
+            "ref_spans": []
+        },
+        {
+            "text": "Specifically, intravenous GC are being tested mainly in moderate or severe cases of COVID-19 (i.e. young and adult patients requiring non-invasive ventilation, O2 -dependent disease, subjects needing invasive intubation with mechanical ventilation for moderate/severe ARDS or immediately life-threatening patients admitted to ICU for acute hypoxemic respiratory failure and at high risk for cytokine/chemokine storm complications), while inhaled GC are tested in cases of mild disease, mainly for rehabilitation of hyposmia/anosmia that arose immediately after the upper respiratory COVID-19 infection or in patients with moderate symptoms with the aim to reduce the needs for O2 supplementation.",
+            "cite_spans": [],
+            "section": "Ongoing clinical trials ::: Introduction",
+            "ref_spans": []
+        },
+        {
+            "text": "The remaining eight studies that have not been included in Table 2 evaluate GC in association with other drugs as combinational therapies for the treatment of patients with SARS-CoV-2 infection.",
+            "cite_spans": [],
+            "section": "Ongoing clinical trials ::: Introduction",
+            "ref_spans": [
+                {
+                    "start": 59,
+                    "end": 66,
+                    "mention": "Table 2",
+                    "ref_id": "TABREF1"
+                }
+            ]
+        },
+        {
+            "text": "NCT04371601 is an early phase I randomized trial which explores the addition of umbilical cord mesenchymal stem cells to conventional treatments such as anti-viral, GC and O2 therapy versus the above-mentioned symptomatic therapies for patients with severe COVID-19 pneumonia.",
+            "cite_spans": [],
+            "section": "Ongoing clinical trials ::: Introduction",
+            "ref_spans": []
+        },
+        {
+            "text": "A French multicenter, randomized phase III trial (NCT04347980) is evaluating DX plus hydroxychloroquine in comparison to hydroxychloroquine alone for the treatment of SARS induced by COVID-19.",
+            "cite_spans": [],
+            "section": "Ongoing clinical trials ::: Introduction",
+            "ref_spans": []
+        },
+        {
+            "text": "Intriguingly, the COPERNICO study, a prospective, multicenter, randomized, open-label, phase II trial (NCT04335305), is assessing the efficacy of tocilizumab combined with pembrolizumab compared to standard care with glucocorticoid, tocilizumab, virally targeted agents, chloroquine or hydroxychloroquine and supplemental O2 in adult patients with COVID-19 pneumonia and bad prognostic factors who are non-responsive to frontline therapy within 48 hours from treatment initiation.",
+            "cite_spans": [],
+            "section": "Ongoing clinical trials ::: Introduction",
+            "ref_spans": []
+        },
+        {
+            "text": "The inhaled GC budesonide in combination with the \u03b22 agonist formoterol is under investigation in 2 randomized phase III trials (NCT04331470 and NCT04331054) with the aim to prevent an excessive local immune reaction in the respiratory system.",
+            "cite_spans": [],
+            "section": "Ongoing clinical trials ::: Introduction",
+            "ref_spans": []
+        },
+        {
+            "text": "MP in association with immunosuppressive drugs such as tacrolimus and thalidomide is being tested in a phase III (NCT04341038) and a phase II (NCT04273581) trial, respectively, in patients at high risk for cytokine storm development.",
+            "cite_spans": [],
+            "section": "Ongoing clinical trials ::: Introduction",
+            "ref_spans": []
+        },
+        {
+            "text": "Finally, the REMAP-CAP (Randomized Embedded Multifactorial Adaptive Platform Trial for CAP) is an adaptive research platform for the evaluation of multiple treatment modalities in the event of a respiratory pandemic resulting in critical illness, that has set-up a sub-platform called \u201cREMAP-COVID\u201d (NCT02735707) for the evaluation of specific treatments for COVID-19. In particular, the aim of this study is to assess the effect of a range of interventions including hydrocortisone to improve the outcome of patients with SARS-CoV-2 infection admitted to ICU.",
+            "cite_spans": [],
+            "section": "Ongoing clinical trials ::: Introduction",
+            "ref_spans": []
+        },
+        {
+            "text": "Synthetic GC represent a well-known, cheap, widely available and easily manageable class of drugs used in a variety of settings, particularly for their immunosuppressive activities. In this work, we have synthesized their principal mechanisms of action and their putative role in turning off an exaggerated immune response starting in the lung alveoli of 20% of patients that develop COVID-19.",
+            "cite_spans": [],
+            "section": "Conclusions",
+            "ref_spans": []
+        },
+        {
+            "text": "Despite a previous lack of evidence of a clear benefit for patient survival outcomes, GC have been used in clinical practice for the management of COVID-19 hospitalized patients, for their hypothetical benefit on respiratory function and consequently their potential effect on reducing the number of patients requiring invasive procedures (i.e., ventilation or intubation). Indeed, in such health emergency situation, clinicians have employed GC as an \u201caccepted\u201d therapy, for their reasonable expectation of success in the treatment of individual patients[k]. Thus, GC have been administered according to physician\u2019s judgment, based on the patient\u2019s best interest. To this end, the use of these immunosuppressive drugs has been considered reasonable despite the risk of developing adverse events and that of delaying the clearance of the virus, the resolution of the respiratory failure being the biggest issue in the phases IIb and III of COVID-19 patients. This intervention was reasonable when treating and individual patient, particularly when facing with the lack of effective drugs that had been proven to be effective so far in this disease. Thus physicians were ethically allowed to use an unproven intervention if they judged it helpful for saving lives, re-establishing health and alleviating suffering (Declaration of Helsinki[l]). However, this approach did not apply to the main purpose of research, which requires testing a hypothesis, giving rise to new generalizable knowledge[k]. A step forward would be represented by the publication of the results of the RECOVERY RCT[b], revealing a death risk reduction for patients on ventilators and on O2 therapy.",
+            "cite_spans": [],
+            "section": "Conclusions",
+            "ref_spans": []
+        },
+        {
+            "text": "Further, considering that in most of the institutions, GC have been given in association with other complementary compounds, such as anti-viral, anti-malarial and anti-rheumatic agents, serine protease inhibitors, IL blockers, and LMWH, nowadays it is difficult to evaluate whether the benefits for patients are associated with single versus the combination of all these drugs. In order to prove the efficacy of GC in the management of hospitalized COVID-19 patients, it would have been necessary the design of phase III RCT with at least two arms, one including standard treatment plus GC versus one including standard treatment plus a placebo, and to further conduct subgroup analyses by age, comorbidities and, as previously said the possible use of other complementary drugs.",
+            "cite_spans": [],
+            "section": "Conclusions",
+            "ref_spans": []
+        },
+        {
+            "text": "In this situation of public health emergency with such a severe life-threatening infection, it had been very hard to plan and wait for results from RCT (i.e., will it be ethically correct to exclude patients from GC treatment?), rendering it a priority to employ drugs that can support the vital functions of sick people in rapid times. Other issues related to starting clinical trials in this context we acknowledge: 1) The choice of the treatment (old and manageable drugs with well known safety profiles are preferably used with respect to new treatments; but will these old drugs will be administered at the same doses? Or at different doses and treatment schedules?); 2) The selection of patients (at which stage of the disease? In seriously ill versus those with low/mild symptoms? Will seriously ill patients be able to provide an informed consent? Will relatives be allowed to do that, also considering the rules of prevention of the spread of this infection?); 3) Clinical trial design: the ideal setting would be double blinded RCT, but is there time to produce an adequate placebo for the standard treatment arm? Will the design of the trial be feasible once the number of cases will diminish during the course of the epidemic[l]?",
+            "cite_spans": [],
+            "section": "Conclusions",
+            "ref_spans": []
+        },
+        {
+            "text": "Moving to the clinical practice, hopefully in the near future, when the incidence and prevalence of the disease will decrease, the diagnosis of SARS-CoV-2 infection would be performed at earlier stages, the expertise in the management of the disease will be increased, observations from retrospective analyses and results from clinical trials will be much more numerous, researchers will have clearer ideas on which topics and questions still need to be more clearly addressed.",
+            "cite_spans": [],
+            "section": "Conclusions",
+            "ref_spans": []
+        },
+        {
+            "text": "This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors.",
+            "cite_spans": [],
+            "section": "Funding sources",
+            "ref_spans": []
+        },
+        {
+            "text": "NP reports personal fees from SHIONOGI Ltd, personal fees from MSD, personal fees from Becton & Dickinson, personal fees from Pfizer, personal fees from Cepheid, outside the submitted work.",
+            "cite_spans": [],
+            "section": "Declaration of Competing Interest",
+            "ref_spans": []
+        },
+        {
+            "text": "All other authors (CS, LP, MA, and EM) have no conflict of interest to declare.",
+            "cite_spans": [],
+            "section": "Declaration of Competing Interest",
+            "ref_spans": []
+        }
+    ],
+    "ref_entries": {
+        "TABREF0": {
+            "text": "Table 1: Synthetic glucocorticoids (GC) employed in the treatment of patients with COVID-19 in China, Italy, United States (US) and United Kingdom (UK).\n",
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Table 2: Ongoing clinical trials testing GC in COVID-19.\n",
+            "type": "table"
+        },
+        "FIGREF0": {
+            "text": "Fig. 1: Physiology and pathophysiology of pulmonary alveoli during SARS-CoV-2 infection. (A) Anatomy and physiology of healthy pulmonary alveoli, representing small air spaces in the lungs where carbon dioxide leaves and oxygen enters the blood. During inhalation air enters the lungs, travels through bronchi, bronchioles and then flows into approximately 300,000,000 alveoli. During exhalation, the carbon-dioxide-laden air is forced out of the alveoli through the same passageways. (B) Pathophysiology of pulmonary alveoli during SARS-CoV-2 infection. Infection of the novel Coronavirus, named SARS-CoV-2 generates an epithelial damage, followed by an immune response that is generated by a cytokine and chemokine release. This could lead to immune cell activation that might give rise to either resolution and severe COVID-19 with the consequent development of ARDS and of multi-organ failure. (C) Severe COVID-19: immune biological aspects. A sustained cytokine storm generates an inflammation that causes damage to the alveolar epithelium, giving rise to ARDS, shock, kidney injury, other organs failure and secondary infection. Legend: ARDS: Adult Respiratory Distress Syndrome; CCL: C-C motif chemokine ligand; CXCL: C-X-C motif chemokine ligand; CO2: carbon dioxide; COVID-19: CoronaVirus Disease-19; GC: glucocorticoid; GM-CSF: granulocyte-monocyte colony stimulating factor;",
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Fig. 2: Severity and phases of COVID-19. (A) COVID-19 severity: frequency of degrees of clinical manifestations in a Chinese cohort (>44.000 patients) (ref: Wu Z. et al, 2020). (B) Phases of COVID-19 disease and timing for the use of glucocorticoids. Legend: ARDS: Adult Respiratory Distress Syndrome; COVID-19: CoronaVirus Disease-19; MOF: multi-organ failure; pts: patients; SIRS: systemic inflammatory response syndrome.",
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Fig. 3: Mechanisms of action of synthetic glucocorticoids (GC). (A) Genomic mechanism. (B) Non-genomic mechanism. Legend: GC: glucocorticoid; GCR: glucocorticoid receptor; mRNA: messanger RNA; TF: transcription factor.",
+            "type": "figure"
+        }
+    },
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Critical Care Utilization for the COVID-19 Outbreak in Lombardy, Italy: Early Experience and Forecast During an Emergency Response",
+            "authors": [
+                {
+                    "first": "G.",
+                    "middle": [],
+                    "last": "Grasselli",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Pesenti",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Cecconi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "JAMA",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF1": {
+            "title": "Clinical course and outcomes of critically ill patients with SARS-CoV-2 pneumonia in Wuhan, China: a single-centered, retrospective, observational study",
+            "authors": [
+                {
+                    "first": "X.",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Shu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.a.",
+                    "middle": [],
+                    "last": "Xia",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Fang",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Pan",
+                    "suffix": ""
+                },
+                {
+                    "first": "X.",
+                    "middle": [],
+                    "last": "Zou",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Yuan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Shang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "The Lancet Respiratory Medicine",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF2": {
+            "title": "COVID-19: consider cytokine storm syndromes and immunosuppression",
+            "authors": [
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Mehta",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.F.",
+                    "middle": [],
+                    "last": "McAuley",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Brown",
+                    "suffix": ""
+                },
+                {
+                    "first": "E.",
+                    "middle": [],
+                    "last": "Sanchez",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.S.",
+                    "middle": [],
+                    "last": "Tattersall",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.J.",
+                    "middle": [],
+                    "last": "Manson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "The Lancet",
+            "volume": "395",
+            "issn": "10229",
+            "pages": "1033-1034",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF3": {
+            "title": "Characteristics of lymphocyte subsets and cytokines in peripheral blood of 123 hospitalized patients with 2019 novel coronavirus pneumonia (NCP)",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Wan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q.",
+                    "middle": [],
+                    "last": "Yi",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Fan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Lv",
+                    "suffix": ""
+                },
+                {
+                    "first": "X.",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Guo",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Lang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q.",
+                    "middle": [],
+                    "last": "Xiao",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Xiao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.",
+                    "middle": [],
+                    "last": "Yi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Qiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Xiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "medRxiv",
+            "volume": "2020",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF4": {
+            "title": "Risk Factors Associated With Acute Respiratory Distress Syndrome and Death in Patients With Coronavirus Disease 2019 Pneumonia in Wuhan, China",
+            "authors": [
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X.",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Cai",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.a.",
+                    "middle": [],
+                    "last": "Xia",
+                    "suffix": ""
+                },
+                {
+                    "first": "X.",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X.",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Du",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Song",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Chao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X.",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.",
+                    "middle": [],
+                    "last": "Xiong",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Bai",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Zheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Song",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "JAMA Intern Med",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF5": {
+            "title": "COVID-19 infection and rheumatoid arthritis: Faraway, so close!",
+            "authors": [
+                {
+                    "first": "E.G.",
+                    "middle": [],
+                    "last": "Favalli",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.",
+                    "middle": [],
+                    "last": "Ingegnoli",
+                    "suffix": ""
+                },
+                {
+                    "first": "O.",
+                    "middle": [],
+                    "last": "De Lucia",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [],
+                    "last": "Cincinelli",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Cimaz",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Caporali",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Autoimmunity Reviews",
+            "volume": "19",
+            "issn": "5",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF6": {
+            "title": "Pharmacologic Characteristics of Corticosteroids",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Samuel",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Nguyen",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.A.",
+                    "middle": [],
+                    "last": "Choi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "J Neurocrit Care",
+            "volume": "10",
+            "issn": "2",
+            "pages": "53-59",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF7": {
+            "title": "Pharmacologic Treatments for Coronavirus Disease 2019 (COVID-19): A Review",
+            "authors": [
+                {
+                    "first": "J.M.",
+                    "middle": [],
+                    "last": "Sanders",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.L.",
+                    "middle": [],
+                    "last": "Monogue",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.Z.",
+                    "middle": [],
+                    "last": "Jodlowski",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.B.",
+                    "middle": [],
+                    "last": "Cutrell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "JAMA",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF8": {
+            "title": "Associations between immune-suppressive and stimulating drugs and novel COVID-19\u2014a systematic review of current evidence",
+            "authors": [
+                {
+                    "first": "B.",
+                    "middle": [],
+                    "last": "Russell",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Moss",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [],
+                    "last": "George",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Santaolalla",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Cope",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Papa",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Van Hemelrijck",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "ecancer",
+            "volume": "14",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF9": {
+            "title": "COVID-19 and treatment with NSAIDs and corticosteroids: should we be limiting their use in the clinical setting?",
+            "authors": [
+                {
+                    "first": "B.",
+                    "middle": [],
+                    "last": "Russell",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Moss",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Rigg",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Van Hemelrijck",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "ecancer",
+            "volume": "14",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF10": {
+            "title": "Early Enhanced Expression of Interferon-Inducible Protein-10 (CXCL-10) and Other Chemokines Predicts Adverse Outcome in Severe Acute Respiratory Syndrome",
+            "authors": [
+                {
+                    "first": "N.L.-S.",
+                    "middle": [],
+                    "last": "Tang",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.K.-S.",
+                    "middle": [],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.-K.",
+                    "middle": [],
+                    "last": "Wong",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.-F.",
+                    "middle": [],
+                    "last": "To",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.K.-L.",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.-M.",
+                    "middle": [],
+                    "last": "Sung",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.S.-C.",
+                    "middle": [],
+                    "last": "Hui",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.J.-Y.",
+                    "middle": [],
+                    "last": "Sung",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.W.-K.",
+                    "middle": [],
+                    "last": "Lam",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Clinical Chemistry",
+            "volume": "51",
+            "issn": "12",
+            "pages": "2333-2340",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF11": {
+            "title": "Corticosteroid Therapy for Critically Ill Patients with Middle East Respiratory Syndrome",
+            "authors": [
+                {
+                    "first": "Y.M.",
+                    "middle": [],
+                    "last": "Arabi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Mandourah",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.",
+                    "middle": [],
+                    "last": "Al-Hameed",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.A.",
+                    "middle": [],
+                    "last": "Sindi",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.A.",
+                    "middle": [],
+                    "last": "Almekhlafi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.A.",
+                    "middle": [],
+                    "last": "Hussein",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Jose",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Pinto",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Al-Omari",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Kharaba",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Almotairi",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Al Khatib",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.",
+                    "middle": [],
+                    "last": "Alraddadi",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Shalhoub",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Abdulmomen",
+                    "suffix": ""
+                },
+                {
+                    "first": "I.",
+                    "middle": [],
+                    "last": "Qushmaq",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Mady",
+                    "suffix": ""
+                },
+                {
+                    "first": "O.",
+                    "middle": [],
+                    "last": "Solaiman",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.M.",
+                    "middle": [],
+                    "last": "Al-Aithan",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Al-Raddadi",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Ragab",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.H.",
+                    "middle": [],
+                    "last": "Balkhy",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Al Harthy",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.M.",
+                    "middle": [],
+                    "last": "Deeb",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Al Mutairi",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Al-Dawood",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Merson",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.G.",
+                    "middle": [],
+                    "last": "Hayden",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.A.",
+                    "middle": [],
+                    "last": "Fowler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "American Journal of Respiratory and Critical Care Medicine",
+            "volume": "197",
+            "issn": "6",
+            "pages": "757-767",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF12": {
+            "title": "SARS: Systematic Review of Treatment Effects",
+            "authors": [
+                {
+                    "first": "L.J.",
+                    "middle": [],
+                    "last": "Stockman",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Bellamy",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Garner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "PLoS Med",
+            "volume": "3",
+            "issn": "9",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF13": {
+            "title": "Middle East respiratory syndrome",
+            "authors": [
+                {
+                    "first": "Z.A.",
+                    "middle": [],
+                    "last": "Memish",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Perlman",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.D.",
+                    "middle": [],
+                    "last": "Van Kerkhove",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Zumla",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "The Lancet",
+            "volume": "395",
+            "issn": "10229",
+            "pages": "1063-1077",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF14": {
+            "title": "Clinical evidence does not support corticosteroid treatment for 2019-nCoV lung injury",
+            "authors": [
+                {
+                    "first": "C.D.",
+                    "middle": [],
+                    "last": "Russell",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.E.",
+                    "middle": [],
+                    "last": "Millar",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.K.",
+                    "middle": [],
+                    "last": "Baillie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "The Lancet",
+            "volume": "395",
+            "issn": "10223",
+            "pages": "473-475",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF15": {
+            "title": "Pharmacological Properties and Principles of Corticosteroid Use",
+            "authors": [
+                {
+                    "first": "D.H.P.",
+                    "middle": [],
+                    "last": "Streeten",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Phil",
+                    "suffix": ""
+                },
+                {
+                    "first": "I.",
+                    "middle": [],
+                    "last": "Corticosteroid Therapy",
+                    "suffix": ""
+                }
+            ],
+            "year": 1975,
+            "venue": "Trends in Therapy",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF16": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Hodgens",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Sharman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF17": {
+            "title": "Steroids: Pharmacology, Complications, and Practice Delivery Issues",
+            "authors": [
+                {
+                    "first": "W.",
+                    "middle": [],
+                    "last": "Ericson-Neilsen",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.D.",
+                    "middle": [],
+                    "last": "Kaye",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "The Ochsner Journal",
+            "volume": "14",
+            "issn": "2",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF18": {
+            "title": "A practical guide to the monitoring and management of the complications of systemic corticosteroid therapy",
+            "authors": [
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Ahmet",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Ward",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Krishnamoorthy",
+                    "suffix": ""
+                },
+                {
+                    "first": "E.D.",
+                    "middle": [],
+                    "last": "Mandelcorn",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Leigh",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.P.",
+                    "middle": [],
+                    "last": "Brown",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Cohen",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Allergy Asthma Clin Immunol",
+            "volume": "9",
+            "issn": "1",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF19": {
+            "title": "Dexamethasone treatment for the acute respiratory distress syndrome: a multicentre, randomised controlled trial",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Villar",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Ferrando",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Mart\u00ednez",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Ambr\u00f3s",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Mu\u00f1oz",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.A.",
+                    "middle": [],
+                    "last": "Soler",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [],
+                    "last": "Aguilar",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.",
+                    "middle": [],
+                    "last": "Alba",
+                    "suffix": ""
+                },
+                {
+                    "first": "E.",
+                    "middle": [],
+                    "last": "Gonz\u00e1lez-Higueras",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.A.",
+                    "middle": [],
+                    "last": "Conesa",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Mart\u00edn-Rodr\u00edguez",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.J.",
+                    "middle": [],
+                    "last": "D\u00edaz-Dom\u00ednguez",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Serna-Grande",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Rivas",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Ferreres",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Belda",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Capilla",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Tallet",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.M.",
+                    "middle": [],
+                    "last": "A\u00f1\u00f3n",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.L.",
+                    "middle": [],
+                    "last": "Fern\u00e1ndez",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.M.",
+                    "middle": [],
+                    "last": "Gonz\u00e1lez-Mart\u00edn",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [],
+                    "last": "Aguilar",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.",
+                    "middle": [],
+                    "last": "Alba",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "\u00c1lvarez",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Ambr\u00f3s",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.M.",
+                    "middle": [],
+                    "last": "A\u00f1\u00f3n",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.J.",
+                    "middle": [],
+                    "last": "Asensio",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Belda",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Blanco",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Blasco",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Cachafeiro",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "del Campo",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Capilla",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.A.",
+                    "middle": [],
+                    "last": "Carbonell",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.",
+                    "middle": [],
+                    "last": "Carbonell",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Cari\u00f1ena",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Carriedo",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Chico",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.A.",
+                    "middle": [],
+                    "last": "Conesa",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Corpas",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Cuervo",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.J.",
+                    "middle": [],
+                    "last": "D\u00edaz-Dom\u00ednguez",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Dom\u00ednguez-Antelo",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Fern\u00e1ndez",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.L.",
+                    "middle": [],
+                    "last": "Fern\u00e1ndez",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Ferrando",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Ferreres",
+                    "suffix": ""
+                },
+                {
+                    "first": "E.",
+                    "middle": [],
+                    "last": "Gamboa",
+                    "suffix": ""
+                },
+                {
+                    "first": "E.",
+                    "middle": [],
+                    "last": "Gonz\u00e1lez-Higueras",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.I.",
+                    "middle": [],
+                    "last": "Gonz\u00e1lez-Luengo",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.M.",
+                    "middle": [],
+                    "last": "Gonz\u00e1lez-Mart\u00edn",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Mart\u00ednez",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Mart\u00edn-Rodr\u00edguez",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Mu\u00f1oz",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Ortiz D\u00edaz-Miguel",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "P\u00e9rez-Gonz\u00e1lez",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.M.",
+                    "middle": [],
+                    "last": "Prieto",
+                    "suffix": ""
+                },
+                {
+                    "first": "I.",
+                    "middle": [],
+                    "last": "Prieto",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Rivas",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Rojas-Viguera",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.A.",
+                    "middle": [],
+                    "last": "Romera",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "S\u00e1nchez-Ballesteros",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.M.",
+                    "middle": [],
+                    "last": "Segura",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Serna-Grande",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Serrano",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Solano",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.A.",
+                    "middle": [],
+                    "last": "Soler",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Soro",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Tallet",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Villar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "The Lancet Respiratory Medicine",
+            "volume": "8",
+            "issn": "3",
+            "pages": "267-276",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF20": {
+            "title": "National Institute for the Infectious Diseases \u201cL. Spallanzani\u201d IRCCS. Recommendations for COVID-19 Clinical Management",
+            "authors": [
+                {
+                    "first": "E.",
+                    "middle": [],
+                    "last": "Nicastri",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.",
+                    "middle": [],
+                    "last": "Petrosillo",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [],
+                    "last": "Ippolito",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [],
+                    "last": "D\u2019Offizi",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Marchioni",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Ascoli Bartoli",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Lepore",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Mondi",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Murachelli",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Antinori",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Infect Dis Rep",
+            "volume": "12",
+            "issn": "1",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF21": {
+            "title": "Hydrocortisone Infusion for Severe Community-acquired Pneumonia: A Preliminary Randomized Study",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Confalonieri",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Urbino",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Potena",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Piattella",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Parigi",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [],
+                    "last": "Puccio",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Della Porta",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Giorgio",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.",
+                    "middle": [],
+                    "last": "Blasi",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Umberger",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.U.",
+                    "middle": [],
+                    "last": "Meduri",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "American Journal of Respiratory and Critical Care Medicine",
+            "volume": "171",
+            "issn": "3",
+            "pages": "242-248",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF22": {
+            "title": "Effect of glucocorticoids on mortality in patients with acute respiratory distress syndrome: A meta\u2011analysis",
+            "authors": [
+                {
+                    "first": "Q.",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.X.",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q.",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.Y.",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.S.",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Exp Ther Med",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF23": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Torres",
+                    "suffix": ""
+                },
+                {
+                    "first": "O.",
+                    "middle": [],
+                    "last": "Sibila",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Ferrer",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Mendendez",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Mensa",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Gabarrus",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Sellares",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Restrepo",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Anzueto",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.",
+                    "middle": [],
+                    "last": "Niederman",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Agusti",
+                    "suffix": ""
+                },
+                {
+                    "first": "E.",
+                    "middle": [],
+                    "last": "Polverino",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Annual Congress 2015, European Respiratory Society",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF24": {
+            "title": "Corticosteroids as adjunctive therapy in the treatment of influenza",
+            "authors": [
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Rodrigo",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Leonardi-Bee",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Nguyen-Van-Tam",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.S.",
+                    "middle": [],
+                    "last": "Lim",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Cochrane Database of Systematic Reviews",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF25": {
+            "title": "The influence of corticosteroid treatment on the outcome of influenza A(H1N1pdm09)-related critical illness",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "H.N.C. on behalf of the Canadian Critical Care Trials Group",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.W.",
+                    "middle": [],
+                    "last": "Delaney",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Pinto",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Long",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.",
+                    "middle": [],
+                    "last": "Lamontagne",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.K.",
+                    "middle": [],
+                    "last": "Adhikari",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Kumar",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.C.",
+                    "middle": [],
+                    "last": "Marshall",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.J.",
+                    "middle": [],
+                    "last": "Cook",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Jouvet",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.D.",
+                    "middle": [],
+                    "last": "Ferguson",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Griesdale",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.D.",
+                    "middle": [],
+                    "last": "Burry",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.E.A.",
+                    "middle": [],
+                    "last": "Burns",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Hutchison",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Mehta",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Menon",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.A.",
+                    "middle": [],
+                    "last": "Fowler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Crit Care",
+            "volume": "20",
+            "issn": "1",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF26": {
+            "title": "Infectious Diseases Society of America Guidelines on the Treatment and Management of Patients with COVID-19",
+            "authors": [
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Bhimraj",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.L.",
+                    "middle": [],
+                    "last": "Morgan",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.H.",
+                    "middle": [],
+                    "last": "Shumaker",
+                    "suffix": ""
+                },
+                {
+                    "first": "V.",
+                    "middle": [],
+                    "last": "Lavergne",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Baden",
+                    "suffix": ""
+                },
+                {
+                    "first": "V.C.-C.",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.M.",
+                    "middle": [],
+                    "last": "Edwards",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Gandhi",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.J.",
+                    "middle": [],
+                    "last": "Muller",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.C.",
+                    "middle": [],
+                    "last": "O\u2019Horo",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Shoham",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.H.",
+                    "middle": [],
+                    "last": "Murad",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.A.",
+                    "middle": [],
+                    "last": "Mustafa",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Sultan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Falck-Ytter",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Clinical Infectious Diseases",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        }
+    }
+}

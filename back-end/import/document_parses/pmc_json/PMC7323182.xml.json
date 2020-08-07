@@ -1,0 +1,202 @@
+{
+    "paper_id": "PMC7323182",
+    "metadata": {
+        "title": "Use of amantadine in a patient with SARS\u2010CoV\u20102",
+        "authors": [
+            {
+                "first": "Gonzalo",
+                "middle": [
+                    "Emiliano"
+                ],
+                "last": "Aranda\u2010Abreu",
+                "suffix": "",
+                "email": "garanda@uv.mx",
+                "affiliation": {}
+            },
+            {
+                "first": "Jos\u00e9",
+                "middle": [
+                    "Dolores"
+                ],
+                "last": "Aranda\u2010Mart\u00ednez",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Ramiro",
+                "middle": [],
+                "last": "Ara\u00fajo",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [
+        {
+            "text": "A 57\u2010year\u2010old man with cold symptoms and muscle pain, with elevated blood glucose of 200 mg/dL, was prescribed paracetamol (500 mg every 6 hours) and naproxen (550 mg daily for 5 days) and continued to take 850 mg of metformin twice a day for the treatment of 10\u2010year\u2010old type 2 diabetes. Due to a persistent cough, 500 mg of azithromycin was added for 3 days, but the symptoms continued, and he had to go to his community hospital, where he got a pharyngeal exudate, to do a real\u2010time polymerase chain reaction test for severe acute respiratory syndrome coronavirus 2 (SARS\u2010CoV\u20102) which was positive.",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "His oxygen saturation was 84%, and he was given oxygen through a face mask. He was prescribed amantadine 100 mg twice daily and nebulized with Ipratropium bromide, salbutamol (0.5 mg, 2.5 mg/2.5 mL) for 5 days. About 500 mg of oral aspirin was added for 5 days.",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "Asymptomatic family members (wife and daughter 54 and 33 years old, respectively) positive for SARS\u2010CoV\u20102 were prescribed amantadine 100 mg twice daily for 14 days as a preventive measure.",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "The patient's clinical status improved, and oxygen saturation levels gradually improved with combination therapy. By the 6th day, the patient could virtually breathe without the need for oxygen supplementation. The patient was released on the 14th day of treatment.",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "The protocol we follow is in the following Table 1.",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": [
+                {
+                    "start": 49,
+                    "end": 50,
+                    "mention": "1",
+                    "ref_id": "TABREF0"
+                }
+            ]
+        },
+        {
+            "text": "Family members (wife and daughter) who were in contact with the patient and also tested positive for SARS\u2010CoV\u20102 took amantadine\n1\n 100 mg twice a day for 14 days and did not develop symptoms.",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "Based on successful results in this patient, amantadine can alleviate the SARS\u2010CoV\u20102 in patients with comorbidity of type 2 diabetes and also may be beneficial in preventing progression of infected asymptomatic family members.",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "The use of amantadine may reduce the toxic effects of coronavirus disease\u20102019, including acute respiratory distress syndrome (ARDS) and viral replication\n2\n and ventilator dependency.",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "Amantadine may prevent the development of symptoms in asymptomatic infected persons and reduce the number of deaths.",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "The combination of hydroxychloroquine and azithromycin may have issues with safety,\n3\n so amantadine could be a safer alternative.",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "We have used amantadine in private practice to treat SARS\u2010CoV\u20102 infected patients who have recovered without the need for hospitalization or the use of a ventilator.",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "Amantadine is relatively safe and appears to be effective in treating patients with SARS\u2010CoV\u20102.",
+            "cite_spans": [],
+            "section": "CONCLUSION",
+            "ref_spans": []
+        },
+        {
+            "text": "It could be used as a preventive or prophylactic agent in people who have been exposed to the virus.\n4\n\n",
+            "cite_spans": [],
+            "section": "CONCLUSION",
+            "ref_spans": []
+        },
+        {
+            "text": "In the absence of a vaccine and unavailability of antiviral medicines being used in clinical trials, amantadine may have potential for treating patients with SARS\u2010CoV\u20102, even with type 2 diabetes as comorbidity, preventing progression to ARDS with the necessity for assisted ventilation and may also have potential for utilization as preventive or prophylactic for development of infection in persons who have been exposed to the virus.",
+            "cite_spans": [],
+            "section": "CONCLUSION",
+            "ref_spans": []
+        },
+        {
+            "text": "It is possible side effects of amantadine, which can be serious, and also that clinical trials utilizing amantadine would be necessary to determine it is overall effectiveness in population of patients.",
+            "cite_spans": [],
+            "section": "CONCLUSION",
+            "ref_spans": []
+        },
+        {
+            "text": "We would like to thank the family who allowed us to write the information about this treatment.",
+            "cite_spans": [],
+            "section": "CONCLUSION",
+            "ref_spans": []
+        }
+    ],
+    "ref_entries": {
+        "TABREF0": {
+            "text": "Table 1: Treatment protocol of a patient with SARS\u2010CoV\u20102\n",
+            "type": "table"
+        }
+    },
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Amantadine as a drug to mitigate the effects of COVID\u201019",
+            "authors": [],
+            "year": 2020,
+            "venue": "Med Hypotheses",
+            "volume": "140",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF1": {
+            "title": "The potential of memantine and related adamantanes such as amantadine, to reduce the neurotoxic effects of COVID\u201019, including ARDS and to reduce viral replication through lysosomal effects [published online ahead of print May 21, 2020]",
+            "authors": [],
+            "year": null,
+            "venue": "J Med Virol",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1002/jmv.26030"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "Effect of high vs low doses of chloroquine diphosphate as adjunctive therapy for patients hospitalized with severe acute respiratory syndrome coronavirus 2 (SARS\u2010CoV\u20102) infection: a randomized clinical trial",
+            "authors": [],
+            "year": 2020,
+            "venue": "JAMA Netw Open",
+            "volume": "3",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF3": {
+            "title": "Does amantadine have a protective effect against COVID\u201019 [published online ahead of print June 04, 2020]",
+            "authors": [],
+            "year": null,
+            "venue": "Neurol Neurochir Pol",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.5603/PJNNS.a2020.0041"
+                ]
+            }
+        }
+    }
+}

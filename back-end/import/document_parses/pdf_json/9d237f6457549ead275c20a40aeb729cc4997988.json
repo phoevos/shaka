@@ -1,0 +1,847 @@
+{
+    "paper_id": "9d237f6457549ead275c20a40aeb729cc4997988",
+    "metadata": {
+        "title": "Safe use of paracetamol and high-dose NSAID analgesia in dentistry during the COVID-19 pandemic",
+        "authors": [
+            {
+                "first": "Alexander",
+                "middle": [
+                    "J"
+                ],
+                "last": "Crighton",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Catherine",
+                "middle": [
+                    "T"
+                ],
+                "last": "Mccann",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Elizabeth",
+                "middle": [
+                    "J"
+                ],
+                "last": "Todd",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Alyson",
+                "middle": [
+                    "J"
+                ],
+                "last": "Brown",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "Both ibuprofen and diclofenac are safe medicines if used appropriately in healthy adult patients. 1 In the current Scottish Dental Clinical Effectiveness Programme (SDCEP) COVID-19 recommendations for dental care, 2 dentists are being advised to offer advice, analgesia and antibiotics (AAA) to patients, where indicated. Many patients will experience a delay in operative emergency treatment, resulting in longer courses and higher doses of non-steroidal anti-inflammatory drug (NSAID) analgesic use than are familiar to dentists. Table 1 shows suggested analgesic regimes in primary care for moderate and severe dental pain in adults, but the aim is to prescribe and advise the lowest effective dose for the shortest duration needed. Dentists must be aware of the adverse effects and medical cautions in these circumstances in order to safely advise their patients and to know when it is appropriate to liaise with the patient's GP for provision of analgesia. The National Institute for Health and Care Excellence (NICE) guidance on the use of NSAIDs in patients with pre-existing medical conditions is available, 3 and the British National Formulary (BNF) and the BNF App are available for guidance.",
+            "cite_spans": [
+                {
+                    "start": 98,
+                    "end": 99,
+                    "text": "1",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 1116,
+                    "end": 1117,
+                    "text": "3",
+                    "ref_id": "BIBREF2"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 532,
+                    "end": 539,
+                    "text": "Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Introduction"
+        },
+        {
+            "text": "Currently there is no guidance in the literature suggesting that changes should be made to analgesia regimes for dental patients with COVID symptoms nor to support avoiding ibuprofen in this group, despite the large numbers infected since the virus was first reported. At present, the same analgesic plan should be used for both COVID-positive and negative primary care patients (Fig. 1) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 379,
+                    "end": 387,
+                    "text": "(Fig. 1)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Analgesia in dental patients with COVID-19"
+        },
+        {
+            "text": "Paracetamol is a safe analgesic taken up to the recommended doses and is the first analgesic that dentists should recommend. It is the best choice in patients with liver and kidney disease, although the dose may have to be reduced in severe liver disease. 4 Dentists must be aware of the risk of accidental paracetamol overdose in persisting severe dental pain. This risk is higher in patients with a body weight under 50 kg and patients with pre-existing liver disease. Patients may not be aware of the paracetamol content of some over-the-counter analgesics and may combine them with generic paracetamol. Siddique et al. 5 found that dental pain was the largest cause of accidental paracetamol overdose in a large case series. If more than 8 x 500 mg equivalent dose of paracetamol is found to have been taken",
+            "cite_spans": [
+                {
+                    "start": 256,
+                    "end": 257,
+                    "text": "4",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 623,
+                    "end": 624,
+                    "text": "5",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Paracetamol"
+        },
+        {
+            "text": "For moderate dental pain in adults, an appropriate five-day regimen is either:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Dental pain Treatment"
+        },
+        {
+            "text": "Paracetamol: 2 x 500 mg tablets up to four times daily (ie every four to six hours), or Ibuprofen: 2 x 200 mg tablets up to four times daily (ie every four to six hours), preferably after food",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Dental pain Treatment"
+        },
+        {
+            "text": "For severe dental pain in adults, an appropriate fiveday regimen is either:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Dental pain Treatment"
+        },
+        {
+            "text": "Increase the dose of ibuprofen to 3 x 200 mg tablets up to four times daily, preferably after food, or Ibuprofen and paracetamol together without exceeding the standard daily dose or frequency for either drug, or Diclofenac (1 x 50 mg tablet three times daily) and paracetamol together without exceeding the recommended daily dose or frequency for either drug The threshold is lower in children and will vary with the child's weight. The local paediatric emergency department will advise if the dentist is unsure whether the child is at risk.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Dental pain Treatment"
+        },
+        {
+            "text": "Paracetamol combined with codeine is an effective analgesic for moderate to severe dental pain 6 and is available as co-codamol in two formulations -8/500 and 15/500. The first number refers to the codeine dose in each tablet and the second refers to the paracetamol dose. Neither can be prescribed by a dentist, but the lower strength (8/500) is available to buy from pharmacies without prescription. If the higher strength (15/500) is needed, the dentist should liaise with the patient's GP. Solpadeine Max contains 12.8/500 codeine and paracetamol, and is available from pharmacies without prescription.",
+            "cite_spans": [
+                {
+                    "start": 95,
+                    "end": 96,
+                    "text": "6",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Paracetamol with codeine"
+        },
+        {
+            "text": "In healthy individuals, NSAID medicines can be safe for treating moderate to severe dental pain such as ibuprofen in doses up to 2,400 mg/day. In all patient groups, the lowest effective dose for the shortest period practical should be given, but with certain medical conditions or risks, NSAIDs should only be used with caution or at a reduced dosage. The need to continue the use of NSAIDs should be reviewed at least every two weeks, and may require the advice of and monitoring from the patient's GP if the dentist has concern about extended treatment. The guidance below is to help the dentist identify patients in whom higher-dose ibuprofen (600 mg three or four times daily) or diclofenac at any dose should be approached with caution. High doses of NSAIDs must be used with great caution in the elderly and the GP should be consulted if the dentist is in any doubt about the safety of using these medicines in a particular patient.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "NSAIDs"
+        },
+        {
+            "text": "Patients taking NSAID medicines for preexisting conditions such as arthritis should not routinely be given ibuprofen or diclofenac as additional analgesia. 3 If analgesia is required beyond maximum paracetamol dose, treatment needs to be in conjunction with the GP who can offer 30/500 co-codamol or another opioid. Patients taking low-dose daily aspirin (75 mg/day) for cardiovascular protection can be given NSAIDs if they have none of the other NSAID contraindications below, 7 but only if another analgesic is not possible and the dose of ibuprofen should be restricted to 1,200 mg maximum. 3 There is some evidence that ibuprofen in higher doses may reduce the antiplatelet benefit of low-dose aspirin and diclofenac may be preferred when severe dental pain is being treated. 8",
+            "cite_spans": [
+                {
+                    "start": 156,
+                    "end": 157,
+                    "text": "3",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 595,
+                    "end": 596,
+                    "text": "3",
+                    "ref_id": "BIBREF2"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Patients with existing NSAID use including low-dose aspirin"
+        },
+        {
+            "text": "Patients taking novel oral anticoagulant (NOAC) medicines such as apixaban, rivaroxaban, dabigatran and edoxaban can take NSAIDs as suggested for moderate and severe dental pain, 9,10 but they will have enhanced post-extraction bleeding due to the NSAID's inhibiting platelet function. Standard post-extraction haemorrhage precautions will control this in most cases and the use of the NSAID must be reviewed after two weeks.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Oral anticoagulant medicines and patients with bleeding tendencies"
+        },
+        {
+            "text": "Warfarinised patients have a significant risk of drug interactions with all NSAIDs and they should not be used unless international normalised ratio (INR) monitoring is available to the patient. 11 Be aware that INR monitoring services may be reduced currently. The availability of this for an individual patient should be discussed with the GP. However, where possible, an alternative analgesia regime should be given via the GP, such as 30/500 co-codamol or other opioid. Patients who have significant bleeding tendencies such as haemophilia should not be given NSAIDs without the prior approval from their haematologist.",
+            "cite_spans": [
+                {
+                    "start": 195,
+                    "end": 197,
+                    "text": "11",
+                    "ref_id": "BIBREF10"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Oral anticoagulant medicines and patients with bleeding tendencies"
+        },
+        {
+            "text": "Known allergy to NSAID, history of angioedema and chronic renal failure NSAIDs should not be used in these patient groups and the dentist should contact the patient's GP to discuss alternative analgesic options. Renal failure can be made quickly worse by the use of NSAID medicines. 12 Common groups to have renal failure include patients with diabetes mellitus (type 1 and Manage with standard analgesic regime as Table 1 Read text for CAUTIONS in specific medical problems and medication use. Fig. 1 Analgesic plan for patients with dental pain 2) and patients with longstanding poor hypertension control. If in any doubt, the patient should have an estimated glomerular filtration rate (eGFR) blood test requested from the GP -a value of >60 is safe for NSAID use. Below this level, the GP should be asked for advice as to the best analgesia regime.",
+            "cite_spans": [
+                {
+                    "start": 283,
+                    "end": 285,
+                    "text": "12",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 415,
+                    "end": 422,
+                    "text": "Table 1",
+                    "ref_id": "TABREF0"
+                },
+                {
+                    "start": 495,
+                    "end": 501,
+                    "text": "Fig. 1",
+                    "ref_id": null
+                }
+            ],
+            "section": "Oral anticoagulant medicines and patients with bleeding tendencies"
+        },
+        {
+            "text": "Asthma can be exacerbated by NSAID medications; 13 avoid diclofenac use in asthmatics.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Asthma"
+        },
+        {
+            "text": "Patients with mild asthma are generally safe for short courses of ibuprofen of up to seven days in the doses recommended for moderate and severe pain. When advising patients to use ibuprofen beyond this, the patient must be given instructions to stop the ibuprofen and contact the prescriber immediately if their asthma control starts to deteriorate.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Mild asthma (blue and brown inhalers only)"
+        },
+        {
+            "text": "Patients with moderate asthma can be given NSAIDs in the regime for moderate dental pain (3 x 400 mg ibuprofen in 24 hours), but with instructions to stop the NSAID and contact the prescriber immediately if their asthma control starts to deteriorate.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Moderate asthma (blue and any other colour of inhaler)"
+        },
+        {
+            "text": "This includes patients who have had prednisolone use in last six months or any hospital admission for asthma. Do not use any NSAID drugs in these patients. Contact the patient's GP for an alternative analgesic regime.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Severe asthma"
+        },
+        {
+            "text": "Paracetamol is the safest analgesic to prescribe during pregnancy, but prolonged or very high doses can be associated with subsequent childhood asthma, particularly if taken in the second trimester. However, doses of up to 4 g daily remain to have any adverse effects proven. 3 Dentists should avoid prescribing NSAID medicines in pregnancy without first consulting the patient's GP. Alternative regimes available through the GP include 30/500 co-codamol or other opioid. The GP may still recommend using an NSAID regime such as that outlined for moderate dental pain, as NSAIDs are not absolutely contraindicated until 30 weeks' gestation and beyond. 14 Patients who are breastfeeding can be given NSAIDs, but the higher doses should only be used in exceptional circumstances and after discussion with the GP. Paracetamol is preferred.",
+            "cite_spans": [
+                {
+                    "start": 276,
+                    "end": 277,
+                    "text": "3",
+                    "ref_id": "BIBREF2"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Pregnancy"
+        },
+        {
+            "text": "Most of these patients will be taking a proton pump inhibitor (PPI) and this will protect from the gastric irritation associated with NSAIDs. In these cases, the dentist can use the NSAID regimes recommended for moderate and severe pain, but if the treatment course for severe dental pain is prolonged beyond two weeks, then the dentist should liaise with the GP to ensure no other gastric precautions are needed. If a patient is not taking a PPI and has a history of at least one episode of proven peptic ulcer disease (usually by previous endoscopy), has another risk factor for gastric bleeding such as an anticoagulant and is likely to be taking the NSAID for more than two weeks, the dentist should discuss the need for a PPI (omeprazole or lansoprazole) with the GP before prescribing, especially if the patient is already taking aspirin. 15 Box 1 gives risk groups for GI bleeding; patients should be considered high risk if they have a history of previous ulcer disease or more than two risk factors and at moderate risk if they have one or two risk factors. 3",
+            "cite_spans": [
+                {
+                    "start": 845,
+                    "end": 847,
+                    "text": "15",
+                    "ref_id": "BIBREF14"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Patients with a history of peptic ulcer disease"
+        },
+        {
+            "text": "Long-term use of NSAIDS may increase blood pressure and the impact of this effect varies from person to person. 16 For treatments of up to two weeks in a patient with properly treated hypertension and no renal disease, the recommendations for the use of NSAIDs in moderate and severe dental pain apply. If treatment is to continue after two weeks, the dentist should discuss management with the GP and the NSAID should continue as long as blood pressure monitoring and renal function monitoring is carried out regularly. The combination of NSAIDs, angiotensinconverting enzyme (ACE) inhibitors and diuretics can significantly increase the risk of kidney damage in some patients. 3 If blood pressure starts to rise or renal function ",
+            "cite_spans": [
+                {
+                    "start": 112,
+                    "end": 114,
+                    "text": "16",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 679,
+                    "end": 680,
+                    "text": "3",
+                    "ref_id": "BIBREF2"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Patients with treated and uncontrolled hypertension"
+        },
+        {
+            "text": "For dental pain in children, an appropriate five-day regimen is either:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Dental pain Treatment Dose for each age group"
+        },
+        {
+            "text": "Paracetamol (500 mg tablets, or 120 mg/5 ml or 250 mg/5 ml oral suspension), dose depending on age, up to four times daily (max = four doses in 24 hours) Patients with cardiac risk, significant cardiac failure with leg oedema, left ventricular dysfunction or peripheral oedema for any other reason These patients may deteriorate or have an acute cardiac event with moderate-to-highdose NSAID use, 17 and the risk depends upon the potency of the drug, the dose given and the duration of treatment. Ibuprofen should be restricted to a maximum of 1,200 mg daily and diclofenac should be avoided. 3 If there is a likelihood of the treatment extending beyond two weeks, then the patient's GP should be consulted about the benefit of using an alternative analgesic regime such as co-codamol 30/500 or another opioid.",
+            "cite_spans": [
+                {
+                    "start": 397,
+                    "end": 399,
+                    "text": "17",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 593,
+                    "end": 594,
+                    "text": "3",
+                    "ref_id": "BIBREF2"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Dental pain Treatment Dose for each age group"
+        },
+        {
+            "text": "Analgesia for children is an important part of paediatric dentistry. 18 Dentists can prescribe paracetamol and ibuprofen for use in children and the standard doses for each age group are given in Table 2 . Aspirin and diclofenac should not be used. Children should not be given prolonged courses of analgesia using this regime beyond two weeks without reassessing the possibility of early definitive dental care or discussion with the GP.",
+            "cite_spans": [
+                {
+                    "start": 69,
+                    "end": 71,
+                    "text": "18",
+                    "ref_id": "BIBREF17"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 196,
+                    "end": 203,
+                    "text": "Table 2",
+                    "ref_id": "TABREF2"
+                }
+            ],
+            "section": "Use of prolonged analgesia in children"
+        },
+        {
+            "text": "The medical conditions mentioned above will all occur in children; asthma, allergies and diabetes mellitus are the most frequently seen and the cautions above will apply.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Use of prolonged analgesia in children"
+        },
+        {
+            "text": "It is best with children to use a single analgesic -either paracetamol or ibuprofen, whichever works best for the individual child. An alternative regime is alternating paracetamol and ibuprofen at each dose. Combining paracetamol and ibuprofen is permitted in the same manner as in adults, using the age-specific paediatric dosages, but this runs the risk of confusion about the total dose of each drug given and the possibility of accidental overdose. Remember that the margin between safe and toxic drug doses is much lower in children.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Use of prolonged analgesia in children"
+        },
+        {
+            "text": "A dentist should not start a PPI in a child, and if the dentist has concerns about the need for a PPI, then the GP must be consulted.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Use of prolonged analgesia in children"
+        },
+        {
+            "text": "Dentists will be asked to provide high dosages of analgesics in the current COVID-19 situation. This will often involve using familiar drugs but in higher doses and for more prolonged periods. The dentist must be clear about the medical consequences of these prescribing changes, and the consequences and options in special medical groups, and must ensure to use the lowest effective dose for the shortest period possible. It is important that the analgesia regime is tailored to the patient's medical circumstances and, where appropriate, discussed with the patient's GP.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Summary"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Benefits and harms associated with analgesic medications used in the management of acute dental pain: An overview of systematic reviews",
+            "authors": [
+                {
+                    "first": "P A",
+                    "middle": [],
+                    "last": "Moore",
+                    "suffix": ""
+                },
+                {
+                    "first": "K M",
+                    "middle": [],
+                    "last": "Ziegler",
+                    "suffix": ""
+                },
+                {
+                    "first": "R D",
+                    "middle": [],
+                    "last": "Lipman",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Aminoshariae",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Carrasco-Labra",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Mariotti",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "J Am Dent Assoc",
+            "volume": "149",
+            "issn": "",
+            "pages": "256--265",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Management of Acute Dental Problems During COVID-19 Pandemic",
+            "authors": [],
+            "year": 2020,
+            "venue": "SDCEP",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "NSAIDS -prescribing issues",
+            "authors": [],
+            "year": 2019,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Analgesia for the cirrhotic patient: a literature review and recommendations",
+            "authors": [
+                {
+                    "first": "J P",
+                    "middle": [],
+                    "last": "Dwyer",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Jayasekera",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Nicoll",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "J Gastroenterol Hepatol",
+            "volume": "29",
+            "issn": "",
+            "pages": "1356--1360",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Paracetamol overdose secondary to dental pain: a case series",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Siddique",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Mahmood",
+                    "suffix": ""
+                },
+                {
+                    "first": "Mohammed-Ali",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Br Dent J",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/sj.bdj.2015.706"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Assessment of the efficacy and safety profiles of aspirin and acetaminophen with codeine: results from 2 randomized, controlled trials in individuals with tension-type headache and postoperative dental pain",
+            "authors": [
+                {
+                    "first": "S C",
+                    "middle": [],
+                    "last": "Gatoulis",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Voelker",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Fisher",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Clin Ther",
+            "volume": "34",
+            "issn": "",
+            "pages": "138--148",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "A narrative review of the cardiovascular risks associated with concomitant aspirin and NSAID use",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Gurbel",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Tantry",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Weisman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "J Thromb Thrombolysis",
+            "volume": "47",
+            "issn": "",
+            "pages": "16--30",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "The interaction of ibuprofen and diclofenac with aspirin in healthy volunteers",
+            "authors": [
+                {
+                    "first": "M P",
+                    "middle": [],
+                    "last": "Schuijt",
+                    "suffix": ""
+                },
+                {
+                    "first": "H W H A",
+                    "middle": [],
+                    "last": "Huntjens-Fleuren",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "De Metz",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Vollaard",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Br J Pharmacol",
+            "volume": "157",
+            "issn": "",
+            "pages": "931--934",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Dabigatran etexilate and concomitant use of non-steroidal anti-inflammatory drug or acetylsalicylic acid in patients undergoing total hip and total knee arthroplasty: no increased risk of bleeding",
+            "authors": [
+                {
+                    "first": "R J",
+                    "middle": [],
+                    "last": "Friedman",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kurth",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Clemens",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Noack",
+                    "suffix": ""
+                },
+                {
+                    "first": "B I",
+                    "middle": [],
+                    "last": "Eriksson",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Caprini",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Thromb Haemost",
+            "volume": "108",
+            "issn": "",
+            "pages": "183--190",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Assessment of stroke and bleeding risks",
+            "authors": [],
+            "year": 2014,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Management of Dental Patients Taking Anticoagulants or Antiplatelet Drugs: Dental Clinical Guidance",
+            "authors": [],
+            "year": 2015,
+            "venue": "SDCEP",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Identifying the cause(s) of acute kidney injury",
+            "authors": [],
+            "year": 2019,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Medication Use and Pain Management in Pregnancy: A Critical Review",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Black",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Khor",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Kennedy",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Pain Pract",
+            "volume": "19",
+            "issn": "",
+            "pages": "875--899",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Ulcer recurrence in high-risk patients receiving nonsteroidalanti-inflammatory drugs plus low-dose aspirin: results of a post HOC subanalysis",
+            "authors": [
+                {
+                    "first": "J L",
+                    "middle": [],
+                    "last": "Goldstein",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Amer",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Christopoulos",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Clin Ther",
+            "volume": "26",
+            "issn": "",
+            "pages": "1637--1643",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Use of Prescription Medications That Potentially Interfere With Blood Pressure Control in New-Onset Hypertension and Treatment-Resistant Hypertension",
+            "authors": [
+                {
+                    "first": "A Y",
+                    "middle": [],
+                    "last": "Hwang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C V",
+                    "middle": [],
+                    "last": "Dave",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Smith",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Am J Hypertens",
+            "volume": "31",
+            "issn": "",
+            "pages": "1324--1331",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Non-steroidal anti-inflammatory drugs and risk of heart failure in four European countries: nested case-control study",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Arf\u00e8",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Scotti",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Varas-Lorenzo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "BMJ",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1136/bmj.i4857"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Adolescents and Individuals with Special Health Care Needs",
+            "authors": [
+                {
+                    "first": "Aapd",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Pain Management in Infants",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF1": {
+            "text": "of gastroduodenal ulcer, GI bleeding or gastroduodenal perforation \u2022 Concomitant use of medications that are known to increase the likelihood of upper GI adverse events (for example, anticoagulants, corticosteroids, selective 5-hydroxytryptamine reuptake inhibitors) \u2022 A serious comorbidity, such as cardiovascular disease, hepatic or renal impairment (including dehydration), diabetes or hypertension \u2022 Heavy smoking \u2022 Excessive alcohol consumption \u2022 Previous adverse reaction to NSAIDs \u2022 Prolonged requirement for NSAIDs.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Analgesia for moderate and severe dental pain, adapted from SDCEP 2",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "Analgesia for children, adapted from SDCEP 2deteriorates, an alternative analgesic regime should be considered.Patients with uncontrolled hypertension (>140/90) should not be prescribed highdose ibuprofen (2,400 mg/day) or diclofenac without consulting the patient's GP.3",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}
