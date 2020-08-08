@@ -25,7 +25,7 @@ class SearchPage extends Component {
         const drug = this.props.match.params.drug
         const page = 1
         if(drug) {
-            axios.get('/' + drug + '/' + page)
+            axios.get('/search/' + drug + '/' + page)
             .then(res => {
                 this.setState({ results: res.data, drug: drug, lastSearch: drug, page: page, tab: 1 })
             })
@@ -46,7 +46,7 @@ class SearchPage extends Component {
     searchDrugHandler = () => {
         const drug = this.state.drug
         const page = this.state.page
-        axios.get('/' + drug + '/' + page)
+        axios.get('/search/' + drug + '/' + page)
             .then(res => {
                 this.setState({ results: res.data, lastSearch: drug, page: page, tab: 1 })
             })
@@ -64,7 +64,7 @@ class SearchPage extends Component {
         const drug = this.state.drug
         let page = this.state.page
         page = page + 1
-        axios.get('/' + drug + '/' + page)
+        axios.get('/search/' + drug + '/' + page)
             .then(res => {
                 this.setState({ results: res.data, lastSearch: drug, page: page })
             })
@@ -79,7 +79,7 @@ class SearchPage extends Component {
         if(page > 1) {
             page = page - 1
             console.log(this.state);
-            axios.get('/' + drug + '/' + page)
+            axios.get('/search/' + drug + '/' + page)
                 .then(res => {
                     this.setState({ results: res.data, lastSearch: drug, page: page })
                 })
@@ -101,7 +101,7 @@ class SearchPage extends Component {
         }
         else if (tab === 2) {
             newTab = 1
-            path += drug + '/' + page
+            path += 'search/' + drug + '/' + page
         } 
         axios.get(path)   
             .then(res => {

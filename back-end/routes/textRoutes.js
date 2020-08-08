@@ -3,5 +3,5 @@ module.exports = (app) => {
 
    app.get('/appathon/api/chart/:drug', getCount)
    app.get('/appathon/api/text/:text', getTextBody)
-   app.get('/appathon/api/:drug/:page', getTexts)
+   app.get('/appathon/api/search/:drug/:page', getTexts)
 }

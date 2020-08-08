@@ -18,6 +18,14 @@ async function getTexts (req, res) {
 
 exports.getTexts = getTexts
 
+async function getTextBody (req, res) {
+  const objID = req.params.text
+  let result = await Article.findOne({_id: objID}, {abstract: 0})
+  res.send(result)
+}
+
+exports.getTextBody = getTextBody
+
 async function getCount (req, res) {
   const drug = req.params.drug
 
@@ -39,11 +47,3 @@ async function getCount (req, res) {
 }
 
 exports.getCount = getCount
-
-async function getTextBody (req, res) {
-  const objID = req.params.text
-  let result = await Article.findOne({_id: objID}, {abstract: 0})
-  res.send(result)
-}
-
-exports.getTextBody = getTextBody
